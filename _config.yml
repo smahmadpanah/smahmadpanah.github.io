@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Mohammad M. Ahmadpanah"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Mohammad M. Ahmadpanah"
+description              : &description "Personal Website"
+url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "smahmadpanah/smahmadpanah.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "smahmadpanah"
 facebook:
-  username               :
+  username               : smahmadpanah
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -80,40 +80,42 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  name             : "Mohammad M. Ahmadpanah"
+  avatar           : "profile.jpg"
+  bio              : "PhD Student in Information Security at Chalmers"
+  #location         : "https://goo.gl/maps/K4dEV9YxipGBNrUS9"
+  #employer         : "chalmers"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=MvbjHQsAAAAJ&hl=en"
+  #email2            : "smahmadpanah@gmail.com"
+  email            : "mohammad.ahmadpanah@chalmers.se"
+  #email            : "smahmadpanah@aut.ac.ir"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "smahmadpanah"
   foursquare       :
-  github           : "academicpages"
+  github           : "smahmadpanah"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "smahmadpanah"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "smahmadpanah"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
-  soundcloud       :
+  soundcloud       : "smahmadpanah"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "smahmadpanah"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "smahmadpanah"
   wikipedia        :
 
 
