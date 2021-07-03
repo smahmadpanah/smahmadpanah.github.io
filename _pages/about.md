@@ -1,12 +1,35 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+**Hi!** I am Mohammad, a PhD student in [Information&nbsp;Security]() under the supervision of [Andrei&nbsp;Sabelfeld]() and [Daniel&nbsp;Hedin]() at [Chalmers]() in Sweden.
+Prior to that, I lived at [Tehran&nbsp;Polytechnic]() for 8 years (BSc in Software Engineering, MSc in Information Security, and PhD candidate in Software Engineering), where I found my passion for Language-Based Security, Information-Flow Security, and Formal Methods for Information Security under the supervision of [Mehran&nbsp;S.&nbsp;Fallah]().  
+
+
+Publications
+----
+0. Securing Node-RED Applications
+0. SandTrap
+0. Nontransitive Policies Transpiled
+{: reversed="reversed"}
+
+
+
+Teaching
+----
+- LBS
+- FAFL
+- PLT
+
+<!-- 
+Rest
+=====
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
@@ -24,6 +47,7 @@ Getting started
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
+{: reversed="reversed"}
 
 Site-wide configuration
 ------
@@ -48,3 +72,6 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+-->
+
