@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 **Hi!** I am Mohammad, a PhD student in [Information&nbsp;Security]() under the supervision of [Andrei&nbsp;Sabelfeld]() and [Daniel&nbsp;Hedin]() at [Chalmers]() in Sweden.
-Prior to that, I lived at [Tehran&nbsp;Polytechnic]() for 8 years (BSc in Software Engineering, MSc in Information Security, and PhD candidate in Software Engineering), where I found my passion for Language-Based Security, Information-Flow Security, and Formal Methods for Information Security under the supervision of [Mehran&nbsp;S.&nbsp;Fallah]().  
-
+Prior to that, I lived at [Tehran&nbsp;Polytechnic]() for 8 years (BSc in Software Engineering, MSc in Information Security, and PhD candidate in Software Engineering), where I found and pursued my passion for Language-Based Security, Information-Flow Security, and Formal Methods for Information Security under the supervision of [Mehran&nbsp;S.&nbsp;Fallah]().  
 
 Publications
 ----

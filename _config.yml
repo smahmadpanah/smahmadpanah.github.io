@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mohammad M. Ahmadpanah"
   avatar           : "profile.png"
-  bio              : "PhD Student<br>in Information&nbsp;Security<br>at Chalmers"
+  bio              : "PhD Student<br>in Information&nbsp;Security<br>at Chalmers<p style='margin-bottom: -7px;'></p><a href='https://www.chalmers.se/en'><img src='/images/chalmers.png' style='width:75px'></a>&nbsp;<a href='https://aut.ac.ir/en'><img src='/images/aut.png' style='width:75px'></a><p style='margin-bottom: -7px;'></p>"
   #location         : "https://goo.gl/maps/K4dEV9YxipGBNrUS9"
   #employer         : "chalmers"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
