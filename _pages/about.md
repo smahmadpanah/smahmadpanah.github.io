@@ -9,22 +9,39 @@ redirect_from:
 ---
 
 **Hi!** I am Mohammad, a PhD student in [Information&nbsp;Security]() under the supervision of [Andrei&nbsp;Sabelfeld]() and [Daniel&nbsp;Hedin]() at [Chalmers]() in Sweden.
-Prior to that, I lived at [Tehran&nbsp;Polytechnic]() for 8 years (BSc in Software Engineering, MSc in Information Security, and PhD candidate in Software Engineering), where I found and pursued my passion for Language-Based Security, Information-Flow Security, and Formal Methods for Information Security under the supervision of [Mehran&nbsp;S.&nbsp;Fallah]().  
+Prior to that, I lived at [Tehran&nbsp;Polytechnic (AUT)]() for 8 years (BSc in Software Engineering, MSc in Information Security, and PhD candidate in Software Engineering), where I found and pursued my passion for Language-Based Security, Information-Flow Security, and Formal Methods for Information Security under the supervision of [Mehran&nbsp;S.&nbsp;Fallah]().  
 
 Publications
 ----
-0. Securing Node-RED Applications
-0. SandTrap
-0. Nontransitive Policies Transpiled
+0. **Securing Node-RED Applications**, *under review*
+<br><ins>Mohammad M. Ahmadpanah</ins>, Musard Balliu, Daniel Hedin, Lars Eric Olsson, and Andrei Sabelfeld.
+0. **SandTrap: Securing JavaScript-driven Trigger-Action Platforms**, *USENIX Security'21*
+<br><ins>Mohammad M. Ahmadpanah</ins>, Daniel Hedin, Musard Balliu, Lars Eric Olsson, and Andrei Sabelfeld.
+0. **Nontransitive Policies Transpiled**, *EuroS&P'21*
+<br><ins>Mohammad M. Ahmadpanah</ins>, Aslan Askarov, and Andrei Sabelfeld.
 {: reversed="reversed"}
 
 
 
 Teaching
 ----
-- LBS
-- FAFL
-- PLT
+Chalmers:
+- Language-Based Security
+- Finite Automata and Formal Languages
+- Programming Language Technology
+
+Tehran Polytechnic: 
+- Advanced Programming
+- Operating Systems Lab.
+- Computer Lab.
+- Discrete Mathematics
+- Design of Programming Languages
+- Data Structures
+- Principles of Compiler Design
+- Computer Networks II
+- Information Storage and Retrieval
+- Software Engineering I
+- Computer Architecture
 
 <!-- 
 Rest
