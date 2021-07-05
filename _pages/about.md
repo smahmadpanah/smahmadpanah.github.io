@@ -9,19 +9,19 @@ redirect_from:
 ---
 
 **Hi!** I am Mohammad, a PhD student in [Information&nbsp;Security](http://www.chalmers.se/en/departments/cse/organisation/is/Pages/Staff.aspx) under the supervision of [Andrei&nbsp;Sabelfeld](https://www.cse.chalmers.se/~andrei/) and [Daniel&nbsp;Hedin](http://www.chalmers.se/en/staff/Pages/utter.aspx) at [Chalmers](https://www.chalmers.se/en) in Sweden.
-Prior to that, I lived at [Tehran&nbsp;Polytechnic (AUT)](https://aut.ac.ir/en) for 8 years (BSc in Software Engineering, MSc in Information Security, and PhD candidate in Software Engineering), where I found and pursued my passion for Language-Based Security, Information-Flow Security, and Formal Methods for Information Security under the supervision of [Mehran&nbsp;S.&nbsp;Fallah](https://ce.aut.ac.ir/formalsecurity).  
+Prior to that, I lived at [Tehran&nbsp;Polytechnic (AUT)](https://aut.ac.ir/en) for 8 years (BSc in Software Engineering, MSc in Information Security, and PhD candidate in Software Engineering), where I found and started pursuing my passion for Language-Based Security, Information-Flow Security, and Formal Methods for Information Security under the supervision of [Mehran&nbsp;S.&nbsp;Fallah](https://ce.aut.ac.ir/formalsecurity).  
 
 Publications
 ----
-0. **Securing Node-RED Applications**, *under review*
+0. **Securing Node-RED Applications**, *under review* [[pdf]()]
 <br><ins>Mohammad M. Ahmadpanah</ins>, Musard Balliu, Daniel Hedin, Lars Eric Olsson, and Andrei Sabelfeld
-0. **SandTrap: Securing JavaScript-driven Trigger-Action Platforms**, *USENIX Security'21*
+0. **SandTrap: Securing JavaScript-driven Trigger-Action Platforms**, *USENIX Security'21* [[pdf]()]
 <br><ins>Mohammad M. Ahmadpanah</ins>, Daniel Hedin, Musard Balliu, Lars Eric Olsson, and Andrei Sabelfeld
-0. **Nontransitive Policies Transpiled**, *EuroS&P'21*
+0. **Nontransitive Policies Transpiled**, *EuroS&P'21* [[pdf]()]
 <br><ins>Mohammad M. Ahmadpanah</ins>, Aslan Askarov, and Andrei Sabelfeld
-0. **Improving Multi-Execution-based Mechanisms for Enforcing Information Flow Policies**, *Master thesis*, 2017
+0. **Improving Multi-Execution-based Mechanisms for Enforcing Information Flow Policies**, *Master thesis*, 2017 [[pdf]()]
 <br>Supervisor: Mehran S. Fallah
-0. **A Tool for Rewriting-Based Enforcement of Noninterference in While Programs**, *Bachelor thesis*, 2015
+0. **A Tool for Rewriting-Based Enforcement of Noninterference in While Programs**, *Bachelor thesis*, 2015 [[pdf]()]
 <br>Supervisor: Mehran S. Fallah
 {: reversed="reversed"}
 
@@ -29,12 +29,12 @@ Publications
 
 Teaching
 ----
-Chalmers:
+### Chalmers:
 - Language-Based Security
 - Finite Automata and Formal Languages
 - Programming Language Technology
 
-Tehran Polytechnic: 
+### Tehran Polytechnic: 
 - Advanced Programming
 - Operating Systems Lab
 - Computer Lab
