@@ -124,8 +124,6 @@
 .author__bio {
   margin: 0;
 
-
-
   display: table-cell;
   vertical-align: top;
   width: 36px;
@@ -140,10 +138,14 @@
     margin-bottom: 20px;
   }
 
+
   img {
-    max-width: 75px;
+    max-width: 35px;
     margin-top: 10px;
+    @include breakpoint($medium) {
+    max-width: 50px;}
   }
+
 }
 
 .author__urls-wrapper {
