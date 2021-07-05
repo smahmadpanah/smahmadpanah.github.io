@@ -8,17 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-**Hi!** I am Mohammad, a PhD student in [Information&nbsp;Security]() under the supervision of [Andrei&nbsp;Sabelfeld]() and [Daniel&nbsp;Hedin]() at [Chalmers]() in Sweden.
-Prior to that, I lived at [Tehran&nbsp;Polytechnic (AUT)]() for 8 years (BSc in Software Engineering, MSc in Information Security, and PhD candidate in Software Engineering), where I found and pursued my passion for Language-Based Security, Information-Flow Security, and Formal Methods for Information Security under the supervision of [Mehran&nbsp;S.&nbsp;Fallah]().  
+**Hi!** I am Mohammad, a PhD student in [Information&nbsp;Security](http://www.chalmers.se/en/departments/cse/organisation/is/Pages/Staff.aspx) under the supervision of [Andrei&nbsp;Sabelfeld](https://www.cse.chalmers.se/~andrei/) and [Daniel&nbsp;Hedin](http://www.chalmers.se/en/staff/Pages/utter.aspx) at [Chalmers](https://www.chalmers.se/en) in Sweden.
+Prior to that, I lived at [Tehran&nbsp;Polytechnic (AUT)](https://aut.ac.ir/en) for 8 years (BSc in Software Engineering, MSc in Information Security, and PhD candidate in Software Engineering), where I found and pursued my passion for Language-Based Security, Information-Flow Security, and Formal Methods for Information Security under the supervision of [Mehran&nbsp;S.&nbsp;Fallah](https://ce.aut.ac.ir/formalsecurity).  
 
 Publications
 ----
 0. **Securing Node-RED Applications**, *under review*
-<br><ins>Mohammad M. Ahmadpanah</ins>, Musard Balliu, Daniel Hedin, Lars Eric Olsson, and Andrei Sabelfeld.
+<br><ins>Mohammad M. Ahmadpanah</ins>, Musard Balliu, Daniel Hedin, Lars Eric Olsson, and Andrei Sabelfeld
 0. **SandTrap: Securing JavaScript-driven Trigger-Action Platforms**, *USENIX Security'21*
-<br><ins>Mohammad M. Ahmadpanah</ins>, Daniel Hedin, Musard Balliu, Lars Eric Olsson, and Andrei Sabelfeld.
+<br><ins>Mohammad M. Ahmadpanah</ins>, Daniel Hedin, Musard Balliu, Lars Eric Olsson, and Andrei Sabelfeld
 0. **Nontransitive Policies Transpiled**, *EuroS&P'21*
-<br><ins>Mohammad M. Ahmadpanah</ins>, Aslan Askarov, and Andrei Sabelfeld.
+<br><ins>Mohammad M. Ahmadpanah</ins>, Aslan Askarov, and Andrei Sabelfeld
+0. **Improving Multi-Execution-based Mechanisms for Enforcing Information Flow Policies**, *Master thesis*, 2017
+<br>Supervisor: Mehran S. Fallah
+0. **A Tool for Rewriting-Based Enforcement of Noninterference in While Programs**, *Bachelor thesis*, 2015
+<br>Supervisor: Mehran S. Fallah
 {: reversed="reversed"}
 
 
@@ -32,8 +36,8 @@ Chalmers:
 
 Tehran Polytechnic: 
 - Advanced Programming
-- Operating Systems Lab.
-- Computer Lab.
+- Operating Systems Lab
+- Computer Lab
 - Discrete Mathematics
 - Design of Programming Languages
 - Data Structures
@@ -43,7 +47,17 @@ Tehran Polytechnic:
 - Software Engineering I
 - Computer Architecture
 
-<!-- 
+
+Honors and Awards
+----
+- Recognized as a Scientific Talent by the National Elite Foundation of Iran, 2018
+- Ranked Top 3% among Course Responsibles of Tehran Polytechnic, Spring 2018
+- The Best Teaching Assistant and Lab Instructor of Computer Engineering Department of Tehran Polytechnic, Spring 2016, Spring 2017, and Fall 2017
+- The 1st place of class '2015, 2016 and 2017
+- Direct Admission for Master and PhD studies at Tehran Polytechnic 
+
+
+<!--
 Rest
 =====
 
@@ -90,4 +104,5 @@ For more info
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
 -->
+
 
