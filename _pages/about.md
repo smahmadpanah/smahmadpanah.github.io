@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 **Hi!** I am Mohammad, a PhD student in [Information&nbsp;Security](http://www.chalmers.se/en/departments/cse/organisation/is/Pages/Staff.aspx) under the supervision of [Andrei&nbsp;Sabelfeld](https://www.cse.chalmers.se/~andrei/) and [Daniel&nbsp;Hedin](http://www.chalmers.se/en/staff/Pages/utter.aspx) at [Chalmers](https://www.chalmers.se/en) in Sweden, started in September 2019.
-Prior to that, I lived at [Tehran&nbsp;Polytechnic (AUT)](https://aut.ac.ir/en) for 8 years (BSc in Software Engineering, MSc in Information Security, and PhD candidate in Software Engineering), where I found and began pursuing my passion for Language-Based Security, Information-Flow Security, and Formal Methods for Information Security supervised by [Mehran&nbsp;S.&nbsp;Fallah](https://ce.aut.ac.ir/formalsecurity).  
+Prior to that, I lived at [Tehran&nbsp;Polytechnic (AUT)](https://aut.ac.ir/en) for 8 years (BSc in Software Engineering, MSc in Information Security, and PhD candidate in Software Engineering), where I found and began pursuing my passion for *Language-Based Security*, *Information-Flow Security*, and *Formal Methods for Information Security*, supervised by [Mehran&nbsp;S.&nbsp;Fallah](https://ce.aut.ac.ir/formalsecurity).
 
 Publications
 ----
@@ -27,35 +27,44 @@ Publications
 
 
 
+
+<style>
+.teach{ columns: 2}
+</style>
+
 Teaching
 ----
 ### Chalmers:
-- Language-Based Security
-- Finite Automata and Formal Languages
-- Programming Language Technology
+<ul class='teach' markdown='1'>
+<li>Language-Based Security</li>
+<li>Finite Automata and Formal Languages</li>
+<li>Programming Language Technology</li>
+</ul>
 
 ### Tehran Polytechnic: 
-- Advanced Programming
-- Operating Systems Lab
-- Computer Lab
-- Discrete Mathematics
-- Design of Programming Languages
-- Data Structures
-- Principles of Compiler Design
-- Computer Networks II
-- Information Storage and Retrieval
-- Software Engineering I
-- Computer Architecture
-
+<ul class='teach' markdown='1'>
+<li> Advanced Programming (*Course Responsible*)</li>
+<li> Operating Systems Lab (*Course Responsible*)</li>
+<li> Computer Lab (*Course Responsible*)</li>
+<li> Discrete Mathematics</li>
+<li> Design of Programming Languages</li>
+<li> Data Structures</li>
+<li> Principles of Compiler Design</li>
+<li> Computer Networks II</li>
+<li> Information Storage and Retrieval</li>
+<li> Software Engineering I</li>
+<li> Computer Architecture</li>
+</ul>
 
 Honors and Awards
 ----
+<div style='column-count:1; -webkit-columns:1; -moz-columns:1' markdown="1">
 - Recognized as a Scientific Talent by the National Elite Foundation of Iran, 2018
 - Ranked Top 3% among Course Responsibles of Tehran Polytechnic, Spring 2018
 - The Best Teaching Assistant and Lab Instructor of Computer Engineering Department of Tehran Polytechnic, Spring 2016, Spring 2017, and Fall 2017
 - The 1st place of class '2015, 2016 and 2017
 - Direct Admission for Master and PhD studies at Tehran Polytechnic 
-
+</div>
 
 <!--
 Rest
