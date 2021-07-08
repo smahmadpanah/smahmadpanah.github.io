@@ -43,9 +43,9 @@ Teaching
 
 ### Tehran Polytechnic: 
 <ul class='teach' markdown='1'>
-<li> Advanced Programming (*Course Responsible*)</li>
-<li> Operating Systems Lab (*Course Responsible*)</li>
-<li> Computer Lab (*Course Responsible*)</li>
+<li> Advanced Programming (<i style='font-size: 0.7em;'>Course Responsible</i>)</li>
+<li> Operating Systems Lab (<i style='font-size: 0.7em;'>Course Responsible</i>)</li>
+<li> Computer Lab (<i style='font-size: 0.7em;'>Course Responsible</i>)</li>
 <li> Discrete Mathematics</li>
 <li> Design of Programming Languages</li>
 <li> Data Structures</li>
@@ -58,13 +58,11 @@ Teaching
 
 Honors and Awards
 ----
-<div style='column-count:1; -webkit-columns:1; -moz-columns:1' markdown="1">
 - Recognized as a Scientific Talent by the National Elite Foundation of Iran, 2018
 - Ranked Top 3% among Course Responsibles of Tehran Polytechnic, Spring 2018
 - The Best Teaching Assistant and Lab Instructor of Computer Engineering Department of Tehran Polytechnic, Spring 2016, Spring 2017, and Fall 2017
 - The 1st place of class '2015, 2016 and 2017
 - Direct Admission for Master and PhD studies at Tehran Polytechnic 
-</div>
 
 <!--
 Rest
