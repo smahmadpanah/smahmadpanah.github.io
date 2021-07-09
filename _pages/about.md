@@ -43,9 +43,9 @@ Teaching
 
 ### Tehran Polytechnic: 
 <ul class='teach' markdown='1'>
-<li> Advanced Programming (<i style='font-size: 0.7em;'>Course Responsible</i>)</li>
-<li> Operating Systems Lab (<i style='font-size: 0.7em;'>Course Responsible</i>)</li>
-<li> Computer Lab (<i style='font-size: 0.7em;'>Course Responsible</i>)</li>
+<li> Advanced Programming (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
+<li> Operating Systems Lab (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
+<li> Computer Lab (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
 <li> Discrete Mathematics</li>
 <li> Design of Programming Languages</li>
 <li> Data Structures</li>
