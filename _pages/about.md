@@ -56,8 +56,9 @@ Teaching
 <li> Computer Architecture</li>
 </ul>
 
-Honors and Awards
+Honors
 ----
+**TODO**
 - Recognized as a Scientific Talent by the National Elite Foundation of Iran, 2018
 - Ranked Top 3% among Course Responsibles of Tehran Polytechnic, Spring 2018
 - The Best Teaching Assistant and Lab Instructor of Computer Engineering Department of Tehran Polytechnic, Spring 2016, Spring 2017, and Fall 2017
