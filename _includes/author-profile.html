@@ -23,19 +23,19 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       {% if author.employer %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
+        <li><i class="fa fa-fw fa-map" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
+      {% endif %}
+      {% if author.location %}
+        <li><a href="{{ author.location }}"><i class="fas fa-fw fa-map-marked-alt" aria-hidden="true"></i> Location</a></li>
       {% endif %}
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
       {% if author.gmail %}
         <li><a href="mailto:{{ author.gmail }}"><i class="fab fa-fw fa-google" aria-hidden="true"></i> Gmail</a></li>
-      {% endif %}
-      {% if author.location %}
-        <li><a href="{{ author.location }}"><i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> Location</a></li>
       {% endif %}
       {% if author.phone %}
         <li><a href="tel:{{ author.phone }}"><i class="fas fa-fw fa-phone" aria-hidden="true"></i> Phone</a></li>
@@ -47,7 +47,7 @@
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i>  Scholar</a></li>
+        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar-square ai-fw"></i>  Scholar</a></li>
       {% endif %}
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
@@ -97,14 +97,14 @@
       {% if author.youtube %}
         <li><a href="https://www.youtube.com/user/{{ author.youtube }}"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i> YouTube</a></li>
       {% endif %}
-      {% if author.soundcloud %}
-        <li><a href="https://soundcloud.com/{{ author.soundcloud }}"><i class="fab fa-fw fa-soundcloud" aria-hidden="true"></i> Soundcloud</a></li>
-      {% endif %}
       {% if author.weibo %}
         <li><a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo" aria-hidden="true"></i> Weibo</a></li>
       {% endif %}
-      {% if author.flickr %}
-        <li><a href="https://www.flickr.com/{{ author.flickr }}"><i class="fab fa-fw fa-flickr" aria-hidden="true"></i> Flickr</a></li>
+      {% if author.telegram %}
+        <li><a href="https://t.me/{{ author.telegram }}"><i class="fab fa-fw fa-telegram" aria-hidden="true"></i> Telegram</a></li>
+      {% endif %}
+      {% if author.soundcloud %}
+        <li><a href="https://soundcloud.com/{{ author.soundcloud }}"><i class="fab fa-fw fa-soundcloud" aria-hidden="true"></i> Soundcloud</a></li>
       {% endif %}
       {% if author.codepen %}
         <li><a href="https://codepen.io/{{ author.codepen }}"><i class="fab fa-fw fa-codepen" aria-hidden="true"></i> CodePen</a></li>
