@@ -25,7 +25,10 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
 <script>
- if (!window.location.port.match("4000")) window.location.protocol='https:'
+  console.log(window.location);
+  console.log(window.location.protocol);
+  console.log(!window.location.port.match("4000"));
+  if (window.location.protocol.match('http:') && !window.location.port.match("4000")) window.location.protocol='https:'
 </script>
 
 
