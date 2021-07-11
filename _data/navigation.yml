@@ -1,24 +1,24 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  #- title: "Publications"
+  #  url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/
+  #- title: "Teaching"
+  #  url: /teaching/
 
-  - title: "Talks"
-    url: /talks/    
+  #- title: "Talks"
+  #  url: /talks/    
 
     
     
-  - title: "Honors"
-    url: /honors/
+  #- title: "Honors"
+  #  url: /honors/
         
-  - title: "Other"
-    url: /other/
+  #- title: "Other"
+  #  url: /other/
     
-  - title: "CV"
-    url: /files/Ahmadpanah-Short-CV.pdf
+  #- title: "CV"
+  #  url: /files/Ahmadpanah-Short-CV.pdf
     
 #  - title: "Guide"
 #   url: /markdown/

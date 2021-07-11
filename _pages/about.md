@@ -15,13 +15,13 @@ Publications
 ----
 0. **Securing Node-RED Applications**, *under review* [[pdf]()]
 <br><i>Mohammad M. Ahmadpanah</i>, Musard Balliu, Daniel Hedin, Lars Eric Olsson, and Andrei Sabelfeld
-0. **SandTrap: Securing JavaScript-driven Trigger-Action Platforms**, *USENIX Security'21* [[pdf]()]
+0. **SandTrap: Securing JavaScript-driven Trigger-Action Platforms**, *USENIX Security'21* [[pdf](/papers/usenix21.pdf)]
 <br><i>Mohammad M. Ahmadpanah</i>, Daniel Hedin, Musard Balliu, Lars Eric Olsson, and Andrei Sabelfeld
-0. **Nontransitive Policies Transpiled**, *EuroS&P'21* [[pdf]()]
+0. **Nontransitive Policies Transpiled**, *EuroS&P'21* [[pdf](/papers/eurosp21.pdf)]
 <br><i>Mohammad M. Ahmadpanah</i>, Aslan Askarov, and Andrei Sabelfeld
-0. **Improving Multi-Execution-based Mechanisms for Enforcing Information Flow Policies**, *Master thesis*, 2017 [[pdf]()]
+0. **Improving Multi-Execution-based Mechanisms for Enforcing Information Flow Policies**, *Master's thesis*, 2017 [[pdf](https://github.com/smahmadpanah/MScDocuments/blob/master/Thesis/Thesis.pdf)]
 <br>Supervisor: Mehran S. Fallah
-0. **A Tool for Rewriting-Based Enforcement of Noninterference in While Programs**, *Bachelor thesis*, 2015 [[pdf]()]
+0. **A Tool for Rewriting-Based Enforcement of Noninterference in While Programs**, *Bachelor's thesis*, 2015 [[pdf](https://github.com/smahmadpanah/BScProject/blob/master/Final%20Documents/Thesis.pdf)]
 <br>Supervisor: Mehran S. Fallah
 {: reversed="reversed"}
 
@@ -58,12 +58,16 @@ Teaching
 
 Honors
 ----
-**TODO**
-- Recognized as a Scientific Talent by the National Elite Foundation of Iran, 2018
-- Ranked Top 3% among Course Responsibles of Tehran Polytechnic, Spring 2018
-- The Best Teaching Assistant and Lab Instructor of Computer Engineering Department of Tehran Polytechnic, Spring 2016, Spring 2017, and Fall 2017
-- The 1st place of class '2015, 2016 and 2017
-- Direct Admission for Master and PhD studies at Tehran Polytechnic 
+- Scientific Talent by the National Elite Foundation of Iran, 2018
+- Top 3% among Course Responsibles, Tehran Polytechnic, Spring 2018
+- The Best Teaching Assistant and Lab Instructor of the Department, Tehran Polytechnic, 2016 and 2017
+- The 1st place among Master's students in Information Security, 2016 and 2017
+- Recipient of the Outstanding Graduate Student Scholarship, Tehran Polytechnic, 2016
+- Direct Admission for Master and PhD studies, Tehran Polytechnic, 2015 and 2017
+- The Youngest Course Responsible (at age 22), Lab Instructor (at age 20) and
+Teaching Assistant (at age 16), Tehran Polytechnic 
+- Member of the university team for the National Scientific Olympiad in Computer Engineering, Tehran Polytechnic, 2014
+- Skipped Three grades of Elementary School as an Exceptional Talent, 2002
 
 <!--
 Rest
