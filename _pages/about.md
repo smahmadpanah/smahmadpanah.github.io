@@ -32,7 +32,7 @@ Prior to that, I lived at [Tehran&nbsp;Polytechnic (AUT)](https://aut.ac.ir/en) 
 .teach{ columns: 2}
 </style>
 
-Teaching
+<a href="/teaching" style="color:#494e52; ">Teaching</a>
 ----
 ### Chalmers:
 <ul class='teach' markdown='1'>
@@ -56,16 +56,19 @@ Teaching
 <li> Computer Architecture</li>
 </ul>
 
-Honors
+<a href="/honors" style="color:#494e52; ">Honors and Activities</a>
 ----
+- Member of <a href="https://www.cse.chalmers.se/research/group/security/websec/">WebSec Project</a> and <a href="https://www.cse.chalmers.se/research/group/security/people/">Chalmers Security Lab</a>, Chalmers, since September 2019
+- The 2nd place among PhD students of the department, Tehran Polytechnic, 2019
 - Scientific Talent by the National Elite Foundation of Iran, 2018
 - Top 3% among Course Responsibles, Tehran Polytechnic, Spring 2018
-- The Best Teaching Assistant and Lab Instructor of the Department, Tehran Polytechnic, 2016 and 2017
+- The Best Teaching Assistant and Lab Instructor of the department, Tehran Polytechnic, 2016 and 2017
 - The 1st place among Master's students in Information Security, 2016 and 2017
 - Recipient of the Outstanding Graduate Student Scholarship, Tehran Polytechnic, 2016
 - Direct Admission for Master and PhD studies, Tehran Polytechnic, 2015 and 2017
 - The Youngest Course Responsible (at age 22), Lab Instructor (at age 20) and
 Teaching Assistant (at age 16), Tehran Polytechnic 
+- Member of <a href="http://ceit.aut.ac.ir/formalsecurity/people.html">Formal Security Lab</a>, Tehran Polytechnic, 2015 - 2019
 - Member of the university team for the National Scientific Olympiad in Computer Engineering, Tehran Polytechnic, 2014
 - Skipped Three grades of Elementary School as an Exceptional Talent, 2002
 
