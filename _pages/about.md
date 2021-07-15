@@ -58,8 +58,11 @@ Prior to that, I lived at [Tehran&nbsp;Polytechnic (AUT)](https://aut.ac.ir/en) 
 
 <a href="/honors" style="color:#494e52; ">Honors and Activities</a>
 ----
+
+- Recipient of the Adlerbert Foreign Student Hospitality Foundation grant, 2021
+- The External Reviewer of the conference flagships <a href="https://www.sigsac.org/ccs/CCS2019/">CCS'19</a>, <a href="http://www.ieee-security.org/TC/EuroSP2020/">EuroS&P'20</a>, <a href="https://www.ieee-security.org/TC/CSF2020/">CSF'20</a>, <a href="https://www.ieee-security.org/TC/SP2020/">S&P'20</a>
 - Member of <a href="https://www.cse.chalmers.se/research/group/security/websec/">WebSec Project</a> and <a href="https://www.cse.chalmers.se/research/group/security/people/">Chalmers Security Lab</a>, Chalmers, since September 2019
-- The 2nd place among PhD students of the department, Tehran Polytechnic, 2019
+- The 2nd place among PhD students of the department, Tehran Polytechnic, 2018 and 2019
 - Scientific Talent by the National Elite Foundation of Iran, 2018
 - Top 3% among Course Responsibles, Tehran Polytechnic, Spring 2018
 - The Best Teaching Assistant and Lab Instructor of the department, Tehran Polytechnic, 2016 and 2017
