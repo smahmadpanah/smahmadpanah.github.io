@@ -3,15 +3,15 @@ main:
   - title: "Publications"
     url: /publications/
 
-  #- title: "Teaching"
-  #  url: /teaching/
+  - title: "Teaching"
+    url: /teaching/
 
   #- title: "Talks"
   #  url: /talks/    
 
     
     
-  - title: "Honors"
+  - title: "Honors and Activities"
     url: /honors/
         
   #- title: "Other"
