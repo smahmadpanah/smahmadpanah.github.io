@@ -4,6 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+  $(document).ready(function () {
+    $(".abstract").hide();
+    $(".button").on("click", function () {
+        $(this).next(".abstract").slideToggle(400);
+    });
+});
+</script>
 
 
 <style>
@@ -90,21 +99,7 @@ using Program Dependence Graphs (PDG) to enforce progress-sensitive and -insensi
 
 
 
-<script>
-$(document).ready(function () {
-    $(".abstract").hide();
 
-    $(".button").on("click", function () {
-
-        // var txt = $(".abstract").is(':visible') ? 'abstract' : 'abstract';
-        // $(".button").text(txt);
-        // $(".button").css("cursor", "pointer");
-        // $(".button").css("color", "#0f81a2");
-
-        $(this).next('.abstract').slideToggle(400);
-    });
-});
-</script>
 
 <!-- 
 {% include base_path %}
