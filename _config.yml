@@ -84,16 +84,16 @@ author:
   avatar           : "profile.png"
   bio              : "PhD Student in Information&nbsp;Security<br><a href='https://www.chalmers.se/en'><img src='/images/chalmers.png'></a>&nbsp;&nbsp;<a href='https://aut.ac.ir/en'><img src='/images/aut.png'></a>"
   location         : "https://goo.gl/maps/ZxJrHZxG96hMjhjS8"
-  #employer         : "chalmers"
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #employer        : "chalmers"
+  #pubmed          : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=MvbjHQsAAAAJ&hl=en"
   gmail            : "smahmadpanah@gmail.com"
   email            : "mohammad.ahmadpanah@chalmers.se"
-  #email            : "smahmadpanah@aut.ac.ir"
+  #email           : "smahmadpanah@aut.ac.ir"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  #bitbucket        : 
-  skype          : "smahmadpanah"
+  #bitbucket       : 
+  skype            : "smahmadpanah"
   phone            : "+46317721114"
   telegram         : "smahmadpanah"
   facebook         : "smahmadpanah"
@@ -112,7 +112,7 @@ author:
   steam            :
   tumblr           :
   twitter          : "smahmadpanah"
-  vine              :
+  spotify          : "smahmadpanah"
   weibo            :
   xing             :
   youtube          : #"Vv0cixelYXcPL1WJAHo_uQ"

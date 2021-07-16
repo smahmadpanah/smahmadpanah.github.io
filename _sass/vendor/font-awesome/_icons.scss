@@ -1010,7 +1010,7 @@ readers do not read off random characters that represent icons */
 .#{$fa-css-prefix}-spider:before { content: fa-content($fa-var-spider); }
 .#{$fa-css-prefix}-spinner:before { content: fa-content($fa-var-spinner); }
 .#{$fa-css-prefix}-splotch:before { content: fa-content($fa-var-splotch); }
-.#{$fa-css-prefix}-spotify:before { content: fa-content($fa-var-spotify); }
+.#{$fa-css-prefix}-spotify:before { color: #65D36E; content: fa-content($fa-var-spotify); }
 .#{$fa-css-prefix}-spray-can:before { content: fa-content($fa-var-spray-can); }
 .#{$fa-css-prefix}-square:before { content: fa-content($fa-var-square); }
 .#{$fa-css-prefix}-square-full:before { content: fa-content($fa-var-square-full); }
