@@ -8,8 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-**Hi!** I am Mohammad, a PhD student in [Information&nbsp;Security](https://www.chalmers.se/en/departments/cse/organisation/is/Pages/Staff.aspx) under the supervision of [Andrei&nbsp;Sabelfeld](https://www.cse.chalmers.se/~andrei/) and [Daniel&nbsp;Hedin](https://www.chalmers.se/en/staff/Pages/utter.aspx) at [Chalmers](https://www.chalmers.se/en) in Sweden, started in September 2019.
-Prior to that, I lived at [Tehran&nbsp;Polytechnic (AUT)](https://aut.ac.ir/en) for 8 years (BSc in Software Engineering, MSc in Information Security, and PhD candidate in Software Engineering), where I found and began pursuing my passion for *Language-Based Security*, *Information-Flow Security*, and *Formal Methods for Information Security*, supervised by [Mehran&nbsp;S.&nbsp;Fallah](https://ce.aut.ac.ir/formalsecurity).
+**Hi!** This is Mohammad and my full name is *Seyed Mohammad Mehdi Ahmadpanah* (In Persian: <span style="font-family:PERSWEB; font-weight: bold; font-size:11pt;">سید محمدمهدی احمدپناه</span> 
+<span><audio id="player" src="files/my-name.wav"></audio>
+<img src="/images/speaker.png" style="width:20px; cursor:pointer;" onclick="document.getElementById('player').play()"></span>). I am a PhD student in [Information&nbsp;Security](https://www.chalmers.se/en/departments/cse/organisation/is/Pages/Staff.aspx) under the supervision of [Andrei&nbsp;Sabelfeld](https://www.cse.chalmers.se/~andrei/) and [Daniel&nbsp;Hedin](https://www.chalmers.se/en/staff/Pages/utter.aspx) at [Chalmers](https://www.chalmers.se/en) in Sweden, started in September 2019.
+Prior to that, I lived at [Tehran&nbsp;Polytechnic (AUT)](https://aut.ac.ir/en) for 8 years (BSc in Software Engineering, MSc in Information Security, and PhD candidate in Software Engineering), supervised by [Mehran&nbsp;S.&nbsp;Fallah](https://ce.aut.ac.ir/formalsecurity). Since then, I have been pursuing my passion for:
+<ul class='twocol' style="width:72%; margin-top: -1%;" markdown='1'>
+<li> Language-Based Security</li>
+<li> Information-Flow Security</li>
+<li> Formal Methods for Information Security</li>
+<li> Programming Languages</li>
+</ul>
 
 <a href="/publications" style="color:#494e52; ">Publications</a>
 ----
@@ -29,20 +37,20 @@ Prior to that, I lived at [Tehran&nbsp;Polytechnic (AUT)](https://aut.ac.ir/en) 
 
 
 <style>
-.teach{ columns: 2}
+.twocol{ columns: 2}
 </style>
 
 <a href="/teaching" style="color:#494e52; ">Teaching</a>
 ----
 ### Chalmers:
-<ul class='teach' markdown='1'>
+<ul class='twocol' markdown='1'>
 <li>Language-Based Security</li>
 <li>Finite Automata and Formal Languages</li>
 <li>Programming Language Technology</li>
 </ul>
 
 ### Tehran Polytechnic: 
-<ul class='teach' markdown='1'>
+<ul class='twocol' markdown='1'>
 <li> Advanced Programming (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
 <li> Operating Systems Lab (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
 <li> Computer Lab (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
