@@ -6,19 +6,18 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  #- title: "Talks"
-  #  url: /talks/    
-
-    
-    
   - title: "Honors and Activities"
     url: /honors/
+
+  - title: "Booklets"
+    url: /booklets/
         
-  #- title: "Other" cv writing/booklet/other links such as against plagirism
-  #  url: /other/
+  - title: "Others"
+    url: /others/
     
-  #- title: "CV"
-  #  url: /files/Ahmadpanah-Short-CV.pdf
+  - title: "CV"
+    url: /cv/
     
-#  - title: "Guide"
-#   url: /markdown/
+
+  #- title: "Talks"
+  #  url: /talks/    

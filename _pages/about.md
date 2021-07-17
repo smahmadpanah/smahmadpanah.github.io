@@ -14,8 +14,8 @@ redirect_from:
 Prior to that, I lived at [Tehran&nbsp;Polytechnic (AUT)](https://aut.ac.ir/en) for 8 years (BSc in Software Engineering, MSc in Information Security, and PhD candidate in Software Engineering), supervised by [Mehran&nbsp;S.&nbsp;Fallah](https://ce.aut.ac.ir/formalsecurity). Since then, I have been pursuing my passion for:
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
 <li> Language-Based Security</li>
-<li> Information-Flow Security</li>
 <li> Formal Methods for Information Security</li>
+<li> Information-Flow Security</li>
 <li> Programming Languages</li>
 </ul>
 
