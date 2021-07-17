@@ -5,16 +5,15 @@ main:
 
   - title: "Teaching"
     url: /teaching/
-    
+
   - title: "Honors and Activities"
     url: /honors/
 
   - title: "Booklets"
     url: /booklets/
-        
+
   - title: "Others"
     url: /others/
-    
+
   - title: "CV"
     url: /cv/
-    

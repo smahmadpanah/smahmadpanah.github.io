@@ -51,5 +51,3 @@ Lecturer: Mehran S. Fallah, *Spring 2018*
 *Fall 2013*
 
 [see all of the booklets...](https://ce.aut.ac.ir/~mehdi/Booklet)
-
-
