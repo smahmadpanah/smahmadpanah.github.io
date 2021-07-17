@@ -8,6 +8,12 @@ author_profile: true
 
 <ul>
 
+
+
+
+
+
+
 <li><b>Recipient</b> of the <a href="http://adlerbertska.se/en/hospitality/the-foundation/">Adlerbert Foreign Student Hospitality Foundation</a> grant, 2021.</li>
 
 <li><b>External Reviewer</b> of the conference flagships <a href="https://www.sigsac.org/ccs/CCS2019/">CCS'19</a>, <a href="http://www.ieee-security.org/TC/EuroSP2020/">EuroS&P'20</a>, <a href="https://www.ieee-security.org/TC/CSF2020/">CSF'20</a>, <a href="https://www.ieee-security.org/TC/SP2020/">S&P'20</a>.</li>
@@ -20,6 +26,17 @@ author_profile: true
 
 <li>Achieved the <b>2nd</b> place among <em>Ph.D. students</em> of the Department of Computer Engineering, Tehran Polytechnic, 2018 and 2019.</li>
 
+<li><b>Technical Referee</b> and <b>Consultant</b> in Web Application Security, <a href="https://kolahsefid.org/">Kolah Sefid</a> (Bug Bounty Platform), September 2018 - July 2019.</li>
+
+
+<li><b>Security Consultant</b> and Provider of Security Protection Profiles, <a href="http://knsecure.com/">Kahkeshan Moshaver</a>, June 2018 - July 2019.
+</li>
+
+<li>Web Application <b>Security Tester</b>, <b>Developer</b> and <b>Instructor</b>, 
+<a href="https://apa.aut.ac.ir/">AUT CERT Lab</a>, Summer 2015 and September 2018 - July 2019.
+</li>
+
+
 <li>Ranked top <b>3%</b> among <em>Course Responsibles</em> of all departments of the university (830 lecturers), according to the student evaluation for teaching Advanced Programming,
 Tehran Polytechnic, Spring 2018.</li>
 
@@ -31,6 +48,9 @@ Tehran Polytechnic, Spring 2018.</li>
 <li>Offered for <b>Direct Admission</b> to graduate school (<em>Ph.D.</em>) in Computer Engineering - Software, from two top universities of Iran, <b>University of Tehran</b> and
 <b>Tehran Polytechnic</b>, without taking the Nationwide University Entrance Exam for Ph.D. as a reward of academic records and achievements, 2017.</li>
 
+<li><b>Founder</b> and Ex-Coordinator of <a href="http://ceit.aut.ac.ir/~gradtalk">Grad Talks</a>, Computer Engineering Department, Tehran Polytechnic, since 2017.</li>
+
+
 <li>Ranked <b>1st</b> and <b>2nd</b> among all Laboratory Instructors in different topics of
 Computer Engineering and IT Department, according to the student evaluation
 for teaching <em>Computer Lab</em> and <em>Operating Systems Lab</em>, respectively, Tehran Polytechnic, Fall 2016.</li>
@@ -38,16 +58,19 @@ for teaching <em>Computer Lab</em> and <em>Operating Systems Lab</em>, respectiv
 <li>Announced as the <b>Outstanding Student</b> and Achieved the <b>1st</b> place among 2015-
 entries in Information Security major, Tehran Polytechnic, 2016 and 2017.</li>
 
-<li> Awarded <b>Outstanding Graduate Student Scholarship</b>, Tehran Polytechnic, 2016.</li>
+<li>Awarded <b>Outstanding Graduate Student Scholarship</b>, Tehran Polytechnic, 2016.</li>
 
-<li> <b>Member</b> of <a href="https://csi.org.ir/en/">The Computer Society of Iran</a>, since 2016.</li>
+<li><b>Member</b> of <a href="https://csi.org.ir/en/">The Computer Society of Iran</a>, since 2016.</li>
+
+<li><b>Consultant</b> of <a href="https://ceit-ssc.ir/en">The Student Scientific Association</a>, Computer Engineering Department, Tehran Polytechnic, since 2016.</li>
+
 
 
 <li> Admitted to <b>Tarbiat-Modares University</b> and Achieved the <b>43rd</b> place among all
 applicants of the Nationwide University Entrance Exam for M.Sc. in Information
 Technology (approximately 30000 applicants), Iran, 2015.</li>
 
-<li> Honored as an <b>Active Member</b> of <a href="https://ceit-ssc.ir/en/club-members/#anjoman_old_members">Student Scientific Association of Computer Engineering and IT Department</a> (Announced as <b>The best</b> Student Scientific Association of the University), Tehran Polytechnic, 2015.</li>
+<li> Honored as an <b>Active Member</b> of <a href="https://ceit-ssc.ir/en/club-members/#anjoman_old_members">The Student Scientific Association</a> of Computer Engineering Department (Announced as <b>The best</b> Student Scientific Association of the University), Tehran Polytechnic, 2015.</li>
 
 <li> Elected as <em>The Most Polite</em> and <em>The Most Online</em> student among all undergraduate 2011-entries of Computer Engineering and IT Department, Tehran Polytechnic, 2015.
 </li>
