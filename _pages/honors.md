@@ -26,7 +26,7 @@ author_profile: true
 
 <li>Achieved the <b>2nd</b> place among <em>Ph.D. students</em> of the Department of Computer Engineering, Tehran Polytechnic, 2018 and 2019.</li>
 
-<li>Honored as the <b>Best Teaching Assistant</b> of Computer Engineering and IT Department, according to the student evaluation for <em>Discrete Mathematics</em> (Spring
+<li>Honored as the <b>Best Teaching Assistant</b> of Computer Engineering Department, according to the student evaluation for <em>Discrete Mathematics</em> (Spring
 2017 and Spring 2019) and <em>Data Structures</em> (Fall 2017) courses, Tehran Polytechnic.</li>
 
 <li><b>Technical Referee</b> and <b>Consultant</b> in Web Application Security, <a href="https://kolahsefid.org/">Kolah Sefid</a> (Bug Bounty Platform), September 2018 - July 2019.</li>
@@ -54,7 +54,7 @@ Tehran Polytechnic, Spring 2018.</li>
 
 
 <li>Ranked <b>1st</b> and <b>2nd</b> among all Laboratory Instructors in different topics of
-Computer Engineering and IT Department, according to the student evaluation
+Computer Engineering Department, according to the student evaluation
 for teaching <em>Computer Lab</em> and <em>Operating Systems Lab</em>, respectively, Tehran Polytechnic, Fall 2016.</li>
 
 <li>Announced as the <b>Outstanding Student</b> and Achieved the <b>1st</b> place among 2015-
@@ -74,12 +74,12 @@ Technology (approximately 30000 applicants), Iran, 2015.</li>
 
 <li> Honored as an <b>Active Member</b> of <a href="https://ceit-ssc.ir/en/club-members/#anjoman_old_members">The Student Scientific Association</a> of Computer Engineering Department (Announced as <b>The best</b> Student Scientific Association of the University), Tehran Polytechnic, 2015.</li>
 
-<li> Elected as <em>The Most Polite</em> and <em>The Most Online</em> student among all undergraduate 2011-entries of Computer Engineering and IT Department, Tehran Polytechnic, 2015.
+<li> Elected as <em>The Most Polite</em> and <em>The Most Online</em> student among all undergraduate 2011-entries of Computer Engineering Department, Tehran Polytechnic, 2015.
 </li>
 
-<li> <b>Member</b> of <a href="http://ceit.aut.ac.ir/formalsecurity/people.html">Formal Security Lab</a>, Computer Engineering and IT Department, Tehran Polytechnic, March 2015 - September 2019.</li>
+<li> <b>Member</b> of <a href="http://ceit.aut.ac.ir/formalsecurity/people.html">Formal Security Lab</a>, Computer Engineering Department, Tehran Polytechnic, March 2015 - September 2019.</li>
 
-<li> Qualified for <b>Direct Admission</b> to graduate school (<em>M.Sc.</em>) of Computer Engineering and IT Department, Tehran Polytechnic, without
+<li> Qualified for <b>Direct Admission</b> to graduate school (<em>M.Sc.</em>) of Computer Engineering Department, Tehran Polytechnic, without
 taking the Nationwide University Entrance Exam for M.Sc. as a reward of academic records and achievements, 2014.</li>
 
 <li> Selected as a member of the university team for the <b>National Scientific Olympiad</b>
