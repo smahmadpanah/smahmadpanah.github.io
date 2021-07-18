@@ -9,6 +9,8 @@ author_profile: true
 .farsi{ font-family:PERSWEB; font-weight: bold; font-size:11pt;}
 </style>
 
+**<ins>Note</ins>**: all the booklets are in Persian!
+
 - Program Analysis (<span class='farsi'>تحلیل برنامه</span>) [[pdf](https://ce.aut.ac.ir/~mehdi/Booklet/ProgramAnalysis.pdf)]
 <br>
 Lecturer: Mehran S. Fallah, *Spring 2018*
