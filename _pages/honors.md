@@ -26,6 +26,9 @@ author_profile: true
 
 <li>Achieved the <b>2nd</b> place among <em>Ph.D. students</em> of the Department of Computer Engineering, Tehran Polytechnic, 2018 and 2019.</li>
 
+<li>Honored as the <b>Best Teaching Assistant</b> of Computer Engineering and IT Department, according to the student evaluation for <em>Discrete Mathematics</em> (Spring
+2017 and Spring 2019) and <em>Data Structures</em> (Fall 2017) courses, Tehran Polytechnic.</li>
+
 <li><b>Technical Referee</b> and <b>Consultant</b> in Web Application Security, <a href="https://kolahsefid.org/">Kolah Sefid</a> (Bug Bounty Platform), September 2018 - July 2019.</li>
 
 
@@ -42,8 +45,7 @@ Tehran Polytechnic, Spring 2018.</li>
 
   <li>Known as the <b>Youngest</b> <em>Course Responsible</em> (at age 22), <em>Lab Instructor</em> (at age 20) and <em>Teaching Assistant</em> (at age 16), Tehran Polytechnic.</li>
 
-  <li>Honored as the <b>Best Teaching Assistant</b> of Computer Engineering and IT Department, according to the student evaluation for <em>Discrete Mathematics</em> (Spring
-2017) and <em>Data Structures</em> (Fall 2017) courses, Tehran Polytechnic.</li>
+
 
 <li>Offered for <b>Direct Admission</b> to graduate school (<em>Ph.D.</em>) in Computer Engineering - Software, from two top universities of Iran, <b>University of Tehran</b> and
 <b>Tehran Polytechnic</b>, without taking the Nationwide University Entrance Exam for Ph.D. as a reward of academic records and achievements, 2017.</li>
