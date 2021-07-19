@@ -26,11 +26,11 @@ Prior to that, I lived at [Tehran&nbsp;Polytechnic (AUT)](https://aut.ac.ir/en) 
 <a href="/publications" style="color:#494e52; ">Publications</a>
 ----
 0. **Securing Node-RED Applications**, *Festschrift in honor of Joshua Guttman'21* [[pdf]()]
-<br><ins>Mohammad M. Ahmadpanah</ins>, Musard Balliu, Daniel Hedin, Lars Eric Olsson, and Andrei Sabelfeld
+<br><i>Mohammad M. Ahmadpanah</i>, Musard Balliu, Daniel Hedin, Lars Eric Olsson, and Andrei Sabelfeld
 0. **SandTrap: Securing JavaScript-driven Trigger-Action Platforms**, *USENIX Security'21* [[pdf](/papers/usenix21.pdf)]
-<br><ins>Mohammad M. Ahmadpanah</ins>, Daniel Hedin, Musard Balliu, Lars Eric Olsson, and Andrei Sabelfeld
+<br><i>Mohammad M. Ahmadpanah</i>, Daniel Hedin, Musard Balliu, Lars Eric Olsson, and Andrei Sabelfeld
 0. **Nontransitive Policies Transpiled**, *EuroS&P'21* [[pdf](/papers/eurosp21.pdf)]
-<br><ins>Mohammad M. Ahmadpanah</ins>, Aslan Askarov, and Andrei Sabelfeld
+<br><i>Mohammad M. Ahmadpanah</i>, Aslan Askarov, and Andrei Sabelfeld
 0. **Improving Multi-Execution-based Mechanisms for Enforcing Information Flow Policies**, *Master's thesis*, 2017 [[pdf](https://github.com/smahmadpanah/MScDocuments/blob/master/Thesis/Thesis.pdf)]
 <br>Supervisor: Mehran S. Fallah
 0. **A Tool for Rewriting-Based Enforcement of Noninterference in While Programs**, *Bachelor's thesis*, 2015 [[pdf](https://github.com/smahmadpanah/BScProject/blob/master/Final%20Documents/Thesis.pdf)]
