@@ -29,7 +29,7 @@ author_profile: true
 <ol reversed>
 
 <div id="5">
-<li> <b>Securing Node-RED Applications</b>, <em>under review</em> [<a href="">pdf</a>] [<a href="">link</a>]
+<li> <b>Securing Node-RED Applications</b>, <em>Festschrift in honor of Joshua Guttman'21</em> [<a href="">pdf</a>] [<a href="">link</a>]
 <br><i>Mohammad M. Ahmadpanah</i>, Musard Balliu, Daniel Hedin, Lars Eric Olsson, and Andrei Sabelfeld
 <div class='button' data-content="toggle-text"><a href="#5">abstract</a></div>
 <div class='abstract'>

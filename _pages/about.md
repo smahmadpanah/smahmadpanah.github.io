@@ -25,7 +25,7 @@ Prior to that, I lived at [Tehran&nbsp;Polytechnic (AUT)](https://aut.ac.ir/en) 
 
 <a href="/publications" style="color:#494e52; ">Publications</a>
 ----
-0. **Securing Node-RED Applications**, *under review* [[pdf]()]
+0. **Securing Node-RED Applications**, *Festschrift in honor of Joshua Guttman'21* [[pdf]()]
 <br><i>Mohammad M. Ahmadpanah</i>, Musard Balliu, Daniel Hedin, Lars Eric Olsson, and Andrei Sabelfeld
 0. **SandTrap: Securing JavaScript-driven Trigger-Action Platforms**, *USENIX Security'21* [[pdf](/papers/usenix21.pdf)]
 <br><i>Mohammad M. Ahmadpanah</i>, Daniel Hedin, Musard Balliu, Lars Eric Olsson, and Andrei Sabelfeld
