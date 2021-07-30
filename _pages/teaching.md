@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-I *love* teaching and I've been ardently doing it since when I was 14 in high school. Here are my academic experiences:
+I *love* teaching and I've been ardently doing it since I was 14 in high school. Here are my academic experiences:
 
 ## Chalmers:
 - [Language-Based Security (TDA602/DIT101)](https://student.portal.chalmers.se/en/chalmersstudies/courseinformation/pages/searchcourse.aspx?course_id=18436&parsergrp=3), by [Andrei Sabelfeld](https://www.cse.chalmers.se/~andrei/), Spring 2020, Spring 2021
