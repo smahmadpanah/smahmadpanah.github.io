@@ -40,7 +40,7 @@ function toggle_visibility(id) {
 
 <a href="/publications" class='header-color'>Publications</a>
 ----
-0. **Securing Node-RED Applications**, *Festschrift in honor of Joshua Guttman'21* [[pdf]()]
+0. **Securing Node-RED Applications**, *Protocols, Logic, and Strands: Festschrift in honor of Joshua Guttman'21* [[pdf](/papers/joshua21.pdf)]
 <br><i>Mohammad M. Ahmadpanah</i>, Musard Balliu, Daniel Hedin, Lars Eric Olsson, and Andrei Sabelfeld
 0. **Nontransitive Policies Transpiled**, *EuroS&P'21* [[pdf](/papers/eurosp21.pdf)]
 <br><i>Mohammad M. Ahmadpanah</i>, Aslan Askarov, and Andrei Sabelfeld
