@@ -27,6 +27,16 @@ author_profile: true
 
 
 <ol reversed>
+<div id="6">
+<li> <b>Securing Software in the Presence of Third-Party Modules</b>, <em>Licentiate thesis</em>, 2021 [<a href="papers/licentiate.pdf">pdf</a>] [<a href="https://research.chalmers.se/en/publication/525880">link</a>]
+<div class='button' data-content="toggle-text"><a href="#1">abstract</a></div>
+<div class='abstract'>
+Modular programming is a key concept in software development where the program consists of code modules that are designed and implemented independently. This approach accelerates the development process and enhances scalability of the final product. Modules, however, are often written by third parties, aggravating security concerns such as stealing condential information, tampering with sensitive data, and executing malicious code.
+Trigger-Action Platforms (TAPs) are concrete examples of employing modular programming. Any user can develop TAP applications by connecting trigger and action services, and publish them on public repositories. In the presence of malicious application makers, users cannot trust applications written by third parties, which can threaten users’ and platform’s security.
+We present SandTrap, a novel runtime monitor for JavaScript that can be used to securely integrate third-party applications. SandTrap enforces fine-grained access control policies at the levels of module, API, value, and context. We instantiate SandTrap to IFTTT, Zapier, and Node-RED, three popular JavaScript-driven TAPs, and illustrate how it enforces various policies on a set of benchmarks while incurring a tolerable runtime overhead. We also prove soundness and transparency of the monitoring framework on an essential model of Node-RED.
+Furthermore, nontransitive policies have been recently introduced as a natural fit for coarse-grained information-flow control where labels are specified at the level of modules. The flow relation does not need to be transitive, resulting in nonstandard noninterference and enforcement mechanism. We develop a lattice encoding to prove that nontransitive policies can be reduced to classical transitive policies. We also devise a lightweight program transformation that leverages standard flow-sensitive information-flow analyses to enforce nontransitive policies more permissively.
+</div></li></div>
+
 <div id="5">
 <li> <b>Securing Node-RED Applications</b>, <em>Protocols, Logic, and Strands: Festschrift in honor of Joshua Guttman'21</em> [<a href="/papers/joshua21.pdf">pdf</a>]
 <br><i>Mohammad M. Ahmadpanah</i>, Musard Balliu, Daniel Hedin, Lars Eric Olsson, and Andrei Sabelfeld
