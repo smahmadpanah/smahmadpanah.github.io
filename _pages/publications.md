@@ -29,7 +29,8 @@ author_profile: true
 <ol reversed>
 <div id="6">
 <li> <b>Securing Software in the Presence of Third-Party Modules</b>, <em>Licentiate thesis</em>, 2021 [<a href="papers/licentiate.pdf">pdf</a>] [<a href="https://research.chalmers.se/en/publication/525880">link</a>]
-<div class='button' data-content="toggle-text"><a href="#1">abstract</a></div>
+  <br>Supervisor: Andrei Sabelfeld
+<div class='button' data-content="toggle-text"><a href="#6">abstract</a></div>
 <div class='abstract'>
 Modular programming is a key concept in software development where the program consists of code modules that are designed and implemented independently. This approach accelerates the development process and enhances scalability of the final product. Modules, however, are often written by third parties, aggravating security concerns such as stealing condential information, tampering with sensitive data, and executing malicious code.
 Trigger-Action Platforms (TAPs) are concrete examples of employing modular programming. Any user can develop TAP applications by connecting trigger and action services, and publish them on public repositories. In the presence of malicious application makers, users cannot trust applications written by third parties, which can threaten users’ and platform’s security.
