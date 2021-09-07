@@ -28,7 +28,7 @@ author_profile: true
 
 <ol reversed>
 <div id="6">
-<li> <b>Securing Software in the Presence of Third-Party Modules</b>, <em>Licentiate thesis</em>, 2021 [<a href="papers/licentiate.pdf">pdf</a>] [<a href="https://research.chalmers.se/en/publication/525880">link</a>]
+<li> <b>Securing Software in the Presence of Third-Party Modules</b>, <em>Licentiate thesis</em>, 2021 [<a href="/papers/licentiate.pdf">pdf</a>] [<a href="https://research.chalmers.se/en/publication/525880">link</a>]
 <br>Supervisor: Andrei Sabelfeld
 <div class='button' data-content="toggle-text"><a href="#6">abstract</a></div>
 <div class='abstract'>
