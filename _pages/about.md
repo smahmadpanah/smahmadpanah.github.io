@@ -40,7 +40,7 @@ function toggle_visibility(id) {
 
 <a href="/publications" class='header-color'>Publications</a>
 ----
-0. **Securing Software in the Presence of Third-Party Modules**, *Licentiate thesis*, 2021 [[pdf](papers/licentiate.pdf)][[video](https://youtu.be/0Mdj-sNxqXU)]
+0. **Securing Software in the Presence of Third-Party Modules**, *Licentiate thesis*, 2021 [[pdf](papers/licentiate.pdf)] [[video](https://youtu.be/0Mdj-sNxqXU)]
 <br>Supervisor: Andrei Sabelfeld
 0. **Securing Node-RED Applications**, *Protocols, Logic, and Strands: Festschrift in honor of Joshua Guttman'21* [[pdf](/papers/joshua21.pdf)]
 <br><i>Mohammad M. Ahmadpanah</i>, Musard Balliu, Daniel Hedin, Lars Eric Olsson, and Andrei Sabelfeld
