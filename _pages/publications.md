@@ -28,8 +28,9 @@ author_profile: true
 
 <ol reversed>
 <div id="6">
-<li> <b>Securing Software in the Presence of Third-Party Modules</b>, <em>Licentiate thesis</em>, 2021 [<a href="/papers/licentiate.pdf">pdf</a>] [<a href="https://research.chalmers.se/en/publication/525880">link</a>]
-<br>Supervisor: Andrei Sabelfeld
+<li> <b>Securing Software in the Presence of Third-Party Modules</b>, <em>Licentiate thesis</em>, 2021 [<a href="/papers/licentiate.pdf">pdf</a>] [<a href="https://research.chalmers.se/en/publication/525880">link</a>][
+  <a href="https://youtu.be/0Mdj-sNxqXU">video</a>]
+  <br>Supervisor: Andrei Sabelfeld
 <div class='button' data-content="toggle-text"><a href="#6">abstract</a></div>
 <div class='abstract'>
 Modular programming is a key concept in software development where the program consists of code modules that are designed and implemented independently. This approach accelerates the development process and enhances scalability of the final product. Modules, however, are often written by third parties, aggravating security concerns such as stealing confidential information, tampering with sensitive data, and executing malicious code.
