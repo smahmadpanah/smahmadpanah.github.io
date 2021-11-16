@@ -58,7 +58,7 @@ This paper proposes an essential model for Node-RED, suitable to reason about no
 
 
 <div id="4">
-<li> <b>Nontransitive Policies Transpiled</b>, <em><a href="http://www.ieee-security.org/TC/EuroSP2021/accepted.html">EuroS&P'21</a></em> [<a href="/papers/eurosp21.pdf">pdf</a>] [<a href="https://www.cse.chalmers.se/research/group/security/ntni/">link</a>]
+<li> <b>Nontransitive Policies Transpiled</b>, <em><a href="http://www.ieee-security.org/TC/EuroSP2021/accepted.html">EuroS&P'21</a></em> [<a href="/papers/eurosp21.pdf">pdf</a>] [<a href="https://www.cse.chalmers.se/research/group/security/ntni/">link</a>] [<a href="https://youtu.be/mAMgyhWL-AE?t=320">short talk</a>]
 <br><i>Mohammad M. Ahmadpanah</i>, Aslan Askarov, and Andrei Sabelfeld
 <div class='button' data-content="toggle-text"><a href="#4">abstract</a></div>
 <div class='abstract'>
