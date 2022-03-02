@@ -51,6 +51,9 @@ function toggle_visibility(id) {
 <br><i>Mohammad M. Ahmadpanah</i>, Daniel Hedin, Musard Balliu, Lars Eric Olsson, and Andrei Sabelfeld
 0. **Improving Multi-Execution-based Mechanisms for Enforcing Information Flow Policies**, *Master's thesis*, 2017 [[pdf](https://github.com/smahmadpanah/MScDocuments/blob/master/Thesis/Thesis.pdf)]
 <br>Supervisor: Mehran S. Fallah
+0. **Dynamic Enforcement of Security Hyperproperties: A Survey**, *Technical report*, 2016
+[[pdf](https://github.com/smahmadpanah/MScDocuments/blob/master/Seminar/Dynamic%20Enforcement%20of%20Security%20Hyperproperties-SeminarReport.pdf)]
+<br>Supervisor: Mehran S. Fallah
 0. **A Tool for Rewriting-Based Enforcement of Noninterference in While Programs**, *Bachelor's thesis*, 2015 [[pdf](https://github.com/smahmadpanah/BScProject/blob/master/Final%20Documents/Thesis.pdf)]
 <br>Supervisor: Mehran S. Fallah
 {: reversed="reversed"}

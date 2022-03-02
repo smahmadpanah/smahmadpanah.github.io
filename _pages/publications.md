@@ -98,6 +98,13 @@ events from different security levels should be preserved.
 </div></li></div>
 
 
+<div id="2'">
+<li> <b>Dynamic Enforcement of Security Hyperproperties: A Survey</b>, <em>Technical report</em>, 2016 [<a href="https://github.com/smahmadpanah/MScDocuments/blob/master/Seminar/Dynamic%20Enforcement%20of%20Security%20Hyperproperties-SeminarReport.pdf">pdf</a>]
+<br>Supervisor: Mehran S. Fallah
+<div class='button' data-content="toggle-text"><a href="#2'">abstract</a></div>
+<div class='abstract'>
+</div></li></div>
+
 <div id="1">
 <li> <b>A Tool for Rewriting-Based Enforcement of Noninterference in While Programs</b>, <em>Bachelor's thesis</em>, 2015 [<a href="https://github.com/smahmadpanah/BScProject/blob/master/Final%20Documents/Thesis.pdf">pdf</a>] [<a href="https://github.com/smahmadpanah/BScProject">link</a>]
 <br>Supervisor: Mehran S. Fallah
