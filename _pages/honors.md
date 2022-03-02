@@ -14,7 +14,7 @@ author_profile: true
 
 
 
-<li><b>Member</b> of <a href="https://www.isee.ir/en">The Iranian Society of Engineering Education</a>, since 2020.</li>
+<li><b>Fellow</b> of Student Activities committee (2022-2025) and Member of <a href="https://www.isee.ir/en">The Iranian Society of Engineering Education</a>, since 2020.</li>
 
 <li><b>Member</b> of <a href="https://popscience.ir/iranian-association-for-popularization-of-seience/">The Iranian Association for Popularization of Science</a>, since 2020.</li>
 
