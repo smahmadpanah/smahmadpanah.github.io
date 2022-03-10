@@ -10,7 +10,7 @@ I *love* teaching and I've been ardently doing it since I was 14 in high school.
 
 ## Chalmers:
 - [Language-Based Security (TDA602/DIT101)](https://student.portal.chalmers.se/en/chalmersstudies/courseinformation/pages/searchcourse.aspx?course_id=18436&parsergrp=3), by [Andrei Sabelfeld](https://www.cse.chalmers.se/~andrei/), Spring 2020, Spring 2021, Spring 2022
-- [Finite Automata and Formal Languages (TMV028/DIT322)](http://www.cse.chalmers.se/edu/course/TMV028_Automata/), by [Nils Anders Danielsson](http://www.cse.chalmers.se/~nad/), Spring 2020, Spring 2021, Spring 2022
+- [Finite Automata and Formal Languages (TMV028/DIT322)](https://student.portal.chalmers.se/en/chalmersstudies/courseinformation/Pages/SearchCourse.aspx?course_id=32016&parsergrp=3), by [Nils Anders Danielsson](http://www.cse.chalmers.se/~nad/), Spring 2020, Spring 2021, Spring 2022
 - [Programming Language Technology (DAT151/DIT231)](http://www.cse.chalmers.se/edu/course/DAT151_Programming_Language_Technology/), by [Andreas Abel](http://www.cse.chalmers.se/~abela/), Fall 2019, Fall 2020, Fall 2021
 
 ## Tehran Polytechnic: 
