@@ -299,13 +299,13 @@
     
       <h1 class="page__title">Teaching</h1>
     
-    <p>I <em>love</em> teaching and I’ve been ardently doing it since I was 14 in high school. Here are my academic experiences:</p>
+    <p>I <em>love</em> teaching and I’ve been ardently doing it since I was 12 in high school. Here are my academic experiences:</p>
 
 <h2 id="chalmers">Chalmers:</h2>
 <ul>
-  <li><a href="https://student.portal.chalmers.se/en/chalmersstudies/courseinformation/pages/searchcourse.aspx?course_id=18436&amp;parsergrp=3">Language-Based Security (TDA602/DIT101)</a>, by <a href="https://www.cse.chalmers.se/~andrei/">Andrei Sabelfeld</a>, Spring 2020, Spring 2021</li>
-  <li><a href="http://www.cse.chalmers.se/edu/course/TMV028_Automata/">Finite Automata and Formal Languages (TMV028/DIT322)</a>, by <a href="http://www.cse.chalmers.se/~nad/">Nils Anders Danielsson</a>, Spring 2020, Spring 2021</li>
-  <li><a href="http://www.cse.chalmers.se/edu/course/DAT151_Programming_Language_Technology/">Programming Language Technology (DAT151/DIT231)</a>, by <a href="http://www.cse.chalmers.se/~abela/">Andreas Abel</a>, Fall 2019, Fall 2020</li>
+  <li><a href="https://student.portal.chalmers.se/en/chalmersstudies/courseinformation/pages/searchcourse.aspx?course_id=18436&amp;parsergrp=3">Language-Based Security (TDA602/DIT101)</a>, by <a href="https://www.cse.chalmers.se/~andrei/">Andrei Sabelfeld</a>, Spring 2020, Spring 2021, Spring 2022</li>
+  <li><a href="https://student.portal.chalmers.se/en/chalmersstudies/courseinformation/Pages/SearchCourse.aspx?course_id=32016&amp;parsergrp=3">Finite Automata and Formal Languages (TMV028/DIT322)</a>, by <a href="http://www.cse.chalmers.se/~nad/">Nils Anders Danielsson</a>, Spring 2020, Spring 2021, Spring 2022</li>
+  <li><a href="http://www.cse.chalmers.se/edu/course/DAT151_Programming_Language_Technology/">Programming Language Technology (DAT151/DIT231)</a>, by <a href="http://www.cse.chalmers.se/~abela/">Andreas Abel</a>, Fall 2019, Fall 2020, Fall 2021</li>
 </ul>
 
 <h2 id="tehran-polytechnic">Tehran Polytechnic:</h2>
@@ -356,7 +356,19 @@
   </ul>-->
 </div>
 
-<div class="page__footer-copyright">&copy; 2021 <a href='' >Mohammad M. Ahmadpanah</a> (Last Update: July 2021) <div style='font-size:7px'> Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script>
+  const monthNames = ["January", "February", "March", "April", "May", "June",
+  "July", "August", "September", "October", "November", "December"];
+
+    $.getJSON('https://api.github.com/repos/smahmadpanah/smahmadpanah.github.io/branches/master', function(resp) {
+        var date = new Date(`${resp.commit.commit.author.date}`);
+        var text = monthNames[date.getMonth()] + " " + date.getFullYear(); 
+        $(".last-commit").html(text);
+    });
+</script>
+
+<div class="page__footer-copyright">&copy; 2022 <a href='' >Mohammad M. Ahmadpanah</a> (Last Update: <span class="last-commit"></span>) <div style='font-size:7px'> Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 </div>
 
 
