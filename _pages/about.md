@@ -64,9 +64,9 @@ function toggle_visibility(id) {
 ----
 ### Chalmers:
 <ul class='twocol' markdown='1'>
-<li>Language-Based Security (graduate)</li>
+<li>Language-Based Security (<i style='font-size: 0.8em;'>Graduate</i>)</li>
 <li>Finite Automata and Formal Languages</li>
-<li>Programming Language Technology (graduate)</li>
+<li>Programming Language Technology (<i style='font-size: 0.8em;'>Graduate</i>)</li>
 </ul>
 
 ### Tehran Polytechnic: 
