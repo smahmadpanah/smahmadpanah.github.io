@@ -343,7 +343,7 @@
 
     $.getJSON('https://api.github.com/repos/smahmadpanah/smahmadpanah.github.io/branches/master', function(resp) {
         var date = new Date(`${resp.commit.commit.author.date}`);
-        var text = monthNames[date.getMonth()] + " " + date.getFullYear(); 
+        var text = date.getDate() + " " + monthNames[date.getMonth()] + " " + date.getFullYear(); 
         $(".last-commit").html(text);
     });
 </script>
