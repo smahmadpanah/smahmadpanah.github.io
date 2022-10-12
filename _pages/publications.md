@@ -112,12 +112,12 @@ being conservative due to source-code static analysis before the execution. On t
 well-known technique among dynamic mechanisms. Recently, permissiveness of dynamic techniques for enforcing information 
 flow policies, compared to static analysis, has attracted increasing attraction. Hybrid approaches make use of 
 source-code analysis as additional information on other possible executions of the program under the monitor. Security 
-enforcement mechanisms can be measured in terms of soundness, transparency, and precision. 
+enforcement mechanisms can be measured in terms of soundness, transparency, and precision. </p>
 <p style="margin-top: -2.5%;">
 In this technical report, we review the notion of security policies and hyperproperties. We study a wide range of 
 enforcement techniques, including static mechanisms, dynamic mechanisms, program rewriting, and hybrid analysis. We also 
 review the characterization of various dynamic mechanisms and runtime monitors (with or without prior knowledge of 
-possible behaviors of the program) in the literature with reference to enforcement paradigms and comparison factors. 
+possible behaviors of the program) in the literature with reference to enforcement paradigms and comparison factors. </p>
 </div></li></div>
 
 <div id="1">
