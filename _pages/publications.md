@@ -103,21 +103,11 @@ events from different security levels should be preserved.
 <br>Supervisor: Mehran S. Fallah
 <div class='button' data-content="toggle-text"><a href="#2'">abstract</a></div>
 <div class='abstract'>
-Security policies can be categorized as properties and non-properties. Information flow control is one of the important 
-confidentiality and integrity policies. The difference between expressing policies using only one or more than one 
-trace entails several enforcement mechanisms. 
+Security policies can be categorized as properties and non-properties. Information flow control is one of the important confidentiality and integrity policies. The difference between expressing policies using only one or more than one trace entails several enforcement mechanisms. 
 <p style="margin-top: -0.1%;">
-Two main types of security enforcement mechanisms are static and dynamic. The common feature of static mechanisms is 
-being conservative due to source-code static analysis before the execution. On the other side, runtime monitoring is a 
-well-known technique among dynamic mechanisms. Recently, permissiveness of dynamic techniques for enforcing information 
-flow policies, compared to static analysis, has attracted increasing attraction. Hybrid approaches make use of 
-source-code analysis as additional information on other possible executions of the program under the monitor. Security 
-enforcement mechanisms can be measured in terms of soundness, transparency, and precision. </p>
+Two main types of security enforcement mechanisms are static and dynamic. The common feature of static mechanisms is being conservative due to source-code static analysis before the execution. On the other side, runtime monitoring is a well-known technique among dynamic mechanisms. Recently, permissiveness of dynamic techniques for enforcing information flow policies, compared to static analysis, has attracted increasing attraction. Hybrid approaches make use of source-code analysis as additional information on other possible executions of the program under the monitor. Security enforcement mechanisms can be measured in terms of soundness, transparency, and precision. </p>
 <p style="margin-top: -2.5%;">
-In this technical report, we review the notion of security policies and hyperproperties. We study a wide range of 
-enforcement techniques, including static mechanisms, dynamic mechanisms, program rewriting, and hybrid analysis. We also 
-review the characterization of various dynamic mechanisms and runtime monitors (with or without prior knowledge of 
-possible behaviors of the program) in the literature with reference to enforcement paradigms and comparison factors. </p>
+In this technical report, we review the notion of security policies and hyperproperties. We study a wide range of enforcement techniques, including static mechanisms, dynamic mechanisms, program rewriting, and hybrid analysis. We also review the characterization of various dynamic mechanisms and runtime monitors (with or without prior knowledge of possible behaviors of the program) in the literature with reference to enforcement paradigms and comparison factors. </p>
 </div></li></div>
 
 <div id="1">
