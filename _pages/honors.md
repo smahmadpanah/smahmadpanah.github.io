@@ -22,10 +22,10 @@ author_profile: true
 
 <li>Researcher and <b>Member</b> of <a href="https://www.cse.chalmers.se/research/group/security/websec/">WebSec Project</a> and <a href="https://www.cse.chalmers.se/research/group/security/people/">Chalmers Security Lab</a>, Computer Science and Engineering Department, Chalmers, since September 2019.</li>
 
-<li>Achieved the <b>2nd</b> place among <em>Ph.D. students</em> of the Department of Computer Engineering, Tehran Polytechnic, 2018 and 2019.</li>
+<li>Achieved the <b>2nd</b> place among <em>Ph.D. students</em> of the Department of Computer Engineering, Amirkabir, 2018 and 2019.</li>
 
 <li>Honored as the <b>Best Teaching Assistant</b> of Computer Engineering Department, according to the student evaluation for <em>Discrete Mathematics</em> (Spring
-2017 and Spring 2019) and <em>Data Structures</em> (Fall 2017) courses, Tehran Polytechnic.</li>
+2017 and Spring 2019) and <em>Data Structures</em> (Fall 2017) courses, Amirkabir.</li>
 
 <li><b>Technical Referee</b> and <b>Consultant</b> in Web Application Security, <a href="https://kolahsefid.org/">Kolah Sefid</a> (Bug Bounty Platform), September 2018 - July 2019.</li>
 
@@ -39,30 +39,30 @@ author_profile: true
 
 
 <li>Ranked top <b>3%</b> among <em>Course Responsibles</em> of all departments of the university (830 lecturers), according to the student evaluation for teaching Advanced Programming,
-Tehran Polytechnic, Spring 2018.</li>
+Amirkabir, Spring 2018.</li>
 
-  <li>Known as the <b>Youngest</b> <em>Course Responsible</em> (at age 22), <em>Lab Instructor</em> (at age 20) and <em>Teaching Assistant</em> (at age 16), Tehran Polytechnic.</li>
+  <li>Known as the <b>Youngest</b> <em>Course Responsible</em> (at age 22), <em>Lab Instructor</em> (at age 20) and <em>Teaching Assistant</em> (at age 16), Amirkabir.</li>
 
 
 
 <li>Offered for <b>Direct Admission</b> to graduate school (<em>Ph.D.</em>) in Computer Engineering - Software, from two top universities of Iran, <b>University of Tehran</b> and
-<b>Tehran Polytechnic</b>, without taking the Nationwide University Entrance Exam for Ph.D. as a reward of academic records and achievements, 2017.</li>
+<b>Amirkabir</b>, without taking the Nationwide University Entrance Exam for Ph.D. as a reward of academic records and achievements, 2017.</li>
 
-<li><b>Founder</b> and Ex-Coordinator of <a href="http://ceit.aut.ac.ir/~gradtalk">Grad Talks</a>, Computer Engineering Department, Tehran Polytechnic, since 2017.</li>
+<li><b>Founder</b> and Ex-Coordinator of <a href="http://ceit.aut.ac.ir/~gradtalk">Grad Talks</a>, Computer Engineering Department, Amirkabir, since 2017.</li>
 
 
 <li>Ranked <b>1st</b> and <b>2nd</b> among all Laboratory Instructors in different topics of
 Computer Engineering Department, according to the student evaluation
-for teaching <em>Computer Lab</em> and <em>Operating Systems Lab</em>, respectively, Tehran Polytechnic, Fall 2016.</li>
+for teaching <em>Computer Lab</em> and <em>Operating Systems Lab</em>, respectively, Amirkabir, Fall 2016.</li>
 
 <li>Announced as the <b>Outstanding Student</b> and Achieved the <b>1st</b> place among 2015-
-entries in Information Security major, Tehran Polytechnic, 2016 and 2017.</li>
+entries in Information Security major, Amirkabir, 2016 and 2017.</li>
 
-<li>Awarded <b>Outstanding Graduate Student Scholarship</b>, Tehran Polytechnic, 2016.</li>
+<li>Awarded <b>Outstanding Graduate Student Scholarship</b>, Amirkabir, 2016.</li>
 
 <li><b>Member</b> of <a href="https://csi.org.ir/en/">The Computer Society of Iran</a>, since 2016.</li>
 
-<li><b>Consultant</b> of <a href="https://ceit-ssc.ir/en">The Student Scientific Association</a>, Computer Engineering Department, Tehran Polytechnic, since 2016.</li>
+<li><b>Consultant</b> of <a href="https://ceit-ssc.ir/en">The Student Scientific Association</a>, Computer Engineering Department, Amirkabir, since 2016.</li>
 
 
 
@@ -70,19 +70,19 @@ entries in Information Security major, Tehran Polytechnic, 2016 and 2017.</li>
 applicants of the Nationwide University Entrance Exam for M.Sc. in Information
 Technology (approximately 30000 applicants), Iran, 2015.</li>
 
-<li> Honored as an <b>Active Member</b> of <a href="https://ceit-ssc.ir/en/club-members/#anjoman_old_members">The Student Scientific Association</a> of Computer Engineering Department (Announced as <b>The best</b> Student Scientific Association of the University), Tehran Polytechnic, 2015.</li>
+<li> Honored as an <b>Active Member</b> of <a href="https://ceit-ssc.ir/en/club-members/#anjoman_old_members">The Student Scientific Association</a> of Computer Engineering Department (Announced as <b>The best</b> Student Scientific Association of the University), Amirkabir, 2015.</li>
 
-<li> Elected as <em>The Most Polite</em> and <em>The Most Online</em> student among all undergraduate 2011-entries of Computer Engineering Department, Tehran Polytechnic, 2015.
+<li> Elected as <em>The Most Polite</em> and <em>The Most Online</em> student among all undergraduate 2011-entries of Computer Engineering Department, Amirkabir, 2015.
 </li>
 
-<li> <b>Member</b> of <a href="http://ceit.aut.ac.ir/formalsecurity/people.html">Formal Security Lab</a>, Computer Engineering Department, Tehran Polytechnic, March 2015 - September 2019.</li>
+<li> <b>Member</b> of <a href="http://ceit.aut.ac.ir/formalsecurity/people.html">Formal Security Lab</a>, Computer Engineering Department, Amirkabir, March 2015 - September 2019.</li>
 
-<li> Qualified for <b>Direct Admission</b> to graduate school (<em>M.Sc.</em>) of Computer Engineering Department, Tehran Polytechnic, without
+<li> Qualified for <b>Direct Admission</b> to graduate school (<em>M.Sc.</em>) of Computer Engineering Department, Amirkabir, without
 taking the Nationwide University Entrance Exam for M.Sc. as a reward of academic records and achievements, 2014.</li>
 
 <li> Selected as a member of the university team for the <b>National Scientific Olympiad</b>
 in Computer Engineering as a result of distinguished performance (<b>3rd</b> place
-among undergraduate students), Tehran Polytechnic, 2014.</li>
+among undergraduate students), Amirkabir, 2014.</li>
 
 <li> Achieved top <b>2%</b> place among all applicants of the Nationwide University Entrance Exam for B.Sc. in Math. and Engineering (approximately 260000 applicants), Iran, 2011.</li>
 

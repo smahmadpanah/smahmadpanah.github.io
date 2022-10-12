@@ -16,7 +16,7 @@ redirect_from:
 
 **Hi!** This is Mohammad<sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, a PhD student in [Information&nbsp;Security](https://www.chalmers.se/en/departments/cse/organisation/is/Pages/Staff.aspx) under the supervision of [Andrei&nbsp;Sabelfeld](https://www.cse.chalmers.se/~andrei/) 
 and [Daniel&nbsp;Hedin](https://www.chalmers.se/en/staff/Pages/utter.aspx) at [Chalmers](https://www.chalmers.se/en) in Sweden, started in September 2019.
-Prior to that, I lived at [Tehran&nbsp;Polytechnic (AUT)](https://aut.ac.ir/en) for 8 years (BSc in Software Engineering, MSc in Information Security, and PhD candidate in Software Engineering), supervised by [Mehran&nbsp;S.&nbsp;Fallah](https://ce.aut.ac.ir/formalsecurity). Since then, I have been pursuing my passion for:
+Prior to that, I lived at [Amirkabir (Tehran Polytechnic)](https://aut.ac.ir/en) for 8 years (BSc in Software Engineering, MSc in Information Security, and PhD candidate in Software Engineering), supervised by [Mehran&nbsp;S.&nbsp;Fallah](https://ce.aut.ac.ir/formalsecurity). Since then, I have been pursuing my passion for:
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
 <li> Language-Based Security</li>
 <li> Formal Methods for Information Security</li>
@@ -69,7 +69,7 @@ function toggle_visibility(id) {
 <li>Programming Language Technology (<i style='font-size: 0.8em;'>Graduate</i>)</li>
 </ul>
 
-### Tehran Polytechnic: 
+### Amirkabir: 
 <ul class='twocol' markdown='1'>
 <li> Advanced Programming (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
 <li> Operating Systems Lab (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
@@ -91,17 +91,17 @@ function toggle_visibility(id) {
 - Recipient of the Adlerbert Foreign Student Hospitality Foundation scholarship, 2021 and 2022
 - Fellow of Student Activities committee (2022-2025) and Member of <a href="https://www.isee.ir/en">The Iranian Society of Engineering Education</a>, since 2020
 - Member of <a href="https://www.cse.chalmers.se/research/group/security/websec/">WebSec Project</a> and <a href="https://www.cse.chalmers.se/research/group/security/people/">Chalmers Security Lab</a>, Chalmers, since September 2019
-- The 2nd place among PhD students of the department, Tehran Polytechnic, 2018 and 2019
-- The Best Teaching Assistant and Lab Instructor of the department, Tehran Polytechnic, 2016, 2017 and 2019
+- The 2nd place among PhD students of the department, Amirkabir, 2018 and 2019
+- The Best Teaching Assistant and Lab Instructor of the department, Amirkabir, 2016, 2017 and 2019
 - Scientific Talent by the National Elite Foundation of Iran, 2018
-- Top 3% among Course Responsibles, Tehran Polytechnic, Spring 2018
+- Top 3% among Course Responsibles, Amirkabir, Spring 2018
 - The 1st place among Master's students in Information Security, 2016 and 2017
-- Recipient of the Outstanding Graduate Student Scholarship, Tehran Polytechnic, 2016
-- Direct Admission for Master and PhD studies, Tehran Polytechnic, 2015 and 2017
+- Recipient of the Outstanding Graduate Student Scholarship, Amirkabir, 2016
+- Direct Admission for Master and PhD studies, Amirkabir, 2015 and 2017
 - The Youngest Course Responsible (at age 22), Lab Instructor (at age 20) and
-Teaching Assistant (at age 16), Tehran Polytechnic 
-- Member of <a href="http://ceit.aut.ac.ir/formalsecurity/people.html">Formal Security Lab</a>, Tehran Polytechnic, 2015 - 2019
-- Member of the university team for the National Scientific Olympiad in Computer Engineering, Tehran Polytechnic, 2014
+Teaching Assistant (at age 16), Amirkabir 
+- Member of <a href="http://ceit.aut.ac.ir/formalsecurity/people.html">Formal Security Lab</a>, Amirkabir, 2015 - 2019
+- Member of the university team for the National Scientific Olympiad in Computer Engineering, Amirkabir, 2014
 - Skipped Three grades of Elementary School as an Exceptional Talent, 2002
 
 
