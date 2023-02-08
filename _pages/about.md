@@ -92,7 +92,7 @@ function toggle_visibility(id) {
 - Session Chair and Speaker at <a href="https://swits.hotell.kau.se/AnnualSeminars/SWITS_2022/SWITS2022_programme.htm">SWITS'22</a>
 - Recipient of the Adlerbert Foreign Student Hospitality Foundation scholarship, 2021 and 2022
 - Fellow of Student Activities committee (2022-2025) and Member of <a href="https://www.isee.ir/en">The Iranian Society of Engineering Education</a>, since 2020
-- Member of <a href="https://www.cse.chalmers.se/research/group/security/websec/">WebSec Project</a> and <a href="https://www.cse.chalmers.se/research/group/security/people/">Chalmers Security Lab</a>, Chalmers, since September 2019
+- Member of <a href="https://www.cse.chalmers.se/research/group/security/cybersecit/">CyberSecIT</a> and <a href="https://www.cse.chalmers.se/research/group/security/websec/">WebSec</a> projects, and <a href="https://www.cse.chalmers.se/research/group/security/people/">Chalmers Security Lab</a>, Chalmers, since September 2019
 - The 2nd place among PhD students of the department, Amirkabir, 2018 and 2019
 - The Best Teaching Assistant and Lab Instructor of the department, Amirkabir, 2016, 2017 and 2019
 - Scientific Talent by the National Elite Foundation of Iran, 2018

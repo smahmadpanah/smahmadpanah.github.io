@@ -25,7 +25,7 @@ author_profile: true
 
 <li><b>Member</b> of <a href="https://popscience.ir/iranian-association-for-popularization-of-seience/">The Iranian Association for Popularization of Science</a>, since 2020.</li>
 
-<li>Researcher and <b>Member</b> of <a href="https://www.cse.chalmers.se/research/group/security/websec/">WebSec Project</a> and <a href="https://www.cse.chalmers.se/research/group/security/people/">Chalmers Security Lab</a>, Computer Science and Engineering Department, Chalmers, since September 2019.</li>
+<li>Researcher and <b>Member</b> of <a href="https://www.cse.chalmers.se/research/group/security/websec/">WebSec</a> and <a href="https://www.cse.chalmers.se/research/group/security/cybersecit/">CyberSecIT</a>, and <a href="https://www.cse.chalmers.se/research/group/security/people/">Chalmers Security Lab</a>, Computer Science and Engineering Department, Chalmers, since September 2019.</li>
 
 <li>Achieved the <b>2nd</b> place among <em>Ph.D. students</em> of the Department of Computer Engineering, Amirkabir, 2018 and 2019.</li>
 
