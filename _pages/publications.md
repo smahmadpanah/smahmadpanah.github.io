@@ -29,7 +29,7 @@ author_profile: true
 <ol reversed>
 <div id="6">
 <li> <b>Securing Software in the Presence of Third-Party Modules</b>, <em>Licentiate thesis</em>, 2021 [<a href="/papers/licentiate.pdf">pdf</a>] [<a href="https://research.chalmers.se/en/publication/525880">link</a>] [<a href="https://youtu.be/0Mdj-sNxqXU">video</a>]
-  <br>Supervisor: Andrei Sabelfeld
+  <br>Supervisor: Andrei Sabelfeld, Co-supervisor: Daniel Hedin, Opponent: Deian Stefan, Examiner: David Sands
 <div class='button' data-content="toggle-text"><a href="#6">abstract</a></div>
 <div class='abstract'>
 Modular programming is a key concept in software development where the program consists of code modules that are designed and implemented independently. This approach accelerates the development process and enhances scalability of the final product. Modules, however, are often written by third parties, aggravating security concerns such as stealing confidential information, tampering with sensitive data, and executing malicious code.
@@ -78,7 +78,7 @@ Trigger-Action Platforms (TAPs) seamlessly connect a wide variety of otherwise u
 
 <div id="2">
 <li> <b>Improving Multi-Execution-based Mechanisms for Enforcing Information Flow Policies</b>, <em>Master's thesis</em>, 2017 [<a href="https://github.com/smahmadpanah/MScDocuments/blob/master/Thesis/Thesis.pdf">pdf</a>] [<a href="https://github.com/smahmadpanah/MScDocuments/tree/master/Thesis">link</a>]
-  <br>Supervisor: Mehran S. Fallah
+  <br>Supervisor: Mehran S. Fallah, Opponents: Mehdi Shajari and Ramtin Khosravi
 <div class='button' data-content="toggle-text"><a href="#2">abstract</a></div>
 <div class='abstract'>
 Secure Multi-Execution (SME) proves to be a successful technique for
@@ -112,7 +112,7 @@ In this technical report, we review the notion of security policies and hyperpro
 
 <div id="1">
 <li> <b>A Tool for Rewriting-Based Enforcement of Noninterference in While Programs</b>, <em>Bachelor's thesis</em>, 2015 [<a href="https://github.com/smahmadpanah/BScProject/blob/master/Final%20Documents/Thesis.pdf">pdf</a>] [<a href="https://github.com/smahmadpanah/BScProject">link</a>]
-<br>Supervisor: Mehran S. Fallah
+<br>Supervisor: Mehran S. Fallah, Opponent: MohammadReza Razzazi
 <div class='button' data-content="toggle-text"><a href="#1">abstract</a></div>
 <div class='abstract'>
   Program rewriting has recently been suggested as a means of enforcing security

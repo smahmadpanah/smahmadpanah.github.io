@@ -16,7 +16,7 @@ redirect_from:
 
 **Hi!** This is Mohammad<sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, a PhD student in [Information&nbsp;Security](https://www.chalmers.se/en/departments/cse/organisation/is/Pages/Staff.aspx) under the supervision of [Andrei&nbsp;Sabelfeld](https://www.cse.chalmers.se/~andrei/) 
 and [Daniel&nbsp;Hedin](https://www.chalmers.se/en/staff/Pages/utter.aspx) at [Chalmers](https://www.chalmers.se/en) in Sweden, started in September 2019.
-Prior to that, I lived at [Amirkabir (Tehran Polytechnic)](https://aut.ac.ir/en) for 8 years (BSc in Software Engineering, MSc in Information Security, and PhD candidate in Software Engineering), supervised by [Mehran&nbsp;S.&nbsp;Fallah](https://ce.aut.ac.ir/formalsecurity). Since then, I have been pursuing my passion for:
+Prior to that, I lived at [Amirkabir (Tehran Polytechnic)](https://aut.ac.ir/en) for 8 years (BSc in Software Engineering, MSc in Information Security, and PhD candidate in Software Engineering), all supervised by [Mehran&nbsp;S.&nbsp;Fallah](https://ce.aut.ac.ir/formalsecurity). Since then, I have been pursuing my passion for:
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
 <li> Language-Based Security</li>
 <li> Formal Methods for Information Security</li>
@@ -42,7 +42,7 @@ function toggle_visibility(id) {
 <a href="/publications" class='header-color'>Publications</a>
 ----
 0. **Securing Software in the Presence of Third-Party Modules**, *Licentiate thesis*, 2021 [[pdf](papers/licentiate.pdf)] [[video](https://youtu.be/0Mdj-sNxqXU)]
-<br>Supervisor: Andrei Sabelfeld
+<br>Supervisor: Andrei Sabelfeld, Co-supervisor: Daniel Hedin, Opponent: Deian Stefan, Examiner: David Sands
 0. **Securing Node-RED Applications**, *Protocols, Strands, and Logic: Festschrift in honor of Joshua Guttman'21* [[pdf](/papers/joshua21.pdf)] [[video](https://youtu.be/0qKo0hNt2Ek)]
 <br><i>Mohammad M. Ahmadpanah</i>, Musard Balliu, Daniel Hedin, Lars Eric Olsson, and Andrei Sabelfeld
 0. **Nontransitive Policies Transpiled**, *EuroS&P'21* [[pdf](/papers/eurosp21.pdf)]
@@ -50,12 +50,12 @@ function toggle_visibility(id) {
 0. **SandTrap: Securing JavaScript-driven Trigger-Action Platforms**, *USENIX Security'21* [[pdf](/papers/usenix21.pdf)]
 <br><i>Mohammad M. Ahmadpanah</i>, Daniel Hedin, Musard Balliu, Lars Eric Olsson, and Andrei Sabelfeld
 0. **Improving Multi-Execution-based Mechanisms for Enforcing Information Flow Policies**, *Master's thesis*, 2017 [[pdf](https://github.com/smahmadpanah/MScDocuments/blob/master/Thesis/Thesis.pdf)]
-<br>Supervisor: Mehran S. Fallah
+<br>Supervisor: Mehran S. Fallah, Opponents: Mehdi Shajari and Ramtin Khosravi
 0. **Dynamic Enforcement of Security Hyperproperties: A Survey**, *Technical report*, 2016
 [[pdf](https://github.com/smahmadpanah/MScDocuments/blob/master/Seminar/Dynamic%20Enforcement%20of%20Security%20Hyperproperties-SeminarReport.pdf)]
 <br>Supervisor: Mehran S. Fallah
 0. **A Tool for Rewriting-Based Enforcement of Noninterference in While Programs**, *Bachelor's thesis*, 2015 [[pdf](https://github.com/smahmadpanah/BScProject/blob/master/Final%20Documents/Thesis.pdf)]
-<br>Supervisor: Mehran S. Fallah
+<br>Supervisor: Mehran S. Fallah, Opponent: MohammadReza Razzazi
 {: reversed="reversed"}
 
 
@@ -91,7 +91,7 @@ function toggle_visibility(id) {
 - PhD Forum Speaker at <a href="https://sites.google.com/uniurb.it/fosad/home/fosad-2022/program">FOSAD'22</a>
 - Session Chair and Speaker at <a href="https://swits.hotell.kau.se/AnnualSeminars/SWITS_2022/SWITS2022_programme.htm">SWITS'22</a>
 - Recipient of the Adlerbert Foreign Student Hospitality Foundation scholarship, 2021 and 2022
-- Fellow of Student Activities committee (2022-2025) and Member of <a href="https://www.isee.ir/en">The Iranian Society of Engineering Education</a>, since 2020
+- Fellow of Student Activities committee (2022-2023) and Member of <a href="https://www.isee.ir/en">The Iranian Society of Engineering Education</a>, since 2020
 - Member of <a href="https://www.cse.chalmers.se/research/group/security/cybersecit/">CyberSecIT</a> and <a href="https://www.cse.chalmers.se/research/group/security/websec/">WebSec</a> projects, and <a href="https://www.cse.chalmers.se/research/group/security/people/">Chalmers Security Lab</a>, Chalmers, since September 2019
 - The 2nd place among PhD students of the department, Amirkabir, 2018 and 2019
 - The Best Teaching Assistant and Lab Instructor of the department, Amirkabir, 2016, 2017 and 2019
