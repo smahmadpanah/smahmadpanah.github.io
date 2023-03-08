@@ -14,13 +14,13 @@ author_profile: true
 
 <li><b>Research Visitor</b> at <a href="https://www.mdu.se/en/malardalen-university">Mälardalen University</a>, hosted by Daniel Hedin, September and October 2023.</li> 
 
+<li><b>Recipient</b> of the <a href="http://adlerbertska.se/en/hospitality/the-foundation/">Adlerbert Foreign Student Hospitality Foundation</a> scholarship, 2021, 2022 and 2023.</li>
+
 <li><b>Co-Organizer</b> of <a href="https://www.cse.chalmers.se/research/group/security/event/">Chalmers Security & Privacy Seminars</a>, Chalmers, since September 2022.</li>
 
 <li><b>PhD Forum Speaker</b> at <a href="https://sites.google.com/uniurb.it/fosad/home/fosad-2022/program">FOSAD'22</a>.</li> 
 
 <li><b>Session Chair</b> on CTF and Speaker at <a href="https://swits.hotell.kau.se/AnnualSeminars/SWITS_2022/SWITS2022_programme.htm">SWITS'22</a>.</li> 
-
-<li><b>Recipient</b> of the <a href="http://adlerbertska.se/en/hospitality/the-foundation/">Adlerbert Foreign Student Hospitality Foundation</a> scholarship, 2021 and 2022.</li>
 
 <li><b>Member</b> of Educational CTF organization team (as part of the Language-Based Security course), Chalmers, 2021, 2022 and 2023.</li>
 
