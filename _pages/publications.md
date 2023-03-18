@@ -33,7 +33,6 @@ author_profile: true
 <br><i>Mohammad M. Ahmadpanah</i>, Daniel Hedin, and Andrei Sabelfeld
 <div class='button' data-content="toggle-text"><a href="#7">abstract</a></div>
 <div class='abstract'>
-</p>
 </div></li></div>
 
 <div id="6">
