@@ -27,6 +27,15 @@ author_profile: true
 
 
 <ol reversed>
+
+<div id="7">
+<li> <b>LazyTAP: On-Demand Data Minimization for Trigger-Action Applications</b>, <em><a href="https://www.ieee-security.org/TC/SP2023/program-papers.html">S&P'23</a></em>
+<br><i>Mohammad M. Ahmadpanah</i>, Daniel Hedin, and Andrei Sabelfeld
+<div class='button' data-content="toggle-text"><a href="#7">abstract</a></div>
+<div class='abstract'>
+</p>
+</div></li></div>
+
 <div id="6">
 <li> <b>Securing Software in the Presence of Third-Party Modules</b>, <em>Licentiate thesis</em>, 2021 [<a href="/papers/licentiate.pdf">pdf</a>] [<a href="https://research.chalmers.se/en/publication/525880">link</a>] [<a href="https://youtu.be/0Mdj-sNxqXU">video</a>]
   <br>Supervisor: Andrei Sabelfeld, Co-supervisor: Daniel Hedin, Opponent: Deian Stefan, Examiner: David Sands
