@@ -29,10 +29,11 @@ author_profile: true
 <ol reversed>
 
 <div id="7">
-<li> <b>LazyTAP: On-Demand Data Minimization for Trigger-Action Applications</b>, <em><a href="https://www.ieee-security.org/TC/SP2023/program-papers.html">S&P'23</a></em>
+<li> <b>LazyTAP: On-Demand Data Minimization for Trigger-Action Applications</b>, <em><a href="https://www.ieee-security.org/TC/SP2023/program-papers.html">S&P'23</a></em> [<a href="/papers/lazytap.pdf">pdf</a>] [<a href="https://www.cse.chalmers.se/research/group/security/lazytap/">link</a>]
 <br><i>Mohammad M. Ahmadpanah</i>, Daniel Hedin, and Andrei Sabelfeld
 <div class='button' data-content="toggle-text"><a href="#7">abstract</a></div>
 <div class='abstract'>
+Trigger-Action Platforms (TAPs) empower applications (apps) for connecting otherwise unconnected devices and services. The current TAPs like IFTTT require trigger services to push excessive amounts of sensitive data to the TAP regardless of whether the data will be used in the app, at odds with the principle of data minimization. Furthermore, the rich features of modern TAPs, including IFTTT queries to support multiple trigger services and nondeterminism of apps, have been out of the reach of previous data minimization approaches like minTAP. This paper proposes LazyTAP, a new paradigm for fine-grained on-demand data minimization. LazyTAP breaks away from the traditional push-all approach of coarse-grained data over-approximation. Instead, LazyTAP pulls input data on-demand, once it is accessed by the app execution. Thanks to the fine granularity, LazyTAP enables tight minimization that naturally generalizes to support multiple trigger services via queries and is robust with respect to nondeterministic behavior of the apps. We achieve seamlessness for third-party app developers by leveraging laziness to defer computation and proxy objects to load necessary remote data behind the scenes as it becomes needed. We formally establish the correctness of LazyTAP and its minimization properties with respect to both IFTTT and minTAP. We implement and evaluate LazyTAP on app benchmarks showing that on average LazyTAP improves minimization by 95% over IFTTT and by 38% over minTAP, while incurring a tolerable performance overhead.
 </div></li></div>
 
 <div id="6">
@@ -50,7 +51,7 @@ Furthermore, nontransitive policies have been recently introduced as a natural f
 </div></li></div>
 
 <div id="5">
-<li> <b>Securing Node-RED Applications</b>, <em>Protocols, Strands, and Logic: Festschrift in honor of Joshua Guttman'21</em> [<a href="/papers/joshua21.pdf">pdf</a>]
+<li> <b>Securing Node-RED Applications</b>, <em>Protocols, Strands, and Logic: Festschrift in honor of Joshua Guttman'21</em> [<a href="/papers/joshua21.pdf">pdf</a>] [<a href="https://youtu.be/0qKo0hNt2Ek">video</a>]
 <br><i>Mohammad M. Ahmadpanah</i>, Musard Balliu, Daniel Hedin, Lars Eric Olsson, and Andrei Sabelfeld
 <br><a class='button' data-content="toggle-text" href="#5">abstract</a>
 <div class='abstract'>
