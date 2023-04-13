@@ -51,7 +51,7 @@ Furthermore, nontransitive policies have been recently introduced as a natural f
 </div></li></div>
 
 <div id="5">
-<li> <b>Securing Node-RED Applications</b>, <em>Protocols, Strands, and Logic: Festschrift in honor of Joshua Guttman'21</em> [<a href="/papers/joshua21.pdf">pdf</a>] [<a href="https://youtu.be/0qKo0hNt2Ek">video</a>]
+<li> <b>Securing Node-RED Applications</b>, <em>Protocols, Strands, and Logic: Festschrift in honor of Joshua Guttman'21</em> [<a href="/papers/joshua21.pdf">pdf</a>] [<a href="https://link.springer.com/book/10.1007/978-3-030-91631-2">link</a>] [<a href="https://youtu.be/0qKo0hNt2Ek">video</a>]
 <br><i>Mohammad M. Ahmadpanah</i>, Musard Balliu, Daniel Hedin, Lars Eric Olsson, and Andrei Sabelfeld
 <br><a class='button' data-content="toggle-text" href="#5">abstract</a>
 <div class='abstract'>
