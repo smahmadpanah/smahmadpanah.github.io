@@ -9,9 +9,10 @@ redirect_from:
 ---
 
 <style>
-.farsi{ font-family:PERSWEB; font-weight: bold; font-size:11pt;}
-.header-color {color:#0f2b46;}
-.twocol{ columns: 2}
+.farsi { font-family:PERSWEB; font-weight: bold; font-size:11pt; }
+.header-color { color:#0f2b46; }
+.twocol { columns: 2 }
+ul.twocol { width: 110%; }
 </style>
 
 **Hi!** This is Mohammad<sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, a PhD student in [Information&nbsp;Security](https://www.chalmers.se/en/departments/cse/our-research/computing-science/#information-security) under the supervision of [Andrei&nbsp;Sabelfeld](https://www.cse.chalmers.se/~andrei/) 
