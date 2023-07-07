@@ -12,11 +12,11 @@ main:
   - title: "Lecture Notes"
     url: /lecturenotes/
 
-#  - title: "CV"
-#    url: /cv/
+ - title: "CV"
+   url: /cv/
 
   - title: "Photos"
     url: /gothenburgwithme/
 
   - title: "Others"
-    url: /others/  
+    url: /others/
