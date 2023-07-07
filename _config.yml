@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohammad M. Ahmadpanah"
+title                    : "Amirhossein Aminimehr"
 title_separator          : "-"
-name                     : &name "Mohammad M. Ahmadpanah"
-description              : &description "The Personal Website of Mohammad M. Ahmadpanah | صفحه شخصی محمد احمدپناه"
+name                     : &name "Amirhossein Aminimehr"
+description              : &description "The Personal Website of Amirhossein Aminimehr | صفحه شخصی امیرحسین امینی مهر"
 url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "smahmadpanah/smahmadpanah.github.io"
+repository               : "AmirhosseinAminimehr/AmirhosseinAminimehr.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "smahmadpanah"
+  username               :
 facebook:
-  username               : smahmadpanah
+  username               :
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -80,39 +80,39 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohammad M. Ahmadpanah"
+  name             : "Amirhossein Aminimehr"
   avatar           : "profile.png"
-  bio              : "PhD Student in Information&nbsp;Security<br><a href='https://www.chalmers.se/en'><img src='/images/chalmers.png'></a>&nbsp;&nbsp;<a href='https://aut.ac.ir/en'><img src='/images/aut.png'></a>"
-  location         : "https://goo.gl/maps/ZxJrHZxG96hMjhjS8"
+  bio              : "Master Student in Artificial Intelligence &nbsp;Security<br><a href='https://www.chalmers.se/en'><img src='/images/chalmers.png'></a>&nbsp;&nbsp;<a href='https://aut.ac.ir/en'><img src='/images/aut.png'></a>"
+  location         :
   #employer        : "chalmers"
   #pubmed          : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=MvbjHQsAAAAJ&hl=en"
-  gmail            : "smahmadpanah@gmail.com"
-  email            : "mohammad.ahmadpanah@chalmers.se"
+  googlescholar    : "https://scholar.google.com/citations?user=IHpx4ckAAAAJ&hl=en"
+  gmail            : "hosseindodg@gmail.com"
+  email            : "amir_aminimehr@comp.iust.ac.ir"
   #email           : "smahmadpanah@aut.ac.ir"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  #bitbucket       : 
+  #bitbucket       :
   skype            : "smahmadpanah"
-  phone            : "+46317721114"
-  telegram         : "smahmadpanah"
-  facebook         : "smahmadpanah"
+  phone            : "+98 939 364 6478"
+  telegram         : "dodgamirhossein"
+  facebook         :
   foursquare       :
-  github           : "smahmadpanah"
-  google_plus      : 
+  github           : "AmirhosseinAminimehr"
+  google_plus      :
   keybase          :
-  instagram        : "smahmadpanah"
+  instagram        : "hey_amirhossein"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "smahmadpanah"
+  linkedin         : "https://www.linkedin.com/in/amirhossein-aminimehr-3551711bb/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
-  soundcloud       : "smahmadpanah"
+  soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "smahmadpanah"
-  spotify          : "smahmadpanah"
+  twitter          :
+  spotify          : 
   weibo            :
   xing             :
   youtube          : #"Vv0cixelYXcPL1WJAHo_uQ"
