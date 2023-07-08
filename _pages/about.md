@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -15,7 +15,7 @@ redirect_from:
 ul.twocol { width: 110%; }
 </style>
 
-**Hi!** This is Mohammad<sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, a PhD student in [Information&nbsp;Security](https://www.chalmers.se/en/departments/cse/our-research/computing-science/#information-security) under the supervision of [Andrei&nbsp;Sabelfeld](https://www.cse.chalmers.se/~andrei/) 
+**Hi!** This is Amirhossein <sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, a Master student in [Artificial Intelligence](https://www.chalmers.se/en/departments/cse/our-research/computing-science/#information-security) under the supervision of [Andrei&nbsp;Sabelfeld](https://www.cse.chalmers.se/~andrei/)
 and [Daniel&nbsp;Hedin](https://www.chalmers.se/en/persons/utter/) at [Chalmers](https://www.chalmers.se/en) in Sweden, started in September 2019.
 Prior to that, I lived at [Amirkabir (Tehran Polytechnic)](https://aut.ac.ir/en) for 8 years (BSc in Software Engineering, MSc in Information Security, and PhD candidate in Software Engineering), all supervised by [Mehran&nbsp;S.&nbsp;Fallah](https://ce.aut.ac.ir/formalsecurity). Since then, I have been pursuing my passion for:
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
@@ -26,8 +26,8 @@ Prior to that, I lived at [Amirkabir (Tehran Polytechnic)](https://aut.ac.ir/en)
 </ul>
 
 <p id="fullname" style="display: none;"><sup>#
-my full name is <i>Seyed Mohammad Mehdi Ahmadpanah</i> (in Persian: <span class='farsi'>سید محمدمهدی احمدپناه</span>), and here is my voice pronouncing my name:  
-<span><audio id="player" src="files/my-name.wav"></audio>
+my full name is <i>Amirhossein Aminimehr</i> , and here is my voice pronouncing my name:  
+<span><audio id="player" src="files/my-name.m4a"></audio>
 <img src="/images/speaker.png" style="width:20px; cursor:pointer;" onclick="document.getElementById('player').play()"></span></sup></p>
 
 <script>
@@ -73,7 +73,7 @@ function toggle_visibility(id) {
 <li>Programming Language Technology (<i style='font-size: 0.8em;'>Graduate</i>)</li>
 </ul>
 
-### Amirkabir: 
+### Amirkabir:
 <ul class='twocol' markdown='1'>
 <li> Advanced Programming (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
 <li> Operating Systems Lab (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
@@ -90,10 +90,10 @@ function toggle_visibility(id) {
 
 <a href="/honors" class='header-color'>Honors and Activities</a>
 ----
-- External Reviewer of the conference flagships 
+- External Reviewer of the conference flagships
 <a href="https://www.usenix.org/conference/usenixsecurity24">USENIX Security'24</a>, <a href="https://www.sigsac.org/ccs/CCS2023/">CCS'23</a>, <a href="https://www.usenix.org/conference/usenixsecurity23">USENIX Security'23</a>, <a href="https://www.ieee-security.org/TC/CSF2022/">CSF'22</a>, <a href="http://www.ieee-security.org/TC/EuroSP2022/">EuroS&P'22</a>, <a href="https://www.ieee-security.org/TC/SP2021/">S&P'21</a>, <a href="https://www.ieee-security.org/TC/CSF2020/">CSF'20</a>, <a href="http://www.ieee-security.org/TC/EuroSP2020/">EuroS&P'20</a>, and <a href="https://www.sigsac.org/ccs/CCS2019/">CCS'19</a>
 - Invited speaker of <a href="https://www.csc.kth.se/tcs/seminars/seminars.html">KTH Security and Theoretical CS Seminars</a> and research visitor hosted by Musard Balliu, February 2023
-- Research visitor at <a href="https://www.mdu.se/en/malardalen-university">Mälardalen University</a>, hosted by Daniel Hedin, September and October 2023 
+- Research visitor at <a href="https://www.mdu.se/en/malardalen-university">Mälardalen University</a>, hosted by Daniel Hedin, September and October 2023
 - Recipient of the Adlerbert Foreign Student Hospitality Foundation scholarship, 2021, 2022 and 2023
 - Co-Organizer of <a href="https://www.cse.chalmers.se/research/group/security/event/">Chalmers Security & Privacy Seminars</a>, Chalmers, since September 2022
 - PhD Forum Speaker at <a href="https://sites.google.com/uniurb.it/fosad/home/fosad-2022/program">FOSAD'22</a>
@@ -109,10 +109,7 @@ function toggle_visibility(id) {
 - Recipient of the Outstanding Graduate Student Scholarship, Amirkabir, 2016
 - Direct Admission for Master and PhD studies, Amirkabir, 2015 and 2017
 - The Youngest Course Responsible (at age 22), Lab Instructor (at age 20) and
-Teaching Assistant (at age 16), Amirkabir 
+Teaching Assistant (at age 16), Amirkabir
 - Member of <a href="http://ceit.aut.ac.ir/formalsecurity/people.html">Formal Security Lab</a>, Amirkabir, 2015 - 2019
 - Member of the university team for the National Scientific Olympiad in Computer Engineering, Amirkabir, 2014
 - Skipped Three grades of Elementary School as an Exceptional Talent, 2002
-
-
-
