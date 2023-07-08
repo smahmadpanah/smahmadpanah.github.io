@@ -15,9 +15,9 @@ redirect_from:
 ul.twocol { width: 110%; }
 </style>
 
-**Hi!** This is Amirhossein <sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, a Master student in [Artificial Intelligence](https://www.chalmers.se/en/departments/cse/our-research/computing-science/#information-security) under the supervision of [Andrei&nbsp;Sabelfeld](https://www.cse.chalmers.se/~andrei/)
-and [Daniel&nbsp;Hedin](https://www.chalmers.se/en/persons/utter/) at [Chalmers](https://www.chalmers.se/en) in Sweden, started in September 2019.
-Prior to that, I lived at [Amirkabir (Tehran Polytechnic)](https://aut.ac.ir/en) for 8 years (BSc in Software Engineering, MSc in Information Security, and PhD candidate in Software Engineering), all supervised by [Mehran&nbsp;S.&nbsp;Fallah](https://ce.aut.ac.ir/formalsecurity). Since then, I have been pursuing my passion for:
+**Hi!** This is Amirhossein <sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, a Master student in [Artificial Intelligence](http://ce-inter.iust.ac.ir/) under the supervision of [Dr. Sauleh Eetemadi](http://ce.iust.ac.ir/page.php?slct_pg_id=18192&sid=14&slc_lang=fa)
+ in Iran, started in September 2020.
+Prior to that, I lived at [Iran University of Science and Technology](https://aut.ac.ir/en) for 4 years (BSc in Computer Engineering), supervised by [Dr. Nasser Mozayani](http://webpages.iust.ac.ir/mozayani/). Since then, I have been pursuing my passion for:
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
 <li> Language-Based Security</li>
 <li> Formal Methods for Information Security</li>
