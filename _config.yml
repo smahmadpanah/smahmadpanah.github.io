@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Amirhossein Aminimehr"
   avatar           : "profile.png"
-  bio              : "Master Student in Artificial Intelligence &nbsp;Security<br><a href='http://admission.iust.ac.ir/'><img src='/images/IUST.jpg'>"
+  bio              : "Master Student in Artificial Intelligence <a href='http://admission.iust.ac.ir/'><img src='/images/IUST.jpg'>"
   location         :
   #employer        : "chalmers"
   #pubmed          : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
