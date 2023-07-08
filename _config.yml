@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Amirhossein Aminimehr"
   avatar           : "profile.png"
-  bio              : "Master Student in Artificial Intelligence &nbsp;Security<br><a href='https://www.chalmers.se/en'><img src='/images/chalmers.png'></a>&nbsp;&nbsp;<a href='https://aut.ac.ir/en'><img src='/images/aut.png'></a>"
+  bio              : "Master Student in Artificial Intelligence &nbsp;Security<br><a href='http://admission.iust.ac.ir/'><img src='/images/IUST.png'>"
   location         :
   #employer        : "chalmers"
   #pubmed          : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -93,7 +93,7 @@ author:
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   #bitbucket       :
-  skype            : "smahmadpanah"
+  skype            :
   phone            : "+98 939 364 6478"
   telegram         : "dodgamirhossein"
   facebook         :
@@ -104,7 +104,7 @@ author:
   instagram        : "hey_amirhossein"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/amirhossein-aminimehr-3551711bb/"
+  linkedin         : "https://www.linkedin.com/in/amirhossein-aminimehr-3551711bb/?originalSubdomain=fr"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -112,7 +112,7 @@ author:
   steam            :
   tumblr           :
   twitter          :
-  spotify          : 
+  spotify          :
   weibo            :
   xing             :
   youtube          : #"Vv0cixelYXcPL1WJAHo_uQ"
