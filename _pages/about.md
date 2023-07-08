@@ -17,12 +17,13 @@ ul.twocol { width: 110%; }
 
 **Hi!** This is Amirhossein <sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, a Master student in [Artificial Intelligence](http://ce-inter.iust.ac.ir/) under the supervision of [Dr. Sauleh Eetemadi](http://ce.iust.ac.ir/page.php?slct_pg_id=18192&sid=14&slc_lang=fa)
  in Iran, started in September 2020.
-Prior to that, I lived at [Iran University of Science and Technology](https://aut.ac.ir/en) for 4 years (BSc in Computer Engineering), supervised by [Dr. Nasser Mozayani](http://webpages.iust.ac.ir/mozayani/). Since then, I have been pursuing my passion for:
+Prior to that, I lived at [Iran University of Science and Technology](http://admission.iust.ac.ir/) for 4 years (BSc in Computer Engineering), supervised by [Dr. Nasser Mozayani](http://webpages.iust.ac.ir/mozayani/). Since then, I have been pursuing my passion for:
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
-<li> Language-Based Security</li>
-<li> Formal Methods for Information Security</li>
-<li> Information-Flow Security</li>
-<li> Programming Languages</li>
+<li> Computer Vision</li>
+<li> Image Processing</li>
+<li> XAI </li>
+<li> AI in Medical Imaging </li>
+<li> AI in Stock Market Prediction  </li>
 </ul>
 
 <p id="fullname" style="display: none;"><sup>#
@@ -42,16 +43,16 @@ function toggle_visibility(id) {
 
 <a href="/publications" class='header-color'>Publications</a>
 ----
-0. **LazyTAP: On-Demand Data Minimization for Trigger-Action Applications**, *S&P'23* [[pdf](papers/sp23.pdf)] [[teaser](https://www.youtube.com/watch?v=TQI11hNE2KA)]
-<br><i>Mohammad M. Ahmadpanah</i>, Daniel Hedin, and Andrei Sabelfeld
-0. **Securing Software in the Presence of Third-Party Modules**, *Licentiate thesis*, 2021 [[pdf](papers/licentiate.pdf)] [[video](https://youtu.be/0Mdj-sNxqXU)]
-<br>Supervisor: Andrei Sabelfeld, Co-supervisor: Daniel Hedin, Opponent: Deian Stefan, Examiner: David Sands
-0. **Securing Node-RED Applications**, *Protocols, Strands, and Logic: Festschrift in honor of Joshua Guttman'21* [[pdf](/papers/joshua21.pdf)] [[video](https://youtu.be/0qKo0hNt2Ek)]
-<br><i>Mohammad M. Ahmadpanah</i>, Musard Balliu, Daniel Hedin, Lars Eric Olsson, and Andrei Sabelfeld
-0. **Nontransitive Policies Transpiled**, *EuroS&P'21* [[pdf](/papers/eurosp21.pdf)] [[short talk](https://youtu.be/mAMgyhWL-AE?t=320)]
-<br><i>Mohammad M. Ahmadpanah</i>, Aslan Askarov, and Andrei Sabelfeld
-0. **SandTrap: Securing JavaScript-driven Trigger-Action Platforms**, *USENIX Security'21* [[pdf](/papers/usenix21.pdf)]
-<br><i>Mohammad M. Ahmadpanah</i>, Daniel Hedin, Musard Balliu, Lars Eric Olsson, and Andrei Sabelfeld
+0. **Entri: Ensemble Learning with Tri-Level Representations for Explainable Scene Recognition**, *Pattern Recognition in review process*, 2023 [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4482110)]
+<br><i>Amirhossein Aminimehr</i>, Amirali Molaei, and Erik Cambria
+0. **Tbexplain: A Text-Based Explanation Method for Scene Classification Models with the Statistical Prediction Correction**, *Expert Systems with Applications in review process*, 2023 [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4385953)]
+<br><i>Amirhossein Aminimehr</i>, Pouya Khani, Amirali Molaei, Amirmohammad Kazemeini, Erik Cambria
+0. **A comprehensive study of market prediction from Efficient Market Hypothesis up to late intelligent market prediction approaches**, *Computational Economics - Springer*, 2022 [[pdf](https://link.springer.com/article/10.1007/s10614-022-10283-1)]
+<br>Amin Aminimehr, Ali Raoofi, Akbar Aminimehr, <i>Amirhossein Aminimehr</i>
+0. **A Time Step Cascade CNN-LSTM Neural Network for predicting adjusted close price of 5 largest firms in Tehran Stock Exchange**, *3rd International Conference on Interdisciplinary Studies in Management Engineering (ICISME-2021)*, 2021 [[pdf](https://civilica.com/doc/1178787/)]
+<br>Amin Aminimehr, <i>Amirhossein Aminimehr</i>, MohammadJalal Pouromid, Arman Yekkehkhani
+0. **The role of Feature Engineering in prediction of Tehran Stock Exchange Index based on LSTM**, *Iranian Journal of Economic Studies - Shiraz University*, 2020 [[pdf](https://ijes.shirazu.ac.ir/article_6213.html)]
+<br>Amin Aminimehr, Ali Raoofi, Akbar Aminimehr, <i>Amirhossein Aminimehr</i>
 0. **Improving Multi-Execution-based Mechanisms for Enforcing Information Flow Policies**, *Master's thesis*, 2017 [[pdf](https://github.com/smahmadpanah/MScDocuments/blob/master/Thesis/Thesis.pdf)]
 <br>Supervisor: Mehran S. Fallah, Opponents: Mehdi Shajari and Ramtin Khosravi
 0. **Dynamic Enforcement of Security Hyperproperties: A Survey**, *Technical report*, 2016
