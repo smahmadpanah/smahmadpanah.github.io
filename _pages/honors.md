@@ -8,19 +8,23 @@ author_profile: true
 
 <ul>
 
+<li><b>School of Computer Engineering, Iran University of Science and Technology 2020 Master Entries for Artificial Intelligence and Robotics Branch</b></li>
+
+<li><b>School of Computer Engineering, Iran University of Science and Technology 2020 Master Entries for Artificial Intelligence and Robotics Branch</b></li>
+
 <li><b>External Reviewer</b> of the conference flagships <a href="https://www.usenix.org/conference/usenixsecurity24">USENIX Security'24</a>, <a href="https://www.sigsac.org/ccs/CCS2023/">CCS'23</a>, <a href="https://www.usenix.org/conference/usenixsecurity23">USENIX Security'23</a>, <a href="https://www.ieee-security.org/TC/CSF2022/">CSF'22</a>, <a href="http://www.ieee-security.org/TC/EuroSP2022/">EuroS&P'22</a>, <a href="https://www.ieee-security.org/TC/SP2021/">S&P'21</a>, <a href="https://www.ieee-security.org/TC/CSF2020/">CSF'20</a>, <a href="http://www.ieee-security.org/TC/EuroSP2020/">EuroS&P'20</a>, and <a href="https://www.sigsac.org/ccs/CCS2019/">CCS'19</a>.</li>
 
 <li><b>Invited speaker</b> of <a href="https://www.csc.kth.se/tcs/seminars/seminars.html">KTH Security and Theoretical CS Seminars</a> and research visitor hosted by Musard Balliu, February 2023.</li>
 
-<li><b>Research Visitor</b> at <a href="https://www.mdu.se/en/malardalen-university">Mälardalen University</a>, hosted by Daniel Hedin, September and October 2023.</li> 
+<li><b>Research Visitor</b> at <a href="https://www.mdu.se/en/malardalen-university">Mälardalen University</a>, hosted by Daniel Hedin, September and October 2023.</li>
 
 <li><b>Recipient</b> of the <a href="http://adlerbertska.se/en/hospitality/the-foundation/">Adlerbert Foreign Student Hospitality Foundation</a> scholarship, 2021, 2022 and 2023.</li>
 
 <li><b>Co-Organizer</b> of <a href="https://www.cse.chalmers.se/research/group/security/event/">Chalmers Security & Privacy Seminars</a>, Chalmers, since September 2022.</li>
 
-<li><b>PhD Forum Speaker</b> at <a href="https://sites.google.com/uniurb.it/fosad/home/fosad-2022/program">FOSAD'22</a>.</li> 
+<li><b>PhD Forum Speaker</b> at <a href="https://sites.google.com/uniurb.it/fosad/home/fosad-2022/program">FOSAD'22</a>.</li>
 
-<li><b>Session Chair</b> on CTF and Speaker at <a href="https://swits.hotell.kau.se/AnnualSeminars/SWITS_2022/SWITS2022_programme.htm">SWITS'22</a>.</li> 
+<li><b>Session Chair</b> on CTF and Speaker at <a href="https://swits.hotell.kau.se/AnnualSeminars/SWITS_2022/SWITS2022_programme.htm">SWITS'22</a>.</li>
 
 <li><b>Member</b> of Educational CTF organization team (as part of the Language-Based Security course), Chalmers, 2021, 2022 and 2023.</li>
 
@@ -44,7 +48,7 @@ author_profile: true
 <li><b>Security Consultant</b> and Provider of Security Protection Profiles, <a href="http://knsecure.com/">Kahkeshan Moshaver</a>, June 2018 - July 2019.
 </li>
 
-<li>Web Application <b>Security Tester</b>, <b>Developer</b> and <b>Instructor</b>, 
+<li>Web Application <b>Security Tester</b>, <b>Developer</b> and <b>Instructor</b>,
 <a href="https://apa.aut.ac.ir/">AUT CERT Lab</a>, Summer 2015 and September 2018 - July 2019.
 </li>
 
