@@ -61,27 +61,17 @@ function toggle_visibility(id) {
 
 <a href="/teaching"  class='header-color'>Teaching</a>
 ----
-### Chalmers:
+### Iran University of Science and Technology:
 <ul class='twocol' markdown='1'>
-<li>Master's thesis supervision (<i style='font-size: 0.8em;'>Securing Electronic Exam Environments</i>)</li>
-<li>Language-Based Security (<i style='font-size: 0.8em;'>Graduate</i>)</li>
-<li>Finite Automata and Formal Languages</li>
-<li>Programming Language Technology (<i style='font-size: 0.8em;'>Graduate</i>)</li>
-</ul>
-
-### Amirkabir:
-<ul class='twocol' markdown='1'>
-<li> Advanced Programming (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
-<li> Operating Systems Lab (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
-<li> Computer Lab (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
-<li> Discrete Mathematics</li>
-<li> Design of Programming Languages</li>
-<li> Data Structures</li>
-<li> Principles of Compiler Design</li>
-<li> Computer Networks II</li>
-<li> Information Storage and Retrieval</li>
-<li> Software Engineering I</li>
-<li> Computer Architecture</li>
+<li> Natural Language Processing - [Dr. Behrouz Minaei-Bidgoli](http://minaei.iust.ac.ir/) (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
+<li> Natural Language Processing - [Dr. Behrouz Minaei-Bidgoli](http://minaei.iust.ac.ir/) (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
+<li> Mobile Networks - [Dr. Abolfazl Diyanat](https://its.iust.ac.ir/profile/en/adiyanat) (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
+<li> Neural Networks - [Dr. Naser Mozayani](http://webpages.iust.ac.ir/mozayani/) (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
+<li> Database - [Dr. Eisa Zarepour](https://its.iust.ac.ir/profile/en/zarepour) (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
+<li> Computer-Aided Design - [Dr. Hajar Falahati](https://scholar.google.com/citations?user=gm3mlIoAAAAJ&hl=en) (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
+<li> Discrete Mathematics - [Dr. Mehrdad Ashtiani](http://webpages.iust.ac.ir/m_ashtiani/) (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
+<li> Computer Architecture - [Dr. Hakem Beitollahi](http://webpages.iust.ac.ir/beitollahi/) (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
+<li> Logic Circuit - [Dr. Hakem Beitollahi](http://webpages.iust.ac.ir/beitollahi/) (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
 </ul>
 
 <a href="/honors" class='header-color'>Honors and Activities</a>
