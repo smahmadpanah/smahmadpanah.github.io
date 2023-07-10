@@ -29,7 +29,7 @@ author_profile: true
 <ol reversed>
 
 <div id="7">
-<li> <b>Entri: Ensemble Learning with Tri-Level Representations for Explainable Scene Recognition - Pattern Recognition in review process</b> [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4482110)]
+<li> <b>Entri: Ensemble Learning with Tri-Level Representations for Explainable Scene Recognition - Pattern Recognition in review process</b> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4482110">Link</a>]
 <br><i>Amirhossein Aminimehr</i>, Amirali Molaei, and Erik Cambria
 <div class='button' data-content="toggle-text"><a href="#7">abstract</a></div>
 <div class='abstract'>
@@ -37,7 +37,7 @@ Scene recognition based on deep-learning has made significant progress, but ther
 </div></li></div>
 
 <div id="6">
-<li> <b>Tbexplain: A Text-Based Explanation Method for Scene Classification Models with the Statistical Prediction Correction - Expert Systems with Applications in review process</b> [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4385953)]
+<li> <b>Tbexplain: A Text-Based Explanation Method for Scene Classification Models with the Statistical Prediction Correction - Expert Systems with Applications in review process</b> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4385953">Link</a>]
   <br><i>Amirhossein Aminimehr</i>, Pouya Khani, Amirali Molaei, Amirmohammad Kazemeini, Erik Cambria
 <div class='button' data-content="toggle-text"><a href="#6">abstract</a></div>
 <div class='abstract'>
@@ -45,7 +45,7 @@ The field of Explainable Artificial Intelligence (XAI) aims to improve the inter
 </div></li></div>
 
 <div id="5">
-<li> <b>A comprehensive study of market prediction from Efficient Market Hypothesis up to late intelligent market prediction approaches</b> [[Link](https://link.springer.com/article/10.1007/s10614-022-10283-1)]
+<li> <b>A comprehensive study of market prediction from Efficient Market Hypothesis up to late intelligent market prediction approaches</b> [<a href="https://link.springer.com/article/10.1007/s10614-022-10283-1">Link</a>]
 <br>Amin Aminimehr, Ali Raoofi, Akbar Aminimehr, <i>Amirhossein Aminimehr</i>
 <br><a class='button' data-content="toggle-text" href="#5">abstract</a>
 <div class='abstract'>
@@ -54,7 +54,7 @@ This paper has scrutinized the process of testing market efficiency, data genera
 
 
 <div id="4">
-<li> <b>A Time Step Cascade CNN-LSTM Neural Network for predicting adjusted close price of 5 largest firms in Tehran Stock Exchange</b> [[Link](https://civilica.com/doc/1178787/)]
+<li> <b>A Time Step Cascade CNN-LSTM Neural Network for predicting adjusted close price of 5 largest firms in Tehran Stock Exchange</b> [<a href="https://civilica.com/doc/1178787/">Link</a>]
 <br>Amin Aminimehr, <i>Amirhossein Aminimehr</i>, MohammadJalal Pouromid, Arman Yekkehkhani
 <div class='button' data-content="toggle-text"><a href="#4">abstract</a></div>
 <div class='abstract'>
@@ -62,7 +62,7 @@ Tehran stock exchange has gained a lot of attention through recent years. This i
 </div></li></div>
 
 <div id="3">
-<li> <b>The role of Feature Engineering in prediction of Tehran Stock Exchange Index based on LSTM</b> [Link](https://ijes.shirazu.ac.ir/article_6213.html)
+<li> <b>The role of Feature Engineering in prediction of Tehran Stock Exchange Index based on LSTM</b> [<a href="https://ijes.shirazu.ac.ir/article_6213.html">Link</a>]
 <br>Amin Aminimehr, Ali Raoofi, Akbar Aminimehr, <i>Amirhossein Aminimehr</i>
 <br><a class='button' data-content="toggle-text" href="#3">abstract</a>
 <div class='abstract'>
@@ -71,51 +71,12 @@ In this research, the impact of different preprocessing methods on the Long-Shor
 
 
 <div id="2">
-<li> <b>Improving Multi-Execution-based Mechanisms for Enforcing Information Flow Policies</b>, <em>Master's thesis</em>, 2017 [<a href="https://github.com/smahmadpanah/MScDocuments/blob/master/Thesis/Thesis.pdf">pdf</a>] [<a href="https://github.com/smahmadpanah/MScDocuments/tree/master/Thesis">link</a>]
-  <br>Supervisor: Mehran S. Fallah, Opponents: Mehdi Shajari and Ramtin Khosravi
+<li> <b>Robust Convolutional Neural Network</b>, <em>Bachelor's thesis</em>, 2019 [<a href="https://github.com/AmirhosseinAminimehr/BScDocuments/tree/main/Thesis/Thesis.pdf">Link</a>]
+  <br>Supervisor: Dr. Nasser Mozayani, Opponents: Dr. Mohammad Reza Mohammadi
 <div class='button' data-content="toggle-text"><a href="#2">abstract</a></div>
 <div class='abstract'>
-Secure Multi-Execution (SME) proves to be a successful technique for
-enforcing noninterference. A security mechanism based on SME schedules and
-executes multiple copies of a given program, one copy for each security
-level, and controls the input/output operations of the copies in a certain
-manner. A main challenge in devising such mechanisms is to achieve precision,
-which basically stipulates that changes to the executions of secure programs
-must be as minimal as possible. Although research in this area has yielded
-interesting results, the proposed mechanisms do not attain an acceptable
-level of precision even for the security policies that are weakly sensitive
-to the timing behavior of programs. This paper proposes a sound and highly
-precise mechanism for a strong timing-sensitive noninterference. Using a
-specific round-robin-like scheduler, the mechanism indeed arrives at a
-highest level of precision demanding that the relative order of input/output
-events from different security levels should be preserved.
+In the first step of this report we are introducing Convolutional Neural Networks (CNN) and its utilities in daily life for human. Following by that there is going to be an introduction about Mnist dataset. In the next step there is an overview about fooling generative adversarial networks (GAN) on CNN s and specifically about fooling CNN s through fast gradient sign method. Finally defending methods against fooling of CNN s has been studied and some implementations has been exhibited on Python for different ways of fooling and defenses against them. Results has shown that attacks can be defended in significant amount of experiments. These results are extracted from implementing, attacking and defending algorithms on Mnist data set. These algorithms include adversarial networks and distilling defense. furthermore, results have shown that defending on fast gradient sign method can successfully neutralize their effect but there are more recent methods that can still have their effects. And there should be even more and newer ways to be contributed in defending these fooling effects.
 </div></li></div>
-
-
-<div id="2'">
-<li> <b>Dynamic Enforcement of Security Hyperproperties: A Survey</b>, <em>Technical report</em>, 2016 [<a href="https://github.com/smahmadpanah/MScDocuments/blob/master/Seminar/Dynamic%20Enforcement%20of%20Security%20Hyperproperties-SeminarReport.pdf">pdf</a>]
-<br>Supervisor: Mehran S. Fallah
-<div class='button' data-content="toggle-text"><a href="#2'">abstract</a></div>
-<div class='abstract'>
-Security policies can be categorized as properties and non-properties. Information flow control is one of the important confidentiality and integrity policies. The difference between expressing policies using only one or more than one trace entails several enforcement mechanisms.
-<p style="margin-top: -0.1%;">
-Two main types of security enforcement mechanisms are static and dynamic. The common feature of static mechanisms is being conservative due to source-code static analysis before the execution. On the other side, runtime monitoring is a well-known technique among dynamic mechanisms. Recently, permissiveness of dynamic techniques for enforcing information flow policies, compared to static analysis, has attracted increasing attraction. Hybrid approaches make use of source-code analysis as additional information on other possible executions of the program under the monitor. Security enforcement mechanisms can be measured in terms of soundness, transparency, and precision. </p>
-<p style="margin-top: -2.5%;">
-In this technical report, we review the notion of security policies and hyperproperties. We study a wide range of enforcement techniques, including static mechanisms, dynamic mechanisms, program rewriting, and hybrid analysis. We also review the characterization of various dynamic mechanisms and runtime monitors (with or without prior knowledge of possible behaviors of the program) in the literature with reference to enforcement paradigms and comparison factors. </p>
-</div></li></div>
-
-<div id="1">
-<li> <b>A Tool for Rewriting-Based Enforcement of Noninterference in While Programs</b>, <em>Bachelor's thesis</em>, 2015 [<a href="https://github.com/smahmadpanah/BScProject/blob/master/Final%20Documents/Thesis.pdf">pdf</a>] [<a href="https://github.com/smahmadpanah/BScProject">link</a>]
-<br>Supervisor: Mehran S. Fallah, Opponent: MohammadReza Razzazi
-<div class='button' data-content="toggle-text"><a href="#1">abstract</a></div>
-<div class='abstract'>
-  Program rewriting has recently been suggested as a means of enforcing security
-policies and proven more powerful than execution monitoring and static analysis.
-We implement a novel, sound and transparent rewriting mechanism
-using Program Dependence Graphs (PDG) to enforce progress-sensitive and -insensitive noninterference in programs with observable intermediate values.
-</div></li></div>
-</ol>
-
 
 
 

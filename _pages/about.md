@@ -53,13 +53,8 @@ function toggle_visibility(id) {
 <br>Amin Aminimehr, <i>Amirhossein Aminimehr</i>, MohammadJalal Pouromid, Arman Yekkehkhani
 0. **The role of Feature Engineering in prediction of Tehran Stock Exchange Index based on LSTM**, *Iranian Journal of Economic Studies - Shiraz University*, 2020 [[Link](https://ijes.shirazu.ac.ir/article_6213.html)]
 <br>Amin Aminimehr, Ali Raoofi, Akbar Aminimehr, <i>Amirhossein Aminimehr</i>
-0. **Improving Multi-Execution-based Mechanisms for Enforcing Information Flow Policies**, *Master's thesis*, 2017 [[Link](https://github.com/smahmadpanah/MScDocuments/blob/master/Thesis/Thesis.pdf)]
-<br>Supervisor: Mehran S. Fallah, Opponents: Mehdi Shajari and Ramtin Khosravi
-0. **Dynamic Enforcement of Security Hyperproperties: A Survey**, *Technical report*, 2016
-[[Link](https://github.com/smahmadpanah/MScDocuments/blob/master/Seminar/Dynamic%20Enforcement%20of%20Security%20Hyperproperties-SeminarReport.pdf)]
-<br>Supervisor: Mehran S. Fallah
-0. **A Tool for Rewriting-Based Enforcement of Noninterference in While Programs**, *Bachelor's thesis*, 2015 [[Link](https://github.com/smahmadpanah/BScProject/blob/master/Final%20Documents/Thesis.pdf)]
-<br>Supervisor: Mehran S. Fallah, Opponent: MohammadReza Razzazi
+0. **Robust Convolutional Neural Network**, *Bachelor's thesis*, 2017 [[Link](https://github.com/AmirhosseinAminimehr/BScDocuments/tree/main/Thesis/Thesis.pdf)]
+<br>Supervisor: Dr. Nasser Mozayani, Opponents: Dr. Mohammad Reza Mohammadi
 {: reversed="reversed"}
 
 
