@@ -62,7 +62,7 @@ Tehran stock exchange has gained a lot of attention through recent years. This i
 </div></li></div>
 
 <div id="3">
-<li> <b>The role of Feature Engineering in prediction of Tehran Stock Exchange Index based on LSTM</b> [[Link](https://ijes.shirazu.ac.ir/article_6213.html)]
+<li> <b>The role of Feature Engineering in prediction of Tehran Stock Exchange Index based on LSTM</b> [Link](https://ijes.shirazu.ac.ir/article_6213.html)
 <br>Amin Aminimehr, Ali Raoofi, Akbar Aminimehr, <i>Amirhossein Aminimehr</i>
 <br><a class='button' data-content="toggle-text" href="#3">abstract</a>
 <div class='abstract'>
