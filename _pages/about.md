@@ -76,26 +76,11 @@ function toggle_visibility(id) {
 
 <a href="/honors" class='header-color'>Honors and Activities</a>
 ----
-- External Reviewer of the conference flagships
-<a href="https://www.usenix.org/conference/usenixsecurity24">USENIX Security'24</a>, <a href="https://www.sigsac.org/ccs/CCS2023/">CCS'23</a>, <a href="https://www.usenix.org/conference/usenixsecurity23">USENIX Security'23</a>, <a href="https://www.ieee-security.org/TC/CSF2022/">CSF'22</a>, <a href="http://www.ieee-security.org/TC/EuroSP2022/">EuroS&P'22</a>, <a href="https://www.ieee-security.org/TC/SP2021/">S&P'21</a>, <a href="https://www.ieee-security.org/TC/CSF2020/">CSF'20</a>, <a href="http://www.ieee-security.org/TC/EuroSP2020/">EuroS&P'20</a>, and <a href="https://www.sigsac.org/ccs/CCS2019/">CCS'19</a>
-- Invited speaker of <a href="https://www.csc.kth.se/tcs/seminars/seminars.html">KTH Security and Theoretical CS Seminars</a> and research visitor hosted by Musard Balliu, February 2023
-- Research visitor at <a href="https://www.mdu.se/en/malardalen-university">Mälardalen University</a>, hosted by Daniel Hedin, September and October 2023
-- Recipient of the Adlerbert Foreign Student Hospitality Foundation scholarship, 2021, 2022 and 2023
-- Co-Organizer of <a href="https://www.cse.chalmers.se/research/group/security/event/">Chalmers Security & Privacy Seminars</a>, Chalmers, since September 2022
-- PhD Forum Speaker at <a href="https://sites.google.com/uniurb.it/fosad/home/fosad-2022/program">FOSAD'22</a>
-- Session Chair and Speaker at <a href="https://swits.hotell.kau.se/AnnualSeminars/SWITS_2022/SWITS2022_programme.htm">SWITS'22</a>
-- Fellow of Student Activities committee (2022-2023) and Member of <a href="https://www.isee.ir/en">The Iranian Society of Engineering Education</a>, since 2020
-- Poster presenter and participant of <a href="https://sites.google.com/google.com/compiler-summit-2019/faculty-attendees?authuser=0">Google Compiler and Programming Language Summit</a>, December 2019.
-- Member of <a href="https://www.cse.chalmers.se/research/group/security/cybersecit/">CyberSecIT</a> and <a href="https://www.cse.chalmers.se/research/group/security/websec/">WebSec</a> projects, and <a href="https://www.cse.chalmers.se/research/group/security/people/">Chalmers Security Lab</a>, Chalmers, since September 2019
-- The 2nd place among PhD students of the department, Amirkabir, 2018 and 2019
-- The Best Teaching Assistant and Lab Instructor of the department, Amirkabir, 2016, 2017 and 2019
-- Scientific Talent by the National Elite Foundation of Iran, 2018
-- Top 3% among Course Responsibles, Amirkabir, Spring 2018
-- The 1st place among Master's students in Information Security, 2016 and 2017
-- Recipient of the Outstanding Graduate Student Scholarship, Amirkabir, 2016
-- Direct Admission for Master and PhD studies, Amirkabir, 2015 and 2017
-- The Youngest Course Responsible (at age 22), Lab Instructor (at age 20) and
-Teaching Assistant (at age 16), Amirkabir
-- Member of <a href="http://ceit.aut.ac.ir/formalsecurity/people.html">Formal Security Lab</a>, Amirkabir, 2015 - 2019
-- Member of the university team for the National Scientific Olympiad in Computer Engineering, Amirkabir, 2014
-- Skipped Three grades of Elementary School as an Exceptional Talent, 2002
+- Membership of Iran’s National Elites Foundation, 2020 and 2021
+- Rank 2 Among 30 Students in School of Computer Engineering, Iran University of Science and Technology 2020 Master Entries for Artificial Intelligence and Robotics Branch
+- Rank 2 Among 68 students in School of Computer Engineering, Iran University of Science and Technology 2016 Bachelor Entries for Computer Engineering
+- Direct Admission for Master and PhD studies, Iran University of Science and Technology, 2019 and 2022
+- Rank 2000 among more than 182,000 participants in Iranian National Universities Entrance Exam
+- Acceptance to Math Olympiad Of Iran 2013
+- Acceptance to High School of The Shining Talents of Iran, 2011
+- Skipped One grade of Elementary School as an Exceptional Talent, 2009
