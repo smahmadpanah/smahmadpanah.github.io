@@ -4,9 +4,6 @@ title: "Honors and Activities"
 permalink: /honors/
 author_profile: true
 ---
-
-
-
 - Membership of Iran’s National Elites Foundation, 2020 and 2021
 - Rank 2 Among 30 Students in School of Computer Engineering, Iran University of Science and Technology 2020 Master Entries for Artificial Intelligence and Robotics Branch
 - Rank 2 Among 68 students in School of Computer Engineering, Iran University of Science and Technology 2016 Bachelor Entries for Computer Engineering

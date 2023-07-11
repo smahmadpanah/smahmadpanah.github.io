@@ -9,14 +9,14 @@ main:
   - title: "Honors and Activities"
     url: /honors/
 
-  - title: "Lecture Notes"
-    url: /lecturenotes/
+  # - title: "Lecture Notes"
+  #   url: /lecturenotes/
 
  # - title: "CV"
  #   url: /cv/
+  #
+  # - title: "Photos"
+  #   url: /gothenburgwithme/
 
-  - title: "Photos"
-    url: /gothenburgwithme/
-
-  - title: "Others"
-    url: /others/
+  # - title: "Others"
+  #   url: /others/
