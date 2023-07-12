@@ -63,15 +63,15 @@ function toggle_visibility(id) {
 ----
 ### Iran University of Science and Technology:
 <ul class='twocol' markdown='1'>
-<li> Natural Language Processing - [Dr. Behrouz Minaei-Bidgoli](http://minaei.iust.ac.ir/) (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
-<li> Natural Language Processing - [Dr. Behrouz Minaei-Bidgoli](http://minaei.iust.ac.ir/) (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
-<li> Mobile Networks - [Dr. Abolfazl Diyanat](https://its.iust.ac.ir/profile/en/adiyanat) (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
-<li> Neural Networks - [Dr. Naser Mozayani](http://webpages.iust.ac.ir/mozayani/) (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
-<li> Database - [Dr. Eisa Zarepour](https://its.iust.ac.ir/profile/en/zarepour) (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
-<li> Computer-Aided Design - [Dr. Hajar Falahati](https://scholar.google.com/citations?user=gm3mlIoAAAAJ&hl=en) (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
-<li> Discrete Mathematics - [Dr. Mehrdad Ashtiani](http://webpages.iust.ac.ir/m_ashtiani/) (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
-<li> Computer Architecture - [Dr. Hakem Beitollahi](http://webpages.iust.ac.ir/beitollahi/) (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
-<li> Logic Circuit - <a href="http://webpages.iust.ac.ir/beitollahi/"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i>Dr. Hakem Beitollahi</a></li>
+<li> Natural Language Processing - <a href="http://minaei.iust.ac.ir/">Dr. Behrouz Minaei-Bidgoli</a></li>
+<li> Natural Language Processing - <a href="http://minaei.iust.ac.ir/">Dr. Behrouz Minaei-Bidgoli</a></li>
+<li> Mobile Networks - <a href="https://its.iust.ac.ir/profile/en/adiyanat">Dr. Abolfazl Diyanat</a></li>
+<li> Neural Networks - <a href="http://webpages.iust.ac.ir/mozayani/">Dr. Naser Mozayani</a></li>
+<li> Database Design - <a href="https://its.iust.ac.ir/profile/en/zarepour">Dr. Eisa Zarepour</a></li>
+<li> Computer-Aided Design - <a href="https://scholar.google.com/citations?user=gm3mlIoAAAAJ&hl=en">Dr. Hajar Falahati</a></li>
+<li> Discrete Mathematics - <a href="http://webpages.iust.ac.ir/m_ashtiani/">Dr. Mehrdad Ashtiani</a></li>
+<li> Computer Architecture - <a href="http://webpages.iust.ac.ir/beitollahi/">Dr. Hakem Beitollahi</a></li>
+<li> Logic Circuit - <a href="http://webpages.iust.ac.ir/beitollahi/">Dr. Hakem Beitollahi</a></li>
 </ul>
 
 
