@@ -71,8 +71,10 @@ function toggle_visibility(id) {
 <li> Computer-Aided Design - [Dr. Hajar Falahati](https://scholar.google.com/citations?user=gm3mlIoAAAAJ&hl=en) (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
 <li> Discrete Mathematics - [Dr. Mehrdad Ashtiani](http://webpages.iust.ac.ir/m_ashtiani/) (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
 <li> Computer Architecture - [Dr. Hakem Beitollahi](http://webpages.iust.ac.ir/beitollahi/) (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
-<li> Logic Circuit - [Dr. Hakem Beitollahi](http://webpages.iust.ac.ir/beitollahi/) (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
+<li> Logic Circuit - <a href="http://webpages.iust.ac.ir/beitollahi/"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i>Dr. Hakem Beitollahi</a></li>
 </ul>
+
+
 
 <a href="/honors" class='header-color'>Honors and Activities</a>
 ----
