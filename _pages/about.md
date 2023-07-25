@@ -26,7 +26,7 @@ Prior to that, I lived at [Iran University of Science and Technology](http://adm
 <li> AI in Stock Market Prediction  </li>
 </ul>
 
-Here you can see my <a href="/files/Amirhossein_Aminimehr_CV">resume</a></li>
+Here you can see my [[resume](/files/Amirhossein_Aminimehr_CV.pdf)]
 
 <p id="fullname" style="display: none;"><sup>#
 my full name is <i>Amirhossein Aminimehr</i> , and here is my voice pronouncing my name:  
