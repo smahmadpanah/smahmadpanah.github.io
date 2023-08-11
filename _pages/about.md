@@ -53,7 +53,7 @@ function toggle_visibility(id) {
 <br><i>Amirhossein Aminimehr</i>, Amirali Molaei, and Erik Cambria
 0. **Tbexplain: A Text-Based Explanation Method for Scene Classification Models with the Statistical Prediction Correction**, *Expert Systems with Applications in review process*, 2023 [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4385953)]
 <br><i>Amirhossein Aminimehr</i>, Pouya Khani, Amirali Molaei, Amirmohammad Kazemeini, Erik Cambria
-0. **Stock Market Dynamics Through Deep Learning Context**, *To be submitted in Mathematics*, 2023
+0. **Stock Market Dynamics Through Deep Learning Context**, *To be submitted in Mathematics*, 2023
 <br><i>Amirhossein Aminimehr</i>, Amin Aminimehr, Hamid Moradi Kamali, Sauleh Eetemadi
 0. **A comprehensive study of market prediction from Efficient Market Hypothesis up to late intelligent market prediction approaches**, *Computational Economics - Springer*, 2022 [[Link](https://link.springer.com/article/10.1007/s10614-022-10283-1)]
 <br>Amin Aminimehr, Ali Raoofi, Akbar Aminimehr, <i>Amirhossein Aminimehr</i>
