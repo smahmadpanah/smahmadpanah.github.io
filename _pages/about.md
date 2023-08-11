@@ -45,10 +45,16 @@ function toggle_visibility(id) {
 
 <a href="/publications" class='header-color'>Publications</a>
 ----
+0. **Implicit Neural Representation in Medical Imaging: A Comparative Survey**, *Accepted in ICCV CVAMD*, 2023 [[Link](https://arxiv.org/abs/2307.16142)]
+<br>Amirali Molaei, <i>Amirhossein Aminimehr</i>, Armin Tavakoli, Amirhossein Kazerouni, Babak Azad, Reza Azad, Dorit Merhof
+0. **Medical Image Segmentation: A Survey on Imaging Modalities and Benchmarks**, *To be submitted in IEEE Journal of Biomedical and Health Informatics*, 2023
+<br>Ehsan Khodapanah Aghdam, Reza Azad, Atlas Hadaddi Avval, <i>Amirhossein Aminimehr</i>, Sania Eskandari, Alaa Sulaiman, Dorit Merhof
 0. **Entri: Ensemble Learning with Tri-Level Representations for Explainable Scene Recognition**, *Pattern Recognition in review process*, 2023 [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4482110)]
 <br><i>Amirhossein Aminimehr</i>, Amirali Molaei, and Erik Cambria
 0. **Tbexplain: A Text-Based Explanation Method for Scene Classification Models with the Statistical Prediction Correction**, *Expert Systems with Applications in review process*, 2023 [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4385953)]
 <br><i>Amirhossein Aminimehr</i>, Pouya Khani, Amirali Molaei, Amirmohammad Kazemeini, Erik Cambria
+0. **Stock Market Dynamics Through Deep Learning Context**, *To be submitted in Mathematics*, 2023
+<br><i>Amirhossein Aminimehr</i>, Amin Aminimehr, Hamid Moradi Kamali, Sauleh Eetemadi
 0. **A comprehensive study of market prediction from Efficient Market Hypothesis up to late intelligent market prediction approaches**, *Computational Economics - Springer*, 2022 [[Link](https://link.springer.com/article/10.1007/s10614-022-10283-1)]
 <br>Amin Aminimehr, Ali Raoofi, Akbar Aminimehr, <i>Amirhossein Aminimehr</i>
 0. **A Time Step Cascade CNN-LSTM Neural Network for predicting adjusted close price of 5 largest firms in Tehran Stock Exchange**, *3rd International Conference on Interdisciplinary Studies in Management Engineering (ICISME-2021)*, 2021 [[Link](https://civilica.com/doc/1178787/)]
