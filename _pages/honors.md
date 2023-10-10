@@ -10,6 +10,8 @@ author_profile: true
 
 <li><b>External Reviewer</b> of the conference flagships <a href="https://www.ieee-security.org/TC/SP2024/">S&P'24</a>, <a href="https://www.usenix.org/conference/usenixsecurity24">USENIX Security'24</a>, <a href="https://www.sigsac.org/ccs/CCS2023/">CCS'23</a>, <a href="https://www.usenix.org/conference/usenixsecurity23">USENIX Security'23</a>, <a href="https://www.ieee-security.org/TC/CSF2022/">CSF'22</a>, <a href="http://www.ieee-security.org/TC/EuroSP2022/">EuroS&P'22</a>, <a href="https://www.ieee-security.org/TC/SP2021/">S&P'21</a>, <a href="https://www.ieee-security.org/TC/CSF2020/">CSF'20</a>, <a href="http://www.ieee-security.org/TC/EuroSP2020/">EuroS&P'20</a>, and <a href="https://www.sigsac.org/ccs/CCS2019/">CCS'19</a>.</li>
 
+<li><b>Poster presenter</b> and participant of <a href="https://www.chalmers.se/en/current/calendar/ict-navigate-in-the-cybersecurity/">Seminar on Navigating the Cybersecurity Landscape</a>, October 2023.</li>
+
 <li><b>Poster presenter</b> and participant of <a href="https://team.inria.fr/splits/splits-inaugural-security-workshop/">SPLiTS Security Workshop</a>, September 2023.</li>
 
 <li>Short talk <b>speaker</b> at <a href="https://www.ieee-security.org/TC/CSF2020/">CSF'20</a> and <a href="https://csf2023.ieee-security.org/">CSF'23</a>.</li>
