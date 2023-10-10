@@ -91,7 +91,7 @@ function toggle_visibility(id) {
 <a href="/honors" class='header-color'>Honors and Activities</a>
 ----
 - External Reviewer of the conference flagships <a href="https://www.ieee-security.org/TC/SP2024/">S&P'24</a>, <a href="https://www.usenix.org/conference/usenixsecurity24">USENIX Security'24</a>, <a href="https://www.sigsac.org/ccs/CCS2023/">CCS'23</a>, <a href="https://www.usenix.org/conference/usenixsecurity23">USENIX Security'23</a>, <a href="https://www.ieee-security.org/TC/CSF2022/">CSF'22</a>, <a href="http://www.ieee-security.org/TC/EuroSP2022/">EuroS&P'22</a>, <a href="https://www.ieee-security.org/TC/SP2021/">S&P'21</a>, <a href="https://www.ieee-security.org/TC/CSF2020/">CSF'20</a>, <a href="http://www.ieee-security.org/TC/EuroSP2020/">EuroS&P'20</a>, and <a href="https://www.sigsac.org/ccs/CCS2019/">CCS'19</a>
-- Poster presenter and participant of <a href="https://www.chalmers.se/en/current/calendar/ict-navigate-in-the-cybersecurity/">Seminar on Navigating the Cybersecurity Landscape</a>, October 2023.
+- Poster presenter and participant of <a href="https://www.chalmers.se/en/current/calendar/ict-navigate-in-the-cybersecurity/">Seminar on Navigating the Cybersecurity Landscape</a>, October 2023
 - Poster presenter and participant of <a href="https://team.inria.fr/splits/splits-inaugural-security-workshop/">SPLiTS Security Workshop</a>, September 2023.
 - Short talk speaker at <a href="https://www.ieee-security.org/TC/CSF2020/">CSF'20</a> and <a href="https://csf2023.ieee-security.org/">CSF'23</a>
 - Invited speaker of <a href="https://www.csc.kth.se/tcs/seminars/seminars.html">KTH Security and Theoretical CS Seminars</a> and research visitor hosted by Musard Balliu, February 2023
@@ -101,7 +101,7 @@ function toggle_visibility(id) {
 - PhD Forum Speaker at <a href="https://sites.google.com/uniurb.it/fosad/home/fosad-2022/program">FOSAD'22</a>
 - Session Chair and Speaker at <a href="https://swits.hotell.kau.se/AnnualSeminars/SWITS_2022/SWITS2022_programme.htm">SWITS'22</a>
 - Fellow of Student Activities committee (2022-2023) and Member of <a href="https://www.isee.ir/en">The Iranian Society of Engineering Education</a>, since 2020
-- Poster presenter and participant of <a href="https://sites.google.com/google.com/compiler-summit-2019/faculty-attendees?authuser=0">Google Compiler and Programming Language Summit</a>, December 2019.
+- Poster presenter and participant of <a href="https://sites.google.com/google.com/compiler-summit-2019/faculty-attendees?authuser=0">Google Compiler and Programming Language Summit</a>, December 2019
 - Member of <a href="https://www.cse.chalmers.se/research/group/security/cybersecit/">CyberSecIT</a> and <a href="https://www.cse.chalmers.se/research/group/security/websec/">WebSec</a> projects, and <a href="https://www.cse.chalmers.se/research/group/security/people/">Chalmers Security Lab</a>, Chalmers, since September 2019
 - The 2nd place among PhD students of the department, Amirkabir, 2018 and 2019
 - The Best Teaching Assistant and Lab Instructor of the department, Amirkabir, 2016, 2017 and 2019
