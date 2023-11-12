@@ -12,7 +12,7 @@ I *love* teaching and I've been passionately doing it since I was 12 in high sch
 - Master's thesis supervision: Securing Electronic Exam Environments, [Daniel Cronqvist](https://www.linkedin.com/in/dcronqvist) and [Saga Kortesaari](https://www.linkedin.com/in/saga-kortesaari/), October 2022 - June 2023
 - [Language-Based Security (TDA602/DIT101)](https://www.student.chalmers.se/sp/course?course_id=33174), by [Andrei Sabelfeld](https://www.cse.chalmers.se/~andrei/), Spring 2020, Spring 2021, Spring 2022, Spring 2023
 - [Finite Automata and Formal Languages (TMV028/DIT322)](https://www.student.chalmers.se/sp/course?course_id=34391), by [Nils Anders Danielsson](http://www.cse.chalmers.se/~nad/), Spring 2020, Spring 2021, Spring 2022, Spring 2023
-- [Programming Language Technology (DAT151/DIT231)](http://www.cse.chalmers.se/edu/course/DAT151_Programming_Language_Technology/), by [Andreas Abel](http://www.cse.chalmers.se/~abela/), Fall 2019, Fall 2020, Fall 2021, Fall 2022
+- [Programming Language Technology (DAT151/DIT231)](https://www.student.chalmers.se/sp/course?course_id=35818), by [Andreas Abel](http://www.cse.chalmers.se/~abela/), Fall 2019, Fall 2020, Fall 2021, Fall 2022
 
 ## Amirkabir: 
 - Advanced Programming (<i style='font-size: 0.9em;'>Course Responsible</i>), Spring 2018
