@@ -5,8 +5,8 @@ permalink: /cv/
 author_profile: true
 ---
 
-- Short CV - November 2023 [[pdf](/files/Ahmadpanah-Short-CV-Nov2023.pdf)] 
-- Short CV - May 2019 [[pdf](/files/Ahmadpanah-Short-CV-May2019.pdf)]
+- Short CV - November 2023 [[pdf](/files/Ahmadpanah-ShortCV-Nov2023.pdf)] 
+- Short CV - May 2019 [[pdf](/files/Ahmadpanah-ShortCV-May2019.pdf)]
 - Long CV - May 2019 [[pdf](/files/Ahmadpanah-CV-May2019.pdf)]
 
 <!-- 
