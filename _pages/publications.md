@@ -29,7 +29,7 @@ author_profile: true
 <ol reversed>
 
 <div id="7">
-<li> <b>LazyTAP: On-Demand Data Minimization for Trigger-Action Applications</b>, <em><a href="https://www.ieee-security.org/TC/SP2023/program-papers.html">S&P'23</a></em> [<a href="/papers/sp23.pdf">pdf</a>] [<a href="papers/ccs23-poster.pdf">poster</a>] [<a href="https://www.cse.chalmers.se/research/group/security/lazytap/">link</a>] [<a href="https://www.youtube.com/watch?v=TQI11hNE2KA">teaser</a>] 
+<li> <b>LazyTAP: On-Demand Data Minimization for Trigger-Action Applications</b>, <em><a href="https://www.ieee-security.org/TC/SP2023/program-papers.html">S&P'23</a></em> [<a href="/papers/sp23.pdf">pdf</a>] [<a href="/papers/ccs23-poster.pdf">poster</a>] [<a href="https://www.cse.chalmers.se/research/group/security/lazytap/">link</a>] [<a href="https://www.youtube.com/watch?v=TQI11hNE2KA">teaser</a>] 
 <br><i>Mohammad M. Ahmadpanah</i>, Daniel Hedin, and Andrei Sabelfeld
 <div class='button' data-content="toggle-text"><a href="#7">abstract</a></div>
 <div class='abstract'>
@@ -77,7 +77,7 @@ While the nontransitive and transitive policies pursue different goals and have 
 </div></li></div>
 
 <div id="3">
-<li> <b>SandTrap: Securing JavaScript-driven Trigger-Action Platforms</b>, <em><a href="https://www.usenix.org/conference/usenixsecurity21/presentation/ahmadpanah">USENIX Security'21</a></em> [<a href="/papers/usenix21.pdf">pdf</a>] [<a href="papers/usenix22-poster.pdf">poster</a>] [<a href="https://www.cse.chalmers.se/research/group/security/SandTrap/">link</a>]
+<li> <b>SandTrap: Securing JavaScript-driven Trigger-Action Platforms</b>, <em><a href="https://www.usenix.org/conference/usenixsecurity21/presentation/ahmadpanah">USENIX Security'21</a></em> [<a href="/papers/usenix21.pdf">pdf</a>] [<a href="/papers/usenix22-poster.pdf">poster</a>] [<a href="https://www.cse.chalmers.se/research/group/security/SandTrap/">link</a>]
 <br><i>Mohammad M. Ahmadpanah</i>, Daniel Hedin, Musard Balliu, Lars Eric Olsson, and Andrei Sabelfeld
 <br><a class='button' data-content="toggle-text" href="#3">abstract</a>
 <div class='abstract'>
