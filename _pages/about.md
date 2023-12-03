@@ -42,7 +42,7 @@ function toggle_visibility(id) {
 
 <a href="/publications" class='header-color'>Publications</a>
 ----
-0. **LazyTAP: On-Demand Data Minimization for Trigger-Action Applications**, *S&P'23* [[pdf](papers/sp23.pdf)] [[teaser](https://www.youtube.com/watch?v=TQI11hNE2KA)] [[poster@CCS'23](papers/ccs23-poster.pdf)]
+0. **LazyTAP: On-Demand Data Minimization for Trigger-Action Applications**, *S&P'23* [[pdf](papers/sp23.pdf)] [[teaser](https://www.youtube.com/watch?v=TQI11hNE2KA)] [[poster](papers/ccs23-poster.pdf)]
 <br><i>Mohammad M. Ahmadpanah</i>, Daniel Hedin, and Andrei Sabelfeld
 0. **Securing Software in the Presence of Third-Party Modules**, *Licentiate thesis*, 2021 [[pdf](papers/licentiate.pdf)] [[video](https://youtu.be/0Mdj-sNxqXU)]
 <br>Supervisor: Andrei Sabelfeld, Co-supervisor: Daniel Hedin, Opponent: Deian Stefan, Examiner: David Sands
@@ -50,7 +50,7 @@ function toggle_visibility(id) {
 <br><i>Mohammad M. Ahmadpanah</i>, Musard Balliu, Daniel Hedin, Lars Eric Olsson, and Andrei Sabelfeld
 0. **Nontransitive Policies Transpiled**, *EuroS&P'21* [[pdf](/papers/eurosp21.pdf)] [[short talk](https://youtu.be/mAMgyhWL-AE?t=320)]
 <br><i>Mohammad M. Ahmadpanah</i>, Aslan Askarov, and Andrei Sabelfeld
-0. **SandTrap: Securing JavaScript-driven Trigger-Action Platforms**, *USENIX Security'21* [[pdf](/papers/usenix21.pdf)] [[poster@USENIX'22](papers/usenix22-poster.pdf)]
+0. **SandTrap: Securing JavaScript-driven Trigger-Action Platforms**, *USENIX Security'21* [[pdf](/papers/usenix21.pdf)] [[poster](papers/usenix22-poster.pdf)]
 <br><i>Mohammad M. Ahmadpanah</i>, Daniel Hedin, Musard Balliu, Lars Eric Olsson, and Andrei Sabelfeld
 0. **Improving Multi-Execution-based Mechanisms for Enforcing Information Flow Policies**, *Master's thesis*, 2017 [[pdf](https://github.com/smahmadpanah/MScDocuments/blob/master/Thesis/Thesis.pdf)]
 <br>Supervisor: Mehran S. Fallah, Opponents: Mehdi Shajari and Ramtin Khosravi
