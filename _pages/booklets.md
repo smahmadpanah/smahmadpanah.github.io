@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Booklets"
-permalink: /booklets/
+title: "Lecture Notes"
+permalink: /lecturenotes/
 author_profile: true
 ---
 
@@ -9,7 +9,7 @@ author_profile: true
 .farsi{ font-family:PERSWEB; font-weight: bold; font-size:11pt;}
 </style>
 
-**<ins>Note</ins>**: all the booklets are in Persian!
+**<ins>Note</ins>**: all of the lecture notes are in Persian!
 
 - Program Analysis (<span class='farsi'>تحلیل برنامه</span>) [[pdf](https://github.com/smahmadpanah/Booklets/blob/main/ProgramAnalysis.pdf)]
 <br>
@@ -52,4 +52,4 @@ Lecturer: Mehran S. Fallah, *Spring 2018*
 <br>Lecturer: Mehran S. Fallah,
 *Fall 2013*
 
-[see all of the booklets...](https://ce.aut.ac.ir/~mehdi/Booklet)
+[see the rest...](https://ce.aut.ac.ir/~mehdi/Booklet)

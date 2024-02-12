@@ -9,11 +9,11 @@ main:
   - title: "Honors and Activities"
     url: /honors/
 
-  - title: "Booklets"
-    url: /booklets/
-
   - title: "CV"
     url: /cv/
+
+  - title: "Lecture Notes"
+    url: /lecturenotes/
 
   - title: "Photos"
     url: /gothenburgwithme/

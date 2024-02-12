@@ -9,12 +9,13 @@ redirect_from:
 ---
 
 <style>
-.farsi{ font-family:PERSWEB; font-weight: bold; font-size:11pt;}
-.header-color {color:#0f2b46;}
-.twocol{ columns: 2}
+.farsi { font-family:PERSWEB; font-weight: bold; font-size:11pt; }
+.header-color { color:#0f2b46; }
+.twocol { columns: 2 }
+ul.twocol { width: 110%; }
 </style>
 
-**Hi!** This is Mohammad<sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, a PhD student in [Information&nbsp;Security](https://www.chalmers.se/en/departments/cse/our-research/computing-science/#information-security) under the supervision of [Andrei&nbsp;Sabelfeld](https://www.cse.chalmers.se/~andrei/) 
+**Hi!** This is Mohammad<sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, a PhD candidate in [Information&nbsp;Security](https://www.chalmers.se/en/departments/cse/our-research/computing-science/#information-security) under the supervision of [Andrei&nbsp;Sabelfeld](https://www.cse.chalmers.se/~andrei/) 
 and [Daniel&nbsp;Hedin](https://www.chalmers.se/en/persons/utter/) at [Chalmers](https://www.chalmers.se/en) in Sweden, started in September 2019.
 Prior to that, I lived at [Amirkabir (Tehran Polytechnic)](https://aut.ac.ir/en) for 8 years (BSc in Software Engineering, MSc in Information Security, and PhD candidate in Software Engineering), all supervised by [Mehran&nbsp;S.&nbsp;Fallah](https://ce.aut.ac.ir/formalsecurity). Since then, I have been pursuing my passion for:
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
@@ -41,7 +42,7 @@ function toggle_visibility(id) {
 
 <a href="/publications" class='header-color'>Publications</a>
 ----
-0. **LazyTAP: On-Demand Data Minimization for Trigger-Action Applications**, *S&P'23* [[pdf](papers/sp23.pdf)]
+0. **LazyTAP: On-Demand Data Minimization for Trigger-Action Applications**, *S&P'23* [[pdf](papers/sp23.pdf)] [[teaser](https://www.youtube.com/watch?v=TQI11hNE2KA)] [[poster](papers/ccs23-poster.pdf)]
 <br><i>Mohammad M. Ahmadpanah</i>, Daniel Hedin, and Andrei Sabelfeld
 0. **Securing Software in the Presence of Third-Party Modules**, *Licentiate thesis*, 2021 [[pdf](papers/licentiate.pdf)] [[video](https://youtu.be/0Mdj-sNxqXU)]
 <br>Supervisor: Andrei Sabelfeld, Co-supervisor: Daniel Hedin, Opponent: Deian Stefan, Examiner: David Sands
@@ -49,7 +50,7 @@ function toggle_visibility(id) {
 <br><i>Mohammad M. Ahmadpanah</i>, Musard Balliu, Daniel Hedin, Lars Eric Olsson, and Andrei Sabelfeld
 0. **Nontransitive Policies Transpiled**, *EuroS&P'21* [[pdf](/papers/eurosp21.pdf)] [[short talk](https://youtu.be/mAMgyhWL-AE?t=320)]
 <br><i>Mohammad M. Ahmadpanah</i>, Aslan Askarov, and Andrei Sabelfeld
-0. **SandTrap: Securing JavaScript-driven Trigger-Action Platforms**, *USENIX Security'21* [[pdf](/papers/usenix21.pdf)]
+0. **SandTrap: Securing JavaScript-driven Trigger-Action Platforms**, *USENIX Security'21* [[pdf](/papers/usenix21.pdf)] [[poster](papers/usenix22-poster.pdf)]
 <br><i>Mohammad M. Ahmadpanah</i>, Daniel Hedin, Musard Balliu, Lars Eric Olsson, and Andrei Sabelfeld
 0. **Improving Multi-Execution-based Mechanisms for Enforcing Information Flow Policies**, *Master's thesis*, 2017 [[pdf](https://github.com/smahmadpanah/MScDocuments/blob/master/Thesis/Thesis.pdf)]
 <br>Supervisor: Mehran S. Fallah, Opponents: Mehdi Shajari and Ramtin Khosravi
@@ -66,6 +67,7 @@ function toggle_visibility(id) {
 ----
 ### Chalmers:
 <ul class='twocol' markdown='1'>
+<li>Master's thesis supervision (<i style='font-size: 0.8em;'>Securing Electronic Exam Environments</i>)</li>
 <li>Language-Based Security (<i style='font-size: 0.8em;'>Graduate</i>)</li>
 <li>Finite Automata and Formal Languages</li>
 <li>Programming Language Technology (<i style='font-size: 0.8em;'>Graduate</i>)</li>
@@ -88,7 +90,12 @@ function toggle_visibility(id) {
 
 <a href="/honors" class='header-color'>Honors and Activities</a>
 ----
-- External Reviewer of the conference flagships <a href="https://www.sigsac.org/ccs/CCS2023/">CCS'23</a>, <a href="https://www.usenix.org/conference/usenixsecurity23">USENIX Security'23</a>, <a href="https://www.ieee-security.org/TC/CSF2022/">CSF'22</a>, <a href="http://www.ieee-security.org/TC/EuroSP2022/">EuroS&P'22</a>, <a href="https://www.ieee-security.org/TC/SP2021/">S&P'21</a>, <a href="https://www.ieee-security.org/TC/CSF2020/">CSF'20</a>, <a href="http://www.ieee-security.org/TC/EuroSP2020/">EuroS&P'20</a>, and <a href="https://www.sigsac.org/ccs/CCS2019/">CCS'19</a>
+- External Reviewer of the conference flagships <a href="https://www.ieee-security.org/TC/SP2024/">S&P'24</a>, <a href="https://www.usenix.org/conference/usenixsecurity24">USENIX Security'24</a>, <a href="https://www2024.thewebconf.org/">WWW'24</a>, <a href="https://www.sigsac.org/ccs/CCS2023/">CCS'23</a>, <a href="https://www.usenix.org/conference/usenixsecurity23">USENIX Security'23</a>, <a href="https://www.ieee-security.org/TC/CSF2022/">CSF'22</a>, <a href="http://www.ieee-security.org/TC/EuroSP2022/">EuroS&P'22</a>, <a href="https://www.ieee-security.org/TC/SP2021/">S&P'21</a>, <a href="https://www.ieee-security.org/TC/CSF2020/">CSF'20</a>, <a href="http://www.ieee-security.org/TC/EuroSP2020/">EuroS&P'20</a>, and <a href="https://www.sigsac.org/ccs/CCS2019/">CCS'19</a>
+- Rewarded Bug Bounties for responsibly disclosing Code Injection and JS Sandbox Breakout vulnerabilities  on <a href="https://ifttt.com/">IFTTT</a>, 2020 and 2023. 
+- Poster presenter and participant of <a href="https://www.sigsac.org/ccs/CCS2023/">CCS'23</a>, November 2023.
+- Poster presenter and participant of <a href="https://www.chalmers.se/en/current/calendar/ict-navigate-in-the-cybersecurity/">Seminar on Navigating the Cybersecurity Landscape</a>, October 2023
+- Poster presenter and participant of <a href="https://team.inria.fr/splits/splits-inaugural-security-workshop/">SPLiTS Security Workshop</a>, September 2023.
+- Short talk speaker at <a href="https://www.ieee-security.org/TC/CSF2020/">CSF'20</a> and <a href="https://csf2023.ieee-security.org/">CSF'23</a>
 - Invited speaker of <a href="https://www.csc.kth.se/tcs/seminars/seminars.html">KTH Security and Theoretical CS Seminars</a> and research visitor hosted by Musard Balliu, February 2023
 - Research visitor at <a href="https://www.mdu.se/en/malardalen-university">Mälardalen University</a>, hosted by Daniel Hedin, September and October 2023 
 - Recipient of the Adlerbert Foreign Student Hospitality Foundation scholarship, 2021, 2022 and 2023
@@ -96,7 +103,7 @@ function toggle_visibility(id) {
 - PhD Forum Speaker at <a href="https://sites.google.com/uniurb.it/fosad/home/fosad-2022/program">FOSAD'22</a>
 - Session Chair and Speaker at <a href="https://swits.hotell.kau.se/AnnualSeminars/SWITS_2022/SWITS2022_programme.htm">SWITS'22</a>
 - Fellow of Student Activities committee (2022-2023) and Member of <a href="https://www.isee.ir/en">The Iranian Society of Engineering Education</a>, since 2020
-- Poster presenter and participant of <a href="https://sites.google.com/google.com/compiler-summit-2019/faculty-attendees?authuser=0">Google Compiler and Programming Language Summit</a>, December 2019.
+- Poster presenter and participant of <a href="https://sites.google.com/google.com/compiler-summit-2019/faculty-attendees?authuser=0">Google Compiler and Programming Language Summit</a>, December 2019
 - Member of <a href="https://www.cse.chalmers.se/research/group/security/cybersecit/">CyberSecIT</a> and <a href="https://www.cse.chalmers.se/research/group/security/websec/">WebSec</a> projects, and <a href="https://www.cse.chalmers.se/research/group/security/people/">Chalmers Security Lab</a>, Chalmers, since September 2019
 - The 2nd place among PhD students of the department, Amirkabir, 2018 and 2019
 - The Best Teaching Assistant and Lab Instructor of the department, Amirkabir, 2016, 2017 and 2019
