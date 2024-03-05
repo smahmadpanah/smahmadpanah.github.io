@@ -12,7 +12,7 @@ author_profile: true
 
 <li><b>Invited speaker</b> of <a href="https://infsec.ethz.ch/talks2024.html">ETH Information Security Talks</a> and research visitor hosted by <a href="https://people.inf.ethz.ch/basin/">David Basin</a>, February 2024.</li>
 
-<li><b>Invited speaker</b> of <a href="https://team.inria.fr/splits/team-seminars/">Inria SPLiTS Seminars</a> and research visitor hosted by <a href="https://www-sop.inria.fr/lemme/Tamara.Rezk/">Tamara Rezk</a>, February 2024.</li>
+<li><b>Invited speaker</b> of <a href="https://team.inria.fr/splits/team-seminars/">Inria SPLiTS Seminars</a> and research visitor hosted by <a href="https://www-sop.inria.fr/members/Tamara.Rezk/">Tamara Rezk</a>, February 2024.</li>
 
 <li><b>Speaker</b> and research visitor at <a href="https://aut.ac.ir/en">Amirkabir (Tehran Polytechnic)</a> and <a href="https://en.sharif.edu/">Sharif</a> universities, January 2024.</li>
 
