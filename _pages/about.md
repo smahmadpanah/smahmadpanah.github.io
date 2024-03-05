@@ -90,9 +90,10 @@ function toggle_visibility(id) {
 <a href="/honors" class='header-color'>Honors and Activities</a>
 ----
 - External Reviewer of the conference flagships <a href="https://www.ieee-security.org/TC/SP2024/">S&P'24</a>, <a href="https://www.usenix.org/conference/usenixsecurity24">USENIX Security'24</a>, <a href="https://www2024.thewebconf.org/">WWW'24</a>, <a href="https://www.sigsac.org/ccs/CCS2023/">CCS'23</a>, <a href="https://www.usenix.org/conference/usenixsecurity23">USENIX Security'23</a>, <a href="https://www.ieee-security.org/TC/CSF2022/">CSF'22</a>, <a href="http://www.ieee-security.org/TC/EuroSP2022/">EuroS&P'22</a>, <a href="https://www.ieee-security.org/TC/SP2021/">S&P'21</a>, <a href="https://www.ieee-security.org/TC/CSF2020/">CSF'20</a>, <a href="http://www.ieee-security.org/TC/EuroSP2020/">EuroS&P'20</a>, and <a href="https://www.sigsac.org/ccs/CCS2019/">CCS'19</a>
-- Invited speaker of <a href="https://infsec.ethz.ch/talks2024.html">ETH Information Security Talks</a> and research visitor hosted by David Basin, February 2024
-- Invited speaker of <a href="https://team.inria.fr/splits/team-seminars/">Inria SPLiTS Seminars</a> and research visitor hosted by Tamara Rezk, February 2024
+- Invited speaker of <a href="https://infsec.ethz.ch/talks2024.html">ETH Information Security Talks</a> and research visitor hosted by <a href="https://people.inf.ethz.ch/basin/">David Basin</a>, February 2024
+- Invited speaker of <a href="https://team.inria.fr/splits/team-seminars/">Inria SPLiTS Seminars</a> and research visitor hosted by <a href="https://www-sop.inria.fr/lemme/Tamara.Rezk/">Tamara Rezk</a>, February 2024
 - Speaker and research visitor at <a href="https://aut.ac.ir/en">Amirkabir (Tehran Polytechnic)</a> and <a href="https://en.sharif.edu/">Sharif</a> universities, January 2024
+- Recipient of the Adlerbert Foreign Student Hospitality Foundation scholarship, 2021, 2022, 2023, and 2024
 - Rewarded Bug Bounties for responsibly disclosing Code Injection and JS Sandbox Breakout vulnerabilities  on <a href="https://ifttt.com/">IFTTT</a>, 2020 and 2023
 - Poster presenter and participant of <a href="https://www.sigsac.org/ccs/CCS2023/">CCS'23</a>, November 2023
 - Poster presenter and participant of <a href="https://www.chalmers.se/en/current/calendar/ict-navigate-in-the-cybersecurity/">Seminar on Navigating the Cybersecurity Landscape</a>, October 2023
@@ -100,7 +101,6 @@ function toggle_visibility(id) {
 - Short talk speaker at <a href="https://www.ieee-security.org/TC/CSF2020/">CSF'20</a> and <a href="https://csf2023.ieee-security.org/">CSF'23</a>
 - Invited speaker of <a href="https://www.csc.kth.se/tcs/seminars/seminars.html">KTH Security and Theoretical CS Seminars</a> and research visitor hosted by Musard Balliu, February 2023
 - Research visitor at <a href="https://www.mdu.se/en/malardalen-university">Mälardalen University</a>, hosted by Daniel Hedin, September and October 2023 
-- Recipient of the Adlerbert Foreign Student Hospitality Foundation scholarship, 2021, 2022 and 2023
 - Co-Organizer of <a href="https://www.cse.chalmers.se/research/group/security/event/">Chalmers Security & Privacy Seminars</a>, Chalmers, since September 2022
 - PhD Forum Speaker at <a href="https://sites.google.com/uniurb.it/fosad/home/fosad-2022/program">FOSAD'22</a>
 - Session Chair and Speaker at <a href="https://swits.hotell.kau.se/AnnualSeminars/SWITS_2022/SWITS2022_programme.htm">SWITS'22</a>
