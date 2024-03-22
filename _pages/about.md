@@ -47,9 +47,9 @@ function toggle_visibility(id) {
 <br>Supervisor: Andrei Sabelfeld, Co-supervisor: Daniel Hedin, Opponent: Deian Stefan, Examiner: David Sands
 0. **Securing Node-RED Applications**, *Protocols, Strands, and Logic: Festschrift in honor of Joshua Guttman'21* [[pdf](/papers/joshua21.pdf)] [[video](https://youtu.be/0qKo0hNt2Ek)]
 <br><i>Mohammad M. Ahmadpanah</i>, Musard Balliu, Daniel Hedin, Lars Eric Olsson, and Andrei Sabelfeld
-0. **Nontransitive Policies Transpiled**, *EuroS&P'21* [[pdf](/papers/eurosp21.pdf)] [[short talk](https://youtu.be/mAMgyhWL-AE?t=320)]
+0. **Nontransitive Policies Transpiled**, *EuroS&P'21* [[pdf](/papers/eurosp21.pdf)] [[short talk](https://youtu.be/mAMgyhWL-AE?t=320)] [[video](https://www.youtube.com/watch?v=W_43tzoiUcI)]
 <br><i>Mohammad M. Ahmadpanah</i>, Aslan Askarov, and Andrei Sabelfeld
-0. **SandTrap: Securing JavaScript-driven Trigger-Action Platforms**, *USENIX Security'21* [[pdf](/papers/usenix21.pdf)] [[flyer](papers/usenix22-poster.pdf)]
+0. **SandTrap: Securing JavaScript-driven Trigger-Action Platforms**, *USENIX Security'21* [[pdf](/papers/usenix21.pdf)] [[flyer](papers/usenix22-poster.pdf)] [[video](https://www.youtube.com/watch?v=ceBcVJmE8es)]
 <br><i>Mohammad M. Ahmadpanah</i>, Daniel Hedin, Musard Balliu, Lars Eric Olsson, and Andrei Sabelfeld
 0. **Improving Multi-Execution-based Mechanisms for Enforcing Information Flow Policies**, *Master's thesis*, 2017 [[pdf](https://github.com/smahmadpanah/MScDocuments/blob/master/Thesis/Thesis.pdf)]
 <br>Supervisor: Mehran S. Fallah, Opponents: Mehdi Shajari and Ramtin Khosravi

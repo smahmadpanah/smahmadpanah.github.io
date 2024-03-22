@@ -77,7 +77,7 @@ While the nontransitive and transitive policies pursue different goals and have 
 </div></li></div>
 
 <div id="3">
-<li> <b>SandTrap: Securing JavaScript-driven Trigger-Action Platforms</b>, <em><a href="https://www.usenix.org/conference/usenixsecurity21/presentation/ahmadpanah">USENIX Security'21</a></em> [<a href="/papers/usenix21.pdf">pdf</a>] [<a href="/papers/usenix22-poster.pdf">flyer</a>] [<a href="https://www.cse.chalmers.se/research/group/security/SandTrap/">link</a>]
+<li> <b>SandTrap: Securing JavaScript-driven Trigger-Action Platforms</b>, <em><a href="https://www.usenix.org/conference/usenixsecurity21/presentation/ahmadpanah">USENIX Security'21</a></em> [<a href="/papers/usenix21.pdf">pdf</a>] [<a href="https://www.cse.chalmers.se/research/group/security/SandTrap/">link</a>] [<a href="/papers/usenix22-poster.pdf">flyer</a>] [<a href="https://www.youtube.com/watch?v=ceBcVJmE8es">video</a>]
 <br><i>Mohammad M. Ahmadpanah</i>, Daniel Hedin, Musard Balliu, Lars Eric Olsson, and Andrei Sabelfeld
 <br><a class='button' data-content="toggle-text" href="#3">abstract</a>
 <div class='abstract'>
