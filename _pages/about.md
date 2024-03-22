@@ -16,7 +16,7 @@ ul.twocol { width: 110%; }
 
 **Hi!** This is Mohammad<sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, a PhD candidate in [Information&nbsp;Security](https://www.chalmers.se/en/departments/cse/our-research/computing-science/#information-security) under the supervision of [Andrei&nbsp;Sabelfeld](https://www.cse.chalmers.se/~andrei/) 
 and [Daniel&nbsp;Hedin](https://www.chalmers.se/en/persons/utter/) at [Chalmers](https://www.chalmers.se/en) in Sweden, started in September 2019.
-Prior to that, I lived at [Amirkabir (Tehran Polytechnic)](https://aut.ac.ir/en) for 8 years (BSc in Software Engineering, MSc in Information Security, and PhD candidate in Software Engineering), all supervised by [Mehran&nbsp;S.&nbsp;Fallah](https://ce.aut.ac.ir/formalsecurity). Since then, I have been pursuing my passion for:
+Prior to that, I lived at [Amirkabir (Tehran Polytechnic)](https://aut.ac.ir/en) for 8 years (BSc in Software Engineering, MSc in Information Security, and PhD candidate in Software Engineering), all supervised by [Mehran&nbsp;S.&nbsp;Fallah](https://aut.ac.ir/cv/2366/MEHRANS.-FALLAH). Since then, I have been pursuing my passion for:
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
 <li> Language-Based Security</li>
 <li> Formal Methods for Information Security</li>
@@ -41,7 +41,7 @@ function toggle_visibility(id) {
 
 <a href="/publications" class='header-color'>Publications</a>
 ----
-0. **LazyTAP: On-Demand Data Minimization for Trigger-Action Applications**, *S&P'23* [[pdf](papers/sp23.pdf)] [[teaser](https://www.youtube.com/watch?v=TQI11hNE2KA)] [[poster](papers/ccs23-poster.pdf)]
+0. **LazyTAP: On-Demand Data Minimization for Trigger-Action Applications**, *S&P'23* [[pdf](papers/sp23.pdf)] [[teaser](https://www.youtube.com/watch?v=TQI11hNE2KA)] [[flyer](papers/ccs23-poster.pdf)]
 <br><i>Mohammad M. Ahmadpanah</i>, Daniel Hedin, and Andrei Sabelfeld
 0. **Securing Software in the Presence of Third-Party Modules**, *Licentiate thesis*, 2021 [[pdf](papers/licentiate.pdf)] [[video](https://youtu.be/0Mdj-sNxqXU)]
 <br>Supervisor: Andrei Sabelfeld, Co-supervisor: Daniel Hedin, Opponent: Deian Stefan, Examiner: David Sands
@@ -49,7 +49,7 @@ function toggle_visibility(id) {
 <br><i>Mohammad M. Ahmadpanah</i>, Musard Balliu, Daniel Hedin, Lars Eric Olsson, and Andrei Sabelfeld
 0. **Nontransitive Policies Transpiled**, *EuroS&P'21* [[pdf](/papers/eurosp21.pdf)] [[short talk](https://youtu.be/mAMgyhWL-AE?t=320)]
 <br><i>Mohammad M. Ahmadpanah</i>, Aslan Askarov, and Andrei Sabelfeld
-0. **SandTrap: Securing JavaScript-driven Trigger-Action Platforms**, *USENIX Security'21* [[pdf](/papers/usenix21.pdf)] [[poster](papers/usenix22-poster.pdf)]
+0. **SandTrap: Securing JavaScript-driven Trigger-Action Platforms**, *USENIX Security'21* [[pdf](/papers/usenix21.pdf)] [[flyer](papers/usenix22-poster.pdf)]
 <br><i>Mohammad M. Ahmadpanah</i>, Daniel Hedin, Musard Balliu, Lars Eric Olsson, and Andrei Sabelfeld
 0. **Improving Multi-Execution-based Mechanisms for Enforcing Information Flow Policies**, *Master's thesis*, 2017 [[pdf](https://github.com/smahmadpanah/MScDocuments/blob/master/Thesis/Thesis.pdf)]
 <br>Supervisor: Mehran S. Fallah, Opponents: Mehdi Shajari and Ramtin Khosravi
