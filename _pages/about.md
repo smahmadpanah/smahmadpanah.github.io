@@ -43,7 +43,7 @@ function toggle_visibility(id) {
 ----
 0. **Implicit Neural Representation in Medical Imaging: A Comparative Survey**, *Published in ICCV CVAMD*, 2023 [[Link](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Molaei_Implicit_Neural_Representation_in_Medical_Imaging_A_Comparative_Survey_ICCVW_2023_paper.pdf)]
 <br>Amirali Molaei, <i>Amirhossein Aminimehr</i>, Armin Tavakoli, Amirhossein Kazerouni, Babak Azad, Reza Azad, Dorit Merhof
-0. **Medical Image Segmentation: A Survey on Imaging Modalities and Benchmarks**, *To be submitted in IEEE Journal of Biomedical and Health Informatics*, 2023
+0. **Medical Image Segmentation: A Survey on Imaging Modalities and Benchmarks**, *To be submitted in IEEE Journal of Biomedical and Health Informatics*
 <br>Ehsan Khodapanah Aghdam, Reza Azad, Atlas Hadaddi Avval, <i>Amirhossein Aminimehr</i>, Sania Eskandari, Alaa Sulaiman, Dorit Merhof
 0. **Entri: Ensemble Learning with Tri-Level Representations for Explainable Scene Recognition**, *Arxiv*, 2023 [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4482110)]
 <br><i>Amirhossein Aminimehr</i>, Amirali Molaei, and Erik Cambria

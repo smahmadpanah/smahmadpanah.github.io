@@ -36,7 +36,7 @@ Implicit neural representations (INRs) have emerged as a powerful paradigm in sc
 </div></li></div>
 
 <div id="8">
-<li> <b>Medical Image Segmentation: A Survey on Imaging Modalities and Benchmarks - To be submitted in IEEE Journal of Biomedical and Health Informatics 2023</b>
+<li> <b>Medical Image Segmentation: A Survey on Imaging Modalities and Benchmarks - To be submitted in IEEE Journal of Biomedical and Health Informatics</b>
 <br>Ehsan Khodapanah Aghdam, Reza Azad, Atlas Hadaddi Avval, <i>Amirhossein Aminimehr</i>, Sania Eskandari, Alaa Sulaiman, Dorit Merhof
 </li></div>
 
