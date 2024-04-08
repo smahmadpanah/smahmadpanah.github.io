@@ -27,9 +27,21 @@ author_profile: true
 
 
 <ol reversed>
+<div id="9">
+<li> <b>Implicit neural representation in medical imaging: A comparative survey - ICCV CVAMD 2023</b> [<a href="https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Molaei_Implicit_Neural_Representation_in_Medical_Imaging_A_Comparative_Survey_ICCVW_2023_paper.pdf">Link</a>]
+<br>Amirali Molaei, <i>Amirhossein Aminimehr</i>, Armin Tavakoli, Amirhossein Kazerouni, Babak Azad, Reza Azad, Dorit Merhof
+<div class='button' data-content="toggle-text"><a href="#9">abstract</a></div>
+<div class='abstract'>
+Implicit neural representations (INRs) have emerged as a powerful paradigm in scene reconstruction and computer graphics, showcasing remarkable results. By utilizing neural networks to parameterize data through implicit continuous functions, INRs offer several benefits. Recognizing the potential of INRs beyond these domains, this survey aims to provide a comprehensive overview of INR models in the field of medical imaging. In medical settings, numerous challenging and ill-posed problems exist, making INRs an attractive solution. The survey explores the application of INRs in various medical imaging tasks, such as image reconstruction, segmentation, registration, novel view synthesis, and compression. It discusses the advantages and limitations of INRs, highlighting their resolution-agnostic nature, memory efficiency, ability to avoid locality biases, and differentiability, enabling adaptation to different tasks. Furthermore, the survey addresses the challenges and considerations specific to medical imaging data, such as data availability, computational complexity, and dynamic clinical scene analysis. It also identifies future research directions and opportunities, including integration with multi-modal imaging, real-time and interactive systems, and domain adaptation for clinical decision support. To facilitate further exploration and implementation of INRs in medical image analysis, we have provided a compilation of cited studies along with their available open-source implementations on Github, which will be available after acceptence. Finally, we aim to consistently incorporate the most recent and relevant papers regularly.
+</div></li></div>
+
+<div id="8">
+<li> <b>Medical Image Segmentation: A Survey on Imaging Modalities and Benchmarks - To be submitted in IEEE Journal of Biomedical and Health Informatics 2023</b>
+<br>Ehsan Khodapanah Aghdam, Reza Azad, Atlas Hadaddi Avval, <i>Amirhossein Aminimehr</i>, Sania Eskandari, Alaa Sulaiman, Dorit Merhof
+</li></div>
 
 <div id="7">
-<li> <b>Entri: Ensemble Learning with Tri-Level Representations for Explainable Scene Recognition - Pattern Recognition in review process</b> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4482110">Link</a>]
+<li> <b>Entri: Ensemble Learning with Tri-Level Representations for Explainable Scene Recognition - Arxiv</b> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4482110">Link</a>]
 <br><i>Amirhossein Aminimehr</i>, Amirali Molaei, and Erik Cambria
 <div class='button' data-content="toggle-text"><a href="#7">abstract</a></div>
 <div class='abstract'>
@@ -37,7 +49,7 @@ Scene recognition based on deep-learning has made significant progress, but ther
 </div></li></div>
 
 <div id="6">
-<li> <b>Tbexplain: A Text-Based Explanation Method for Scene Classification Models with the Statistical Prediction Correction - Expert Systems with Applications in review process</b> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4385953">Link</a>]
+<li> <b>Tbexplain: A Text-Based Explanation Method for Scene Classification Models with the Statistical Prediction Correction - Arxiv</b> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4385953">Link</a>]
   <br><i>Amirhossein Aminimehr</i>, Pouya Khani, Amirali Molaei, Amirmohammad Kazemeini, Erik Cambria
 <div class='button' data-content="toggle-text"><a href="#6">abstract</a></div>
 <div class='abstract'>
@@ -68,19 +80,6 @@ Tehran stock exchange has gained a lot of attention through recent years. This i
 <div class='abstract'>
 In this research, the impact of different preprocessing methods on the Long-Short term memory in predicting the financial time series was examined. At first, the model was implemented on the Tehran stock exchange index by utilizing the Principal Component Analysis (PCA) model on 78 technical indicators. Then, the same model was implemented by the advantage of the random forest to select features rather than the PCA to extract them. In the next step, other technical strategy dummy variables were added to the model to examine the changes in its performance. Finally, two deep learning methods with the advantage of only target lags were deployed to compare the accuracy to the other models. The first deep model was plain but the second one was with the advantage of the Wavelet denoising process. The results of the MSE, MAE, MAPE, and R2 score on unseen test sequences showed that applying the Long Short-Term Memory with its own deep feature extraction procedure and the wavelet’s denoising process leads to the best accuracy in prediction of the Tehran stock exchange index. Finally, the Diebold Mariano test exposed a significant difference between the accuracy of the best model and the rest. This result implied that although the application of deep learning gains accurate results, it can be alleviated by feeding the model with creatively extracted and denoised features.
 </div></li></div>
-
-
-<div id="2">
-<li> <b>Robust Convolutional Neural Network</b>, <em>Bachelor's thesis</em>, 2019 [<a href="https://github.com/AmirhosseinAminimehr/BScDocuments/tree/main/Thesis/Thesis.pdf">Link</a>]
-  <br>Supervisor: Dr. Nasser Mozayani, Opponents: Dr. Mohammad Reza Mohammadi
-<div class='button' data-content="toggle-text"><a href="#2">abstract</a></div>
-<div class='abstract'>
-In the first step of this report we are introducing Convolutional Neural Networks (CNN) and its utilities in daily life for human. Following by that there is going to be an introduction about Mnist dataset. In the next step there is an overview about fooling generative adversarial networks (GAN) on CNN s and specifically about fooling CNN s through fast gradient sign method. Finally defending methods against fooling of CNN s has been studied and some implementations has been exhibited on Python for different ways of fooling and defenses against them. Results has shown that attacks can be defended in significant amount of experiments. These results are extracted from implementing, attacking and defending algorithms on Mnist data set. These algorithms include adversarial networks and distilling defense. furthermore, results have shown that defending on fast gradient sign method can successfully neutralize their effect but there are more recent methods that can still have their effects. And there should be even more and newer ways to be contributed in defending these fooling effects.
-</div></li></div>
-
-
-
-
 
 
 <!--
