@@ -16,7 +16,7 @@ ul.twocol { width: 110%; }
 </style>
 
 **Hi!** This is Amirhossein <sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, a researcher in Medical Image Analysis in Iran.
-Prior to that, I lived at Iran University of Science and Technology for 7 years (BSc and MSc in Computer Engineering). Since then, I have been pursuing my passion for:
+Prior to that, I studied at Iran University of Science and Technology for 7 years (BSc and MSc in Computer Engineering). Since then, I have been pursuing my passion for:
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
 <li> Image Processing</li>
 <li> Medical Image Analysis</li>
@@ -65,8 +65,6 @@ function toggle_visibility(id) {
 <ul class='twocol' markdown='1'>
 <li> Natural Language Processing</li>
 <li> Natural Language Processing</li>
-<li> Mobile Networks</li>
-<li> Neural Networks</li>
 <li> Principles of Database Design</li>
 <li> Computer Design of Digital Systems</li>
 <li> Discrete Mathematics</li>
@@ -81,6 +79,5 @@ function toggle_visibility(id) {
 - Rank 2 Among 30 Students in School of Computer Engineering, Iran University of Science and Technology 2020 Master Entries for Artificial Intelligence and Robotics Branch
 - Rank 2 Among 68 students in School of Computer Engineering, Iran University of Science and Technology 2016 Bachelor Entries for Computer Engineering
 - Direct Admission for Master and PhD studies, Iran University of Science and Technology
-- Acceptance to Math Olympiad Of Iran 2013
 - Acceptance to High School of The Shining Talents of Iran, 2011
-- Skipped One grade of Elementary School as an Exceptional Talent, 2009
+- Second place in the Tehran city chess competition, 2011
