@@ -89,6 +89,7 @@ function toggle_visibility(id) {
 
 <a href="/honors" class='header-color'>Honors and Activities</a>
 ----
+- Program Committee member of <a href="https://fcs-workshop.github.io/fcs2024/">FCS'24</a>
 - External Reviewer of the top-tier conferences <a href="https://www.ieee-security.org/TC/SP2024/">S&P'24</a>, <a href="https://www.usenix.org/conference/usenixsecurity24">USENIX Security'24</a>, <a href="https://www2024.thewebconf.org/">WWW'24</a>, <a href="https://www.sigsac.org/ccs/CCS2023/">CCS'23</a>, <a href="https://www.usenix.org/conference/usenixsecurity23">USENIX Security'23</a>, <a href="https://www.ieee-security.org/TC/CSF2022/">CSF'22</a>, <a href="http://www.ieee-security.org/TC/EuroSP2022/">EuroS&P'22</a>, <a href="https://www.ieee-security.org/TC/SP2021/">S&P'21</a>, <a href="https://www.ieee-security.org/TC/CSF2020/">CSF'20</a>, <a href="http://www.ieee-security.org/TC/EuroSP2020/">EuroS&P'20</a>, and <a href="https://www.sigsac.org/ccs/CCS2019/">CCS'19</a>
 - Invited speaker of <a href="https://infsec.ethz.ch/talks2024.html">ETH Information Security Talks</a> and research visitor hosted by <a href="https://people.inf.ethz.ch/basin/">David Basin</a>, February 2024
 - Invited speaker of <a href="https://team.inria.fr/splits/team-seminars/">Inria SPLiTS Seminars</a> and research visitor hosted by <a href="https://www-sop.inria.fr/members/Tamara.Rezk/">Tamara Rezk</a>, February 2024
