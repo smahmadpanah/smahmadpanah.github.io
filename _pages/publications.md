@@ -28,6 +28,24 @@ author_profile: true
 
 <ol reversed>
 
+<div id="8">
+<li> <b>Language-Based Security and Privacy in Web-driven Systems</b>, <em>PhD thesis</em>, 2024 [<a href="/papers/thesis-ahmadpanah.pdf">pdf</a>] [<a href="https://research.chalmers.se/publication/542268">link</a>] [<a href="https://">video</a>]
+  <br>Supervisor: Andrei Sabelfeld, Co-supervisor: Daniel Hedin, Opponent: Deian Stefan, Examiner: David Sands, Grading committee: Benjamin Nguyen, Melek Önen, Simin Nadjm-Tehrani, and Magnus Almgren
+<div class='button' data-content="toggle-text"><a href="#8">abstract</a></div>
+<div class='abstract'>
+Modular programming is a core principle in software development, which demands reducing design complexity through independent code modules. A prime example of modular programming is systems offering various services and applications accessible through the web. Their complex nature, heavy dependence on third-party modules, and large user base call for principled approaches to user security and privacy.
+<p style="margin-top: -0.1%;">
+This thesis focuses on securing web-driven systems, practically targeting Trigger-Action Platforms (TAPs) and browser extensions. Both increasingly popular systems empower users to develop and publish applications that enhance digital lives through smart automation and personalized web browsing, respectively.
+</p>
+<p style="margin-top: -2.5%;">
+Our approach to software security and privacy is through the lens of programming-language techniques. We identify vulnerabilities in popular TAP applications and prevent malicious behavior by sandboxing and fine-grained access control. To minimize data access for TAPs with user-configured applications, we also present a construction-by-design paradigm for on-demand data minimization using lazy computation.
+</p>
+<p style="margin-top: -2.5%;">
+Besides access control and minimization, we study how sensitive information is processed once access is granted, using information-flow analysis. We identify privacy risks in browser extensions, such as exfiltration of cookies and browsing history over the network. We develop a static analysis framework to track flows from user-sensitive data to network requests in browser extensions. Moreover, we revisit information-flow policies that are not necessarily transitive, supporting coarse-grained policies where security labels are specified at the level of modules. We leverage flow-sensitive type systems to enforce granular security in module-based systems.
+</p>
+</div></li></div>
+
+
 <div id="7">
 <li> <b>LazyTAP: On-Demand Data Minimization for Trigger-Action Applications</b>, <em><a href="https://www.ieee-security.org/TC/SP2023/program-papers.html">S&P'23</a></em> [<a href="/papers/sp23.pdf">pdf</a>] [<a href="https://www.cse.chalmers.se/research/group/security/lazytap/">link</a>] [<a href="https://www.youtube.com/watch?v=TQI11hNE2KA">teaser</a>] [<a href="https://www.youtube.com/watch?v=oeevmnJIcRI">video</a>] [<a href="/papers/ccs23-poster.pdf">flyer</a>]
 <br><i>Mohammad M. Ahmadpanah</i>, Daniel Hedin, and Andrei Sabelfeld
@@ -37,7 +55,7 @@ Trigger-Action Platforms (TAPs) empower applications (apps) for connecting other
 </div></li></div>
 
 <div id="6">
-<li> <b>Securing Software in the Presence of Third-Party Modules</b>, <em>Licentiate thesis</em>, 2021 [<a href="/papers/licentiate.pdf">pdf</a>] [<a href="https://research.chalmers.se/en/publication/525880">link</a>] [<a href="https://youtu.be/0Mdj-sNxqXU">video</a>]
+<li> <b>Securing Software in the Presence of Third-Party Modules</b>, <em>Licentiate thesis</em>, 2021 [<a href="/papers/licentiate-ahmadpanah.pdf">pdf</a>] [<a href="https://research.chalmers.se/en/publication/525880">link</a>] [<a href="https://youtu.be/0Mdj-sNxqXU">video</a>]
   <br>Supervisor: Andrei Sabelfeld, Co-supervisor: Daniel Hedin, Opponent: Deian Stefan, Examiner: David Sands
 <div class='button' data-content="toggle-text"><a href="#6">abstract</a></div>
 <div class='abstract'>

@@ -41,9 +41,11 @@ function toggle_visibility(id) {
 
 <a href="/publications" class='header-color'>Publications</a>
 ----
+0. **Language-Based Security and Privacy in Web-driven Systems**, *PhD thesis*, 2024 [[pdf](papers/thesis-ahmadpanah.pdf)] [[video](https://)]
+<br>Supervisor: Andrei Sabelfeld, Co-supervisor: Daniel Hedin, Opponent: Deian Stefan, Examiner: David Sands, Grading committee: Benjamin Nguyen, Melek Önen, Simin Nadjm-Tehrani, and Magnus Almgren
 0. **LazyTAP: On-Demand Data Minimization for Trigger-Action Applications**, *S&P'23* [[pdf](papers/sp23.pdf)] [[teaser](https://www.youtube.com/watch?v=TQI11hNE2KA)] [[flyer](papers/ccs23-poster.pdf)] [[video](https://www.youtube.com/watch?v=oeevmnJIcRI)]
 <br><i>Mohammad M. Ahmadpanah</i>, Daniel Hedin, and Andrei Sabelfeld
-0. **Securing Software in the Presence of Third-Party Modules**, *Licentiate thesis*, 2021 [[pdf](papers/licentiate.pdf)] [[video](https://youtu.be/0Mdj-sNxqXU)]
+0. **Securing Software in the Presence of Third-Party Modules**, *Licentiate thesis*, 2021 [[pdf](papers/licentiate-ahmadpanah.pdf)] [[video](https://youtu.be/0Mdj-sNxqXU)]
 <br>Supervisor: Andrei Sabelfeld, Co-supervisor: Daniel Hedin, Opponent: Deian Stefan, Examiner: David Sands
 0. **Securing Node-RED Applications**, *Protocols, Strands, and Logic: Festschrift in honor of Joshua Guttman'21* [[pdf](/papers/joshua21.pdf)] [[video](https://youtu.be/0qKo0hNt2Ek)]
 <br><i>Mohammad M. Ahmadpanah</i>, Musard Balliu, Daniel Hedin, Lars Eric Olsson, and Andrei Sabelfeld
@@ -90,7 +92,7 @@ function toggle_visibility(id) {
 <a href="/honors" class='header-color'>Honors and Activities</a>
 ----
 - Program Committee member of <a href="https://plas24.github.io/">PLAS'24</a> and <a href="https://fcs-workshop.github.io/fcs2024/">FCS'24</a>
-- External Reviewer of the top-tier conferences <a href="https://www.ieee-security.org/TC/SP2024/">S&P'24</a>, <a href="https://www.usenix.org/conference/usenixsecurity24">USENIX Security'24</a>, <a href="https://www2024.thewebconf.org/">WWW'24</a>, <a href="https://www.sigsac.org/ccs/CCS2023/">CCS'23</a>, <a href="https://www.usenix.org/conference/usenixsecurity23">USENIX Security'23</a>, <a href="https://www.ieee-security.org/TC/CSF2022/">CSF'22</a>, <a href="http://www.ieee-security.org/TC/EuroSP2022/">EuroS&P'22</a>, <a href="https://www.ieee-security.org/TC/SP2021/">S&P'21</a>, <a href="https://www.ieee-security.org/TC/CSF2020/">CSF'20</a>, <a href="http://www.ieee-security.org/TC/EuroSP2020/">EuroS&P'20</a>, and <a href="https://www.sigsac.org/ccs/CCS2019/">CCS'19</a>
+- External Reviewer of the top-tier conferences <a href="https://www.ieee-security.org/TC/SP2025/">S&P'25</a>, <a href="https://www.ieee-security.org/TC/SP2024/">S&P'24</a>, <a href="https://www.usenix.org/conference/usenixsecurity24">USENIX Security'24</a>, <a href="https://www2024.thewebconf.org/">WWW'24</a>, <a href="https://www.sigsac.org/ccs/CCS2023/">CCS'23</a>, <a href="https://www.usenix.org/conference/usenixsecurity23">USENIX Security'23</a>, <a href="https://www.ieee-security.org/TC/CSF2022/">CSF'22</a>, <a href="http://www.ieee-security.org/TC/EuroSP2022/">EuroS&P'22</a>, <a href="https://www.ieee-security.org/TC/SP2021/">S&P'21</a>, <a href="https://www.ieee-security.org/TC/CSF2020/">CSF'20</a>, <a href="http://www.ieee-security.org/TC/EuroSP2020/">EuroS&P'20</a>, and <a href="https://www.sigsac.org/ccs/CCS2019/">CCS'19</a>
 - Invited speaker of <a href="https://infsec.ethz.ch/talks2024.html">ETH Information Security Talks</a> and research visitor hosted by <a href="https://people.inf.ethz.ch/basin/">David Basin</a>, February 2024
 - Invited speaker of <a href="https://team.inria.fr/splits/team-seminars/">Inria SPLiTS Seminars</a> and research visitor hosted by <a href="https://www-sop.inria.fr/members/Tamara.Rezk/">Tamara Rezk</a>, February 2024
 - Speaker and research visitor at <a href="https://aut.ac.ir/en">Amirkabir (Tehran Polytechnic)</a> and <a href="https://en.sharif.edu/">Sharif</a> universities, January 2024
