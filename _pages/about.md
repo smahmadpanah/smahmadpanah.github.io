@@ -41,7 +41,7 @@ function toggle_visibility(id) {
 
 <a href="/publications" class='header-color'>Publications</a>
 ----
-0. **Language-Based Security and Privacy in Web-driven Systems**, *PhD thesis*, 2024 [[pdf](papers/thesis-ahmadpanah.pdf)] [[video](https://)]
+0. **Language-Based Security and Privacy in Web-driven Systems**, *PhD thesis*, 2024 [[pdf](papers/phd-ahmadpanah.pdf)] [[video](https://www.youtube.com/watch?v=hdjtrhiDV8E)] [[slides](files/phd-presentation.pdf)]
 <br>Supervisor: Andrei Sabelfeld, Co-supervisor: Daniel Hedin, Opponent: Deian Stefan, Examiner: David Sands, Grading committee: Benjamin Nguyen, Melek Önen, Simin Nadjm-Tehrani, and Magnus Almgren
 0. **LazyTAP: On-Demand Data Minimization for Trigger-Action Applications**, *S&P'23* [[pdf](papers/sp23.pdf)] [[teaser](https://www.youtube.com/watch?v=TQI11hNE2KA)] [[flyer](papers/ccs23-poster.pdf)] [[video](https://www.youtube.com/watch?v=oeevmnJIcRI)]
 <br><i>Mohammad M. Ahmadpanah</i>, Daniel Hedin, and Andrei Sabelfeld
