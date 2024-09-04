@@ -29,7 +29,7 @@ author_profile: true
 <ol reversed>
 
 <div id="8">
-<li> <b>Language-Based Security and Privacy in Web-driven Systems</b>, <em>PhD thesis</em>, 2024 [<a href="/papers/phd-ahmadpanah.pdf">pdf</a>] [<a href="https://research.chalmers.se/publication/542268">link</a>] [<a href="https://www.youtube.com/watch?v=hdjtrhiDV8E">video</a>] [<a href="files/phd-presentation.pdf">slides</a>]
+<li> <b>Language-Based Security and Privacy in Web-driven Systems</b>, <em>PhD thesis</em>, 2024 [<a href="/papers/phd-ahmadpanah.pdf">pdf</a>] [<a href="https://research.chalmers.se/publication/542268">link</a>] [<a href="https://www.youtube.com/watch?v=hdjtrhiDV8E">video</a>] [<a href="/files/phd-presentation.pdf">slides</a>]
   <br>Supervisor: Andrei Sabelfeld, Co-supervisor: Daniel Hedin, Opponent: Deian Stefan, Examiner: David Sands, Grading committee: Benjamin Nguyen, Melek Önen, Simin Nadjm-Tehrani, and Magnus Almgren
 <div class='button' data-content="toggle-text"><a href="#8">abstract</a></div>
 <div class='abstract'>
