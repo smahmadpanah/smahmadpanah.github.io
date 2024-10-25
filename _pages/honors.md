@@ -18,6 +18,8 @@ author_profile: true
 
 <li><b>Invited speaker</b> of <a href="https://team.inria.fr/splits/team-seminars/">Inria SPLiTS Seminars</a> and research visitor hosted by <a href="https://www-sop.inria.fr/members/Tamara.Rezk/">Tamara Rezk</a>, February 2024.</li>
 
+<li><b>Speaker</b> at <a href="https://www.cse.chalmers.se/research/group/security/cybersecit/">CyberSecIT</a> and <a href="https://shiftleft.proj.kth.se/Workshop/KickOff.html">ShiftLeft</a> workshops, 2024. </li>
+
 <li><b>Speaker</b> and research visitor at <a href="https://aut.ac.ir/en">Amirkabir (Tehran Polytechnic)</a> and <a href="https://en.sharif.edu/">Sharif</a> universities, January 2024.</li>
 
 <li>Rewarded <b>Bug Bounties</b> for responsibly disclosing Code Injection and JS Sandbox Breakout vulnerabilities  on <a href="https://ifttt.com/">IFTTT</a>, in collaboration with Daniel Hedin and Andrei Sabelfeld, 2020 and 2023.</li>
