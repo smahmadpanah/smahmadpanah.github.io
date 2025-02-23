@@ -41,6 +41,8 @@ function toggle_visibility(id) {
 
 <a href="/publications" class='header-color'>Publications</a>
 ----
+0. **CodeX: Contextual Flow Tracking for Browser Extensions**, *CODASPY'25* [[pdf](papers/codaspy25.pdf)]
+<br><i>Mohammad M. Ahmadpanah</i>, Matías F. Gobbi, Daniel Hedin, Johannes Kinder, and Andrei Sabelfeld
 0. **Language-Based Security and Privacy in Web-driven Systems**, *PhD thesis*, 2024 [[pdf](papers/phd-ahmadpanah.pdf)] [[video](https://www.youtube.com/watch?v=hdjtrhiDV8E)] [[slides](files/phd-presentation.pdf)]
 <br>Supervisor: Andrei Sabelfeld, Co-supervisor: Daniel Hedin, Opponent: Deian Stefan, Examiner: David Sands, Grading committee: Benjamin Nguyen, Melek Önen, Simin Nadjm-Tehrani, and Magnus Almgren
 0. **LazyTAP: On-Demand Data Minimization for Trigger-Action Applications**, *S&P'23* [[pdf](papers/sp23.pdf)] [[teaser](https://www.youtube.com/watch?v=TQI11hNE2KA)] [[flyer](papers/ccs23-poster.pdf)] [[video](https://www.youtube.com/watch?v=oeevmnJIcRI)]
@@ -106,7 +108,7 @@ function toggle_visibility(id) {
 - Short talk speaker at <a href="https://www.ieee-security.org/TC/CSF2020/">CSF'20</a> and <a href="https://csf2023.ieee-security.org/">CSF'23</a>
 - Invited speaker of <a href="https://www.csc.kth.se/tcs/seminars/seminars.html">KTH Security and Theoretical CS Seminars</a> and research visitor hosted by Musard Balliu, February 2023
 - Research visitor at <a href="https://www.mdu.se/en/malardalen-university">Mälardalen University</a>, hosted by Daniel Hedin, September and October 2023 
-- Co-Organizer of <a href="https://www.cse.chalmers.se/research/group/security/event/">Chalmers Security & Privacy Seminars</a>, Chalmers, since September 2022
+- Co-Organizer of <a href="https://www.cse.chalmers.se/research/group/security/event/">Chalmers Security & Privacy Seminars</a>, Chalmers, September 2022 - December 2024
 - PhD Forum Speaker at <a href="https://sites.google.com/uniurb.it/fosad/home/fosad-2022/program">FOSAD'22</a>
 - Session Chair and Speaker at <a href="https://swits.hotell.kau.se/AnnualSeminars/SWITS_2022/SWITS2022_programme.htm">SWITS'22</a>
 - Fellow of Student Activities committee (2022-2023) and Member of <a href="https://www.isee.ir/en">The Iranian Society of Engineering Education</a>, since 2020

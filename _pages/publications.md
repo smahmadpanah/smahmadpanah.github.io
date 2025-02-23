@@ -28,6 +28,14 @@ author_profile: true
 
 <ol reversed>
 
+<div id="9">
+<li> <b>CodeX: Contextual Flow Tracking for Browser Extensions</b>, <em><a href="https://www.codaspy.org/2025/accepted.html">CODASPY'25</a></em> [<a href="/papers/codaspy25.pdf">pdf</a>] [<a href="">link</a>] 
+<br><i>Mohammad M. Ahmadpanah</i>, Matías F. Gobbi, Daniel Hedin, Johannes Kinder, and Andrei Sabelfeld
+<div class='button' data-content="toggle-text"><a href="#9">abstract</a></div>
+<div class='abstract'>
+Browser extensions put millions of users at risk when misusing their elevated privileges. Despite the current practices of semi-automated code vetting, privacy-violating extensions still thrive in the official stores. We propose an approach for tracking contextual flows from browser-specific sensitive sources like cookies, browsing history, bookmarks, and search terms to suspicious network sinks through network requests. We demonstrate the effectiveness of the approach by a prototype called CodeX that leverages the power of CodeQL while breaking away from the conservativeness of bug-finding flavors of the traditional CodeQL taint analysis. Applying CodeX to the extensions published on the Chrome Web Store between March 2021 and March 2024 identified 1,588 extensions with risky flows. Manual verification of 339 of those extensions resulted in flagging 212 as privacy-violating, impacting up to 3.6M users.
+</div></li></div>
+
 <div id="8">
 <li> <b>Language-Based Security and Privacy in Web-driven Systems</b>, <em>PhD thesis</em>, 2024 [<a href="/papers/phd-ahmadpanah.pdf">pdf</a>] [<a href="https://research.chalmers.se/publication/542268">link</a>] [<a href="https://www.youtube.com/watch?v=hdjtrhiDV8E">video</a>] [<a href="/files/phd-presentation.pdf">slides</a>]
   <br>Supervisor: Andrei Sabelfeld, Co-supervisor: Daniel Hedin, Opponent: Deian Stefan, Examiner: David Sands, Grading committee: Benjamin Nguyen, Melek Önen, Simin Nadjm-Tehrani, and Magnus Almgren

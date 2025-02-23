@@ -39,7 +39,7 @@ author_profile: true
 
 <li><b>Recipient</b> of the <a href="http://adlerbertska.se/en/hospitality/the-foundation/">Adlerbert Foreign Student Hospitality Foundation</a> scholarship, 2021, 2022, 2023, and 2024.</li>
 
-<li><b>Co-Organizer</b> of <a href="https://www.cse.chalmers.se/research/group/security/event/">Chalmers Security & Privacy Seminars</a>, Chalmers, since September 2022.</li>
+<li><b>Co-Organizer</b> of <a href="https://www.cse.chalmers.se/research/group/security/event/">Chalmers Security & Privacy Seminars</a>, Chalmers, September 2022 - December 2024.</li>
 
 <li><b>PhD Forum Speaker</b> at <a href="https://sites.google.com/uniurb.it/fosad/home/fosad-2022/program">FOSAD'22</a>.</li> 
 
