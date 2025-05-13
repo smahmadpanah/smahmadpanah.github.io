@@ -19,7 +19,8 @@ and [Daniel&nbsp;Hedin](https://www.chalmers.se/en/persons/utter/) in August 202
 Earlier in my academic journey, I lived at [Amirkabir (Tehran Polytechnic)](https://aut.ac.ir/en) for 8 years (BSc in Software Engineering, MSc in Information Security, and PhD candidate in Software Engineering), all supervised by [Mehran&nbsp;S.&nbsp;Fallah](https://aut.ac.ir/cv/2366/MEHRANS.-FALLAH). Since then, I have been pursuing my passion for:
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
 <li> Language-Based Security</li>
-<li> Formal Methods for Information Security</li>
+<!-- <li> Formal Methods for Information Security</li> -->
+<li> Program Analysis</li>
 <li> Information-Flow Security</li>
 <li> Programming Languages</li>
 </ul>
