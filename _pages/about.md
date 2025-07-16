@@ -69,6 +69,11 @@ function toggle_visibility(id) {
 
 <a href="/teaching"  class='header-color'>Teaching</a>
 ----
+### KTH:
+<ul class='twocol' markdown='1'>
+<li>Language-Based Security (<i style='font-size: 0.8em;'>Graduate</i>)</li>
+</ul>
+
 ### Chalmers:
 <ul class='twocol' markdown='1'>
 <li>Master's thesis supervision (<i style='font-size: 0.8em;'>Securing Electronic Exam Environments</i>)</li>

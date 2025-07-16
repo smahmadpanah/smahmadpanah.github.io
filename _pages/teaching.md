@@ -8,6 +8,9 @@ author_profile: true
 
 I *love* teaching and I've been passionately doing it since I was 12 in high school. Here are my academic experiences:
 
+## KTH:
+- [Language-Based Security (DD2525)](https://www.kth.se/student/kurser/kurs/DD2525?l=en), by [Musard Balliu](https://people.kth.se/~musard/), Spring 2025
+
 ## Chalmers:
 - Master's thesis supervision: Securing Electronic Exam Environments, [Daniel Cronqvist](https://www.linkedin.com/in/dcronqvist) and [Saga Kortesaari](https://www.linkedin.com/in/saga-kortesaari/), October 2022 - June 2023
 - [Language-Based Security (TDA602/DIT101)](https://www.student.chalmers.se/sp/course?course_id=33174), by [Andrei Sabelfeld](https://www.cse.chalmers.se/~andrei/), Spring 2020, Spring 2021, Spring 2022, Spring 2023, Spring 2024
