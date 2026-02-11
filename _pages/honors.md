@@ -61,17 +61,6 @@ author_profile: true
 <li>Honored as the <b>Best Teaching Assistant</b> of Computer Engineering Department, according to the student evaluation for <em>Discrete Mathematics</em> (Spring
 2017 and Spring 2019) and <em>Data Structures</em> (Fall 2017) courses, Amirkabir.</li>
 
-<!--<li><b>Technical Referee</b> and <b>Consultant</b> in Web Application Security, <a href="https://kolahsefid.org/">Kolah Sefid</a> (Bug Bounty Platform), September 2018 - July 2019.</li>-->
-
-
-<!--<li><b>Security Consultant</b> and Provider of Security Protection Profiles, <a href="http://knsecure.com/">Kahkeshan Moshaver</a>, June 2018 - July 2019.
-</li>-->
-
-<!--<li>Web Application <b>Security Tester</b>, <b>Developer</b> and <b>Instructor</b>, 
-<a href="https://apa.aut.ac.ir/">AUT CERT Lab</a>, Summer 2015 and September 2018 - July 2019.
-</li>-->
-
-
 <li>Ranked top <b>3%</b> among <em>Course Responsibles</em> of all departments of the university (830 lecturers), according to the student evaluation for teaching Advanced Programming,
 Amirkabir, Spring 2018.</li>
 
