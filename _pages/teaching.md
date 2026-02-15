@@ -9,6 +9,8 @@ author_profile: true
 I *love* teaching and I've been passionately doing it since I was 12 in high school. Here are my academic experiences:
 
 ## KTH:
+- PhD co-supervision: [SiKai Lu](https://www.linkedin.com/in/sikai-lu-75ab2a224/), January 2025 - now
+- Master's thesis supervision: Improving Call Graph-based Javascript Application Vulnerability Scanning Through Taint Analysis, [Fredrik Gölman], January 2025 - now
 - [Language-Based Security (DD2525)](https://www.kth.se/student/kurser/kurs/DD2525?l=en), by [Musard Balliu](https://people.kth.se/~musard/), Spring 2025, Spring 2026
 - [Computer Security (DD2395)](https://www.kth.se/student/kurser/kurs/DD2395?l=en), by [Musard Balliu](https://people.kth.se/~musard/), Fall 2025
 

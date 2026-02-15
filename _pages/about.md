@@ -71,6 +71,8 @@ function toggle_visibility(id) {
 ----
 ### KTH:
 <ul class='twocol' markdown='1'>
+<li>PhD co-supervision (<i style='font-size: 0.8em;'>Differential Vulnerability Analysis On Programs</i>)</li>
+<li>Master's thesis supervision (<i style='font-size: 0.8em;'>Improving Call Graph-based Javascript Application Vulnerability Scanning Through Taint Analysis</i>)</li>
 <li>Language-Based Security (<i style='font-size: 0.8em;'>Graduate</i>)</li>
 <li>Computer Security (<i style='font-size: 0.8em;'>Graduate</i>)</li>
 </ul>
