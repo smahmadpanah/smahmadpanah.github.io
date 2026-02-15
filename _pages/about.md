@@ -69,7 +69,7 @@ function toggle_visibility(id) {
 
 <a href="/teaching"  class='header-color'>Teaching</a>
 ----
-### KTH:
+### KTH
 <ul class='twocol' markdown='1'>
 <li>PhD co-supervision (<i style='font-size: 0.8em;'>Differential Vulnerability Analysis on Programs</i>)</li>
 <li>Master's thesis supervision (<i style='font-size: 0.8em;'>Improving Call Graph-based Javascript Application Vulnerability Scanning Through Taint Analysis</i>)</li>
@@ -77,7 +77,7 @@ function toggle_visibility(id) {
 <li>Computer Security (<i style='font-size: 0.8em;'>Graduate</i>)</li>
 </ul>
 
-### Chalmers:
+### Chalmers
 <ul class='twocol' markdown='1'>
 <li>Master's thesis supervision (<i style='font-size: 0.8em;'>Securing Electronic Exam Environments</i>)</li>
 <li>Language-Based Security (<i style='font-size: 0.8em;'>Graduate</i>)</li>
@@ -85,7 +85,7 @@ function toggle_visibility(id) {
 <li>Programming Language Technology (<i style='font-size: 0.8em;'>Graduate</i>)</li>
 </ul>
 
-### Amirkabir: 
+### Amirkabir 
 <ul class='twocol' markdown='1'>
 <li> Advanced Programming (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
 <li> Operating Systems Lab (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
@@ -102,13 +102,13 @@ function toggle_visibility(id) {
 
 <a href="/honors" class='header-color'>Honors and Activities</a>
 ----
-<h4>Professional Activities</h4>
+### Professional Activities
 - Program Committee member of <a href="https://conf.researchr.org/home/secdev-2026">SecDev'26</a>, <a href="https://pstnet.ca/">PST'26</a>, <a href="https://plas24.github.io/">PLAS'24</a>, and <a href="https://fcs-workshop.github.io/fcs2024/">FCS'24</a>
 - External Reviewer of the top-tier conferences and workshops <a href="https://www.sigsac.org/ccs/CCS2026/">CCS'26</a>, <a href="https://www.usenix.org/conference/usenixsecurity26">USENIX Security'26</a>, <a href="https://csf2026.ieee-security.org/">CSF'26</a>, <a href="https://www.sigsac.org/ccs/CCS2025/">CCS'25</a>, <a href="https://www.usenix.org/conference/usenixsecurity25">USENIX Security'25</a>, <a href="https://www.ieee-security.org/TC/SP2025/">S&P'25</a>, <a href="https://www2025.thewebconf.org/">WWW'25</a>, <a href="https://madweb.work/">MADWeb'25</a>, <a href="https://www.ieee-security.org/TC/SP2024/">S&P'24</a>, <a href="https://www.usenix.org/conference/usenixsecurity24">USENIX Security'24</a>, <a href="https://www2024.thewebconf.org/">WWW'24</a>, <a href="https://www.sigsac.org/ccs/CCS2023/">CCS'23</a>, <a href="https://www.usenix.org/conference/usenixsecurity23">USENIX Security'23</a>, <a href="https://www.ieee-security.org/TC/CSF2022/">CSF'22</a>, <a href="http://www.ieee-security.org/TC/EuroSP2022/">EuroS&P'22</a>, <a href="https://www.ieee-security.org/TC/SP2021/">S&P'21</a>, <a href="https://www.ieee-security.org/TC/CSF2020/">CSF'20</a>, <a href="http://www.ieee-security.org/TC/EuroSP2020/">EuroS&P'20</a>, and <a href="https://www.sigsac.org/ccs/CCS2019/">CCS'19</a>
 - Artifact Evaluation Committee member of <a href="https://tacas.info/artifacts-25.php">TACAS'25</a>
 - Co-Organizer of <a href="https://www.cse.chalmers.se/research/group/security/event/">Chalmers Security & Privacy Seminars</a>, Chalmers, September 2022 - December 2024
 
-<h4>Research Visits</h4>
+### Research Visits
 - Invited speaker of <a href="https://www.cse.chalmers.se/research/group/security/event/">Chalmers Security & Privacy Seminars</a> and research visitor hosted by <a href="https://www.cse.chalmers.se/~andrei/">Andrei Sabelfeld</a>, May 2025
 - Invited speaker of <a href="https://infsec.ethz.ch/talks2024.html">ETH Information Security Talks</a> and research visitor hosted by <a href="https://people.inf.ethz.ch/basin/">David Basin</a>, February 2024
 - Research visitor at <a href="https://research.google/">Google Zurich</a> hosted by <a href="https://www.linkedin.com/in/santiago-sal-diaz-9b562ab2/">Santiago Diaz</a>, February 2024
@@ -117,7 +117,7 @@ function toggle_visibility(id) {
 - Invited speaker of <a href="https://www.csc.kth.se/tcs/seminars/seminars.html">KTH Security and Theoretical CS Seminars</a> and research visitor hosted by Musard Balliu, February 2023
 - Research visitor at <a href="https://www.mdu.se/en/malardalen-university">Mälardalen University</a>, hosted by Daniel Hedin, September and October 2023 
 
-<h4>Talks</h4>
+### Talks
 - Speaker at <a href="https://shiftleft.proj.kth.se/Workshop/SecondWorkshop/SecondWorkshop.html">ShiftLeft</a> workshop, 2025 
 - Speaker at <a href="https://www.cse.chalmers.se/research/group/security/cybersecit/">CyberSecIT</a> and <a href="https://shiftleft.proj.kth.se/Workshop/KickOff.html">ShiftLeft</a> workshops, 2024 
 - Poster presenter and participant of <a href="https://www.sigsac.org/ccs/CCS2023/">CCS'23</a>, November 2023
@@ -128,7 +128,7 @@ function toggle_visibility(id) {
 - Session Chair and Speaker at <a href="https://swits.hotell.kau.se/AnnualSeminars/SWITS_2022/SWITS2022_programme.htm">SWITS'22</a>
 - Poster presenter and participant of <a href="https://sites.google.com/google.com/compiler-summit-2019/faculty-attendees?authuser=0">Google Compiler and Programming Language Summit</a>, December 2019
 
-<h4>Honors</h4>
+### Honors
 - Member of <a href="https://github.com/KTH-LangSec">LangSec</a> group, January 2025 - now
 - Recipient of the Adlerbert Foreign Student Hospitality Foundation scholarship, 2021, 2022, 2023, and 2024
 - Rewarded Bug Bounties for responsibly disclosing Code Injection and JS Sandbox Breakout vulnerabilities  on <a href="https://ifttt.com/">IFTTT</a>, 2020 and 2023
