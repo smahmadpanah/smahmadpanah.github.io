@@ -14,7 +14,11 @@ author_profile: true
 
 <li><b>Artifact Evaluation Committee member</b> of <a href="https://tacas.info/artifacts-25.php">TACAS'25</a>.</li>
 
+<li><b>Invited speaker</b> of <a href="https://www.cse.chalmers.se/research/group/security/event/">Chalmers Security & Privacy Seminars</a> and research visitor hosted by <a href="https://www.cse.chalmers.se/~andrei/">Andrei Sabelfeld</a>, May 2025.</li>
+
 <li><b>Invited speaker</b> of <a href="https://infsec.ethz.ch/talks2024.html">ETH Information Security Talks</a> and research visitor hosted by <a href="https://people.inf.ethz.ch/basin/">David Basin</a>, February 2024.</li>
+
+<li><b>Research visitor</b> at <a href="https://research.google/">Google Zurich</a> hosted by <a href="https://www.linkedin.com/in/santiago-sal-diaz-9b562ab2/">Santiago Diaz</a>, February 2024.</li>
 
 <li><b>Invited speaker</b> of <a href="https://team.inria.fr/splits/team-seminars/">Inria SPLiTS Seminars</a> and research visitor hosted by <a href="https://www-sop.inria.fr/members/Tamara.Rezk/">Tamara Rezk</a>, February 2024.</li>
 
