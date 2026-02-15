@@ -15,7 +15,7 @@ ul.twocol { width: 110%; }
 </style>
 
 **Hi!** This is Mohammad<sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, a postdoctoral researcher in Information&nbsp;Security at [KTH](https://www.kth.se/en) in Sweden, working with [Musard Balliu](https://people.kth.se/~musard/). Before joining KTH in January 2025, I was a postdoctoral researcher at [Chalmers](https://www.chalmers.se/en), where I also completed my PhD under the supervision of [Andrei&nbsp;Sabelfeld](https://www.cse.chalmers.se/~andrei/) 
-and [Daniel&nbsp;Hedin](https://www.chalmers.se/en/persons/utter/) in August 2024. 
+and [Daniel&nbsp;Hedin](https://www.mdu.se/en/malardalen-university/staff?id=dhn03) in August 2024. 
 Earlier in my academic journey, I lived at [Amirkabir (Tehran Polytechnic)](https://aut.ac.ir/en) for 8 years (BSc in Software Engineering, MSc in Information Security, and PhD candidate in Software Engineering), all supervised by [Mehran&nbsp;S.&nbsp;Fallah](https://aut.ac.ir/cv/2366/MEHRANS.-FALLAH). Since then, I have been pursuing my passion for:
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
 <li> Language-Based Security</li>
@@ -114,8 +114,8 @@ function toggle_visibility(id) {
 - Research visitor at <a href="https://research.google/">Google Zurich</a> hosted by <a href="https://www.linkedin.com/in/santiago-sal-diaz-9b562ab2/">Santiago Diaz</a>, February 2024
 - Invited speaker of <a href="https://team.inria.fr/splits/team-seminars/">Inria SPLiTS Seminars</a> and research visitor hosted by <a href="https://www-sop.inria.fr/members/Tamara.Rezk/">Tamara Rezk</a>, February 2024
 - Speaker and research visitor at <a href="https://aut.ac.ir/en">Amirkabir (Tehran Polytechnic)</a> and <a href="https://en.sharif.edu/">Sharif</a> universities, January 2024
-- Invited speaker of <a href="https://www.csc.kth.se/tcs/seminars/seminars.html">KTH Security and Theoretical CS Seminars</a> and research visitor hosted by Musard Balliu, February 2023
-- Research visitor at <a href="https://www.mdu.se/en/malardalen-university">Mälardalen University</a>, hosted by Daniel Hedin, September and October 2023 
+- Invited speaker of <a href="https://www.csc.kth.se/tcs/seminars/seminars.html">KTH Security and Theoretical CS Seminars</a> and research visitor hosted by <a href="https://people.kth.se/~musard/">Musard Balliu</a>, February 2023
+- Research visitor at <a href="https://www.mdu.se/en/malardalen-university">Mälardalen University</a>, hosted by <a href="https://www.mdu.se/en/malardalen-university/staff?id=dhn03">Daniel Hedin</a>, September and October 2023 
 
 ### Talks
 - Speaker at <a href="https://shiftleft.proj.kth.se/Workshop/SecondWorkshop/SecondWorkshop.html">ShiftLeft</a> workshop, 2025 

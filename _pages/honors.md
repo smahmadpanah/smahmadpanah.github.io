@@ -37,9 +37,9 @@ author_profile: true
 <li>Short talk <b>speaker</b> at <a href="https://www.ieee-security.org/TC/CSF2020/">CSF'20</a> and <a href="https://csf2023.ieee-security.org/">CSF'23</a>.</li>
 
 
-<li><b>Invited speaker</b> of <a href="https://www.csc.kth.se/tcs/seminars/seminars.html">KTH Security and Theoretical CS Seminars</a> and research visitor hosted by Musard Balliu, February 2023.</li>
+<li><b>Invited speaker</b> of <a href="https://www.csc.kth.se/tcs/seminars/seminars.html">KTH Security and Theoretical CS Seminars</a> and research visitor hosted by <a href="https://people.kth.se/~musard/">Musard Balliu</a>, February 2023.</li>
 
-<li><b>Research Visitor</b> at <a href="https://www.mdu.se/en/malardalen-university">Mälardalen University</a>, hosted by Daniel Hedin, September and October 2023.</li> 
+<li><b>Research Visitor</b> at <a href="https://www.mdu.se/en/malardalen-university">Mälardalen University</a>, hosted by <a href="https://www.mdu.se/en/malardalen-university/staff?id=dhn03">Daniel Hedin</a>, September and October 2023.</li> 
 
 <li><b>Recipient</b> of the <a href="http://adlerbertska.se/en/hospitality/the-foundation/">Adlerbert Foreign Student Hospitality Foundation</a> scholarship, 2021, 2022, 2023, and 2024.</li>
 
