@@ -126,6 +126,7 @@ include:
   - _pages
   - files
 exclude:
+  - old-webpage-feb2026
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
