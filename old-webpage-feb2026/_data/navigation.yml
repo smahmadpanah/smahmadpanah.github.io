@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Honors and Activities"
+    url: /honors/
+
+#  - title: "CV"
+#    url: /cv/
+
+#  - title: "Lecture Notes"
+#    url: /lecturenotes/
+
+#  - title: "Photos"
+#    url: /gothenburgwithme/
+
+  - title: "Others"
+    url: /others/  
