@@ -72,7 +72,7 @@
 
 html {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 18px;
+  font-size: 17px;
   line-height: 1.4;
   text-align: justify;
 }
@@ -109,7 +109,7 @@ a {
 
 p {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 18px;
+  font-size: 17px;
   line-height: 1.4;
   text-align: justify;
 }
@@ -132,7 +132,7 @@ p {
 
 strong {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 18px;
+  font-size: 17px;
 }
 
 h2 {
@@ -158,7 +158,7 @@ h2 {
 }
 
 .name {
-  padding-top: 20px;
+  padding-top: 0px;
   margin: 0;
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 32px;
@@ -231,4 +231,59 @@ button:hover {
 
 .highlight {
   color: #c11562;
+}
+
+/* Default (desktop): normal table layout */
+.profile-container {
+  text-align: center;
+}
+
+/* Profile image responsive sizing */
+.profile-pic {
+  width: clamp(180px, 25vw, 280px);
+  height: auto;
+  border-radius: 8%;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.4);
+  display: block;
+  margin: 0 auto;
+}
+
+/* ===== Mobile layout for the top section only ===== */
+@media (max-width: 768px) {
+
+  /* Target ONLY the first inner table row */
+  table:first-of-type table:first-of-type tr {
+    display: flex;
+    flex-direction: column;
+  }
+
+  table:first-of-type table:first-of-type td {
+    width: 100% !important;
+  }
+
+  .profile-container {
+    order: -1;
+    /* Move image to top */
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+}
+
+/* * {
+  outline: 1px solid red;
+} */
+
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+td {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
