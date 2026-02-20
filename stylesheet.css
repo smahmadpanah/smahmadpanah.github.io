@@ -119,7 +119,7 @@ p {
 }
 
 .twocol {
-  column-count: 2;
+  column-count: 4;
   column-gap: 20px;
 }
 
@@ -244,7 +244,7 @@ button:hover {
   border-radius: 8%;
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.4);
   display: block;
-  margin: 0 auto;
+  margin: auto;
 }
 
 /* ===== Mobile layout for the top section only ===== */
@@ -287,9 +287,12 @@ table {
 
 /* Make inner TDs not overflow */
 td {
-  padding-left: 20px;
-  padding-right: 20px;
   box-sizing: border-box;
+}
+
+.section-td {
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 @media (max-width: 768px) {
@@ -303,4 +306,16 @@ td {
 img {
   max-width: 100%;
   height: auto;
+}
+
+.section-head-table {
+  width: 100%;
+  border-collapse: separate;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.section-content-table {
+  width: 100%;
+  margin: auto;
 }
