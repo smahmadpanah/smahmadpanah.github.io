@@ -194,10 +194,6 @@ h2 {
   -webkit-transition: opacity .2s ease-in-out;
 }
 
-/* span.highlight {
-  background-color: #ffffd0;
-} */
-
 .colored-box {
   color: black;
   padding: 20px;
@@ -230,7 +226,10 @@ button:hover {
 }
 
 .highlight {
-  color: #c11562;
+  /* color: #c11562; */
+  /* color: #08a21f; */
+  color: #a80101;
+  /* background-color: #ffffd0; */
 }
 
 /* Default (desktop): normal table layout */
