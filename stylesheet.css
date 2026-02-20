@@ -279,8 +279,26 @@ body {
   overflow-x: hidden;
 }
 
-td {
+table {
+  border-collapse: collapse;
+  /* avoids extra spacing */
+  width: 100%;
   box-sizing: border-box;
+}
+
+/* Make inner TDs not overflow */
+td {
+  padding-left: 20px;
+  padding-right: 20px;
+  box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+  td>table {
+    width: calc(100% - 40px);
+    /* subtract left+right padding */
+    margin: 0 auto;
+  }
 }
 
 img {
