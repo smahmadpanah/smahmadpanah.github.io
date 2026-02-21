@@ -74,7 +74,7 @@ html {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 17px;
   line-height: 1.4;
-  text-align: justify;
+  /* text-align: justify; */
 }
 
 blockquote {
@@ -84,7 +84,7 @@ blockquote {
   border-left: 5px solid #c1c1c1;
   border-right: 5px solid #c1c1c1;
   border-radius: 14px;
-  text-align: justify;
+  /* text-align: justify; */
   /* font-style: italic; */
 }
 
@@ -111,7 +111,7 @@ p {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 17px;
   line-height: 1.4;
-  text-align: justify;
+  /* text-align: justify; */
 }
 
 .li-paper {
