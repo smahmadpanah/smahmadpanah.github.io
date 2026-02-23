@@ -239,7 +239,7 @@ button:hover {
 
 /* Profile image responsive sizing */
 .profile-pic {
-  width: clamp(180px, 25vw, 280px);
+  width: clamp(180px, 25vw, 230px);
   height: auto;
   border-radius: 8%;
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.4);
@@ -274,8 +274,19 @@ button:hover {
 
 html,
 body {
-  max-width: 100%;
+  max-width: 90%;
   overflow-x: hidden;
+  margin: auto;
+}
+
+@media (max-width: 768px) {
+
+  html,
+  body {
+    max-width: 100%;
+    /* subtract left+right padding */
+    margin: 0 auto;
+  }
 }
 
 table {
