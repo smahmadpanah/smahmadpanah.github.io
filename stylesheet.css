@@ -130,6 +130,13 @@ p {
   margin-top: 20px;
 }
 
+.stat {
+  font-size: 12px;
+  color: #666;
+  text-align: center;
+  margin-top: 5px;
+}
+
 strong {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 17px;
@@ -222,6 +229,18 @@ button:hover {
 
 .button-fullname:focus,
 .button-fullname:hover {
+  text-decoration: none;
+}
+
+.button-stat {
+  cursor: pointer;
+  display: inline;
+  color: #156bc1;
+  text-decoration: none;
+}
+
+.button-stat:focus,
+.button-stat:hover {
   text-decoration: none;
 }
 

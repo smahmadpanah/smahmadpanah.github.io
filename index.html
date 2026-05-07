@@ -45,6 +45,7 @@
   </script>
 
 
+
   <!-- Default Statcounter code for smahmadpanah.github.io -->
   <script type="text/javascript">
     var sc_project = 9517515;
@@ -61,11 +62,16 @@
 
   <script>
     $(document).ready(function () {
-      $(".fullname, .abstract").hide();
+      $(".fullname, .abstract, .stat").hide();
 
       $(".button-fullname").on("click", function (e) {
         e.preventDefault();
         $(this).closest("td").find(".fullname").slideToggle(400);
+      });
+
+      $(".button-stat").on("click", function (e) {
+        e.preventDefault();
+        $(this).closest("td").find(".stat").slideToggle(400);
       });
 
       $(".button").on("click", function (e) {
@@ -1467,7 +1473,8 @@
             (Last Update: <span class="last-commit"></span>) |
             <span> Template by <a href="https://github.com/jonbarron/jonbarron.github.io" rel="nofollow">Jon
                 Barron</a></span>
-                | <span>Site analytics by <a href="https://statcounter.com/about/set-refusal-cookie/">StatCounter</a></span>
+                | <span>Site analytics by <a class="button-stat">StatCounter</a>
+                <p class="stat" style="display: none;"><sup>I use <a href="http://statcounter.com/">Statcounter</a> to see general visitor trends such as links clicked and location. You can opt out <a href="https://statcounter.com/about/set-refusal-cookie/">here</a>.</span></sup></p>
           </footer>
           </div>
 </body>
